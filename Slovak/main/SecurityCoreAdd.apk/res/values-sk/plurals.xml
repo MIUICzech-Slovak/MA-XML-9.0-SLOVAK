@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fileCount">
+        <item quantity="other">Položiek: %d</item>
+        <item quantity="one">Položiek: %d</item>
+    </plurals>
+    <plurals name="first_space_notification_format">
+        <item quantity="other">%d upozornení v Primárnom profile</item>
+        <item quantity="one">%d upozornennie v Druhom profile</item>
+    </plurals>
+    <plurals name="second_space_notification_format">
+        <item quantity="other">%d upozornení v Primárnom profile</item>
+        <item quantity="one">%d upozornennie v Druhom profile</item>
+    </plurals>
+</resources>

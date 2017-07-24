@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="instruction_pre">Slúži k prenosu súborov medzi tabletom a PC pomocou FTP protokolu.</string>
+  <string name="my_bakup">Zálohy tabletu</string>
+  <string name="phone">Tablet</string>
+  <string name="tab_phone">Tablet</string>
+</resources>
