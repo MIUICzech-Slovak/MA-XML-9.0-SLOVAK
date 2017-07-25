@@ -21,11 +21,9 @@
         <item>Klasický</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Témy</item>
+        <item>Tapeta</item>
         <item>Widgety</item>
-        <item>Tapety</item>
-        <item>Efekty</item>
-		<item>Rozloženie</item>
+        <item>Nastavenia</item>
     </string-array>
     <string-array name="gadget_weather_image">
         <item>Jasno</item>
