@@ -116,4 +116,6 @@
   <string name="keyguard_quick_charging_info_click_to_detail">Zobraziť podrobnosti</string>
   <string name="keyguard_quickly_charging_info_charging_text">Rýchlonabíjanie</string>  
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Nie je možné prepínať medzi profilmi počas hovoru</string>  
+  <string name="keyguard_left_remotecentral">MiRemote</string>
+  <string name="keyguard_left_smarthome">MiHome</string>
 </resources>

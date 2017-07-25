@@ -247,7 +247,7 @@
   <string name="toggle_select_title">Zvoliť prepínač</string>
   <string name="toggle_title">Prepínač</string>
   <string name="transformation_type_classic">Klasický</string>
-  <string name="transformation_type_classic_no_overshoot">Klasický (bez odrazu)</string>
+  <string name="transformation_type_classic_no_overshoot">Klasický</string>
   <string name="transformation_type_crossfade">Prelínanie</string>
   <string name="transformation_type_cube">3D kocka</string>
   <string name="transformation_type_falldown">2D rotácia</string>
@@ -280,4 +280,10 @@
   <string name="widget_favorite_contacts_style">Rozmer</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
+  <string name="menu_auto_fill">Autom. zaplniť</string>
+  <string name="menu_cell_setting">Nastavenie obrazovky</string>
+  <string name="menu_lock">Zamykacia obrazovka</string>
+  <string name="menu_more">Viac</string>
+  <string name="menu_trans_effect">Efekt prechodu</string>
+  <string name="widget_quick_function">Skratky</string>
 </resources>

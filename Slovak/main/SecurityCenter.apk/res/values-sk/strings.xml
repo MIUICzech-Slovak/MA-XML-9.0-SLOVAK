@@ -2525,4 +2525,6 @@ Tento proces skracuje životnosť batérie."</string>
   <string name="uninstall_game_count">Nepridaných hier: %d</string>
   <string name="wlan_change_protection_detail">Neprepínať automaticky na Wi-Fi po pripojení na mobilné dáta</string>
   <string name="wlan_change_protection_title">Zamedziť zmene siete</string>
+  <string name="app_manager_pref_ads">Odporúčania</string>
+  <string name="install">Inštalovať</string>
 </resources>

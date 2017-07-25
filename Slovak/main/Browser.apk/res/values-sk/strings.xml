@@ -913,4 +913,5 @@ Chcete opustiť túto web stránku?"</string>
   <string name="miuichromium_error_page_suggestion_correct_url">Skontrolujte zadanú URL adresu a skúste to znova.</string>
   <string name="miuichromium_error_page_suggestion_grant_permission">Obnovte stránku po povolení prehliadaču prístup na internet.</string>
   <string name="miuichromium_error_page_suggestion_title">. Skúste nasledovné:</string> 
+  <string name="hybrid_webpage_not_available">Webstránka je nedostupná</string>
 </resources>

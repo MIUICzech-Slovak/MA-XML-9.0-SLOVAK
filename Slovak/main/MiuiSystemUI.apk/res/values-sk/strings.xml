@@ -396,4 +396,11 @@ posunutím nadol uzamknete"</string>
   <string name="status_bar_accessibility_dismiss_recents">Zatvoriť nedávne aplikácie</string>
   <string name="status_bar_recent_inspect_item_title">Info o apl.</string>
   <string name="status_bar_recent_remove_item_title">Odstrániť zo zoznamu</string>
+  <string name="as_important">Dôležité</string>
+  <string name="as_unimportant">Nedôležité</string>
+  <string name="cancel">Zrušiť</string>
+  <string name="important_desc">Všetky dôležité upozornenia sa zobrazia priamo v roletke.</string>
+  <string name="un_important_notifications">Nedôležité upozornenia</string>
+  <string name="unimportant_desc">Všetky nedôležité upozornenia budú zobrazené v zložke.</string>
+  <string name="unimportant_title">Nedôležité</string>
 </resources>
