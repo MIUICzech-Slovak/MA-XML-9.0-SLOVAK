@@ -1,56 +1,52 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
 
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">Domov</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-  <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
-  <string name="abc_capital_off">OFF</string>
-  <string name="abc_capital_on">ON</string>
-  <string name="abc_search_hint">Search…</string>
-  <string name="abc_searchview_description_clear">Clear query</string>
-  <string name="abc_searchview_description_query">Search query</string>
-  <string name="abc_searchview_description_search">Search</string>
-  <string name="abc_searchview_description_submit">Submit query</string>
-  <string name="abc_searchview_description_voice">Voice search</string>
-  <string name="abc_shareactionprovider_share_with">Share with</string>
-  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="abc_toolbar_collapse_description">Collapse</string>
-  <string name="albums">Albums</string>
-  <string name="allow_draw_overlays_title">Allow Player player popup over other apps</string>
-  <string name="allow_sdraw_overlays_description">Player needs you to grant this permission display your video in a popup over other applications.</string>
-  <string name="allow_settings_access_brightness_description">Player needs you to grant this permission to change your brightness mode.</string>
-  <string name="allow_settings_access_brightness_title">Allow Player to change brightness mode</string>
-  <string name="allow_settings_access_ringtone_description">Player needs you to grant this permission to set up this song as your ringtone.</string>
-  <string name="allow_settings_access_ringtone_title">Allow Player to set the ringtone</string>
-  <string name="allow_storage_access_description">Player needs you to grant this permission to access the media files on this device.</string>
-  <string name="allow_storage_access_title">Allow Player to access video and audio files</string>
+  <string name="abc_action_bar_up_description">Prejsť hore</string>
+  <string name="abc_action_menu_overflow_description">Ďalšie možnosti</string>
+  <string name="abc_action_mode_done">Hotovo</string>
+  <string name="abc_activity_chooser_view_see_all">Zobraziť všetko</string>
+  <string name="abc_activitychooserview_choose_application">Zvoľte aplikáciu</string>
+  <string name="abc_capital_off">VYP.</string>
+  <string name="abc_capital_on">ZAP.</string>
+  <string name="abc_search_hint">Vyhľadať…</string>
+  <string name="abc_searchview_description_clear">Vymazať dopyt</string>
+  <string name="abc_searchview_description_query">Vyhľadávací dopyt</string>
+  <string name="abc_searchview_description_search">Hľadať</string>
+  <string name="abc_searchview_description_submit">Odoslať dopyt</string>
+  <string name="abc_searchview_description_voice">Hlasové vyhľadávanie</string>
+  <string name="abc_shareactionprovider_share_with">Zdieľať pomocou</string>
+  <string name="abc_shareactionprovider_share_with_application">Zdieľať pomocou %s</string>
+  <string name="abc_toolbar_collapse_description">Zbaliť</string>
+  <string name="albums">Albumy</string>
+  <string name="allow_draw_overlays_title">Povoliť vyskakovacie okno VLC nad ostatnými aplikáciami</string>
+  <string name="allow_sdraw_overlays_description">Na zobrazovanie videa vo vyskakovacom okne nad ostatnými aplikáciami musí mať VLC udelené oprávnenia.</string>
+  <string name="allow_settings_access_brightness_description">Na zmenu režimu jasu musí mať VLC udelené oprávnenia.</string>
+  <string name="allow_settings_access_brightness_title">Povoliť VLC zmenu režimu jasu</string>
+  <string name="allow_settings_access_ringtone_description">Na nastavenie tejto skladby ako tónu zvonenia musí mať VLC udelené oprávnenie.</string>
+  <string name="allow_settings_access_ringtone_title">Povoliť VLC nastavovať tón zvonenia</string>
+  <string name="allow_storage_access_description">VLC potrebuje toto oprávnenie na prístup k mediálnym súborom na tomto zariadení.</string>
+  <string name="allow_storage_access_title">Povoliť VLC pristupovať k zvukovým a video-súborom</string>
   <string name="app_name">MiVideo</string>
-  <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
-  <string name="artists">Artists</string>
-  <string name="audio">Audio</string>
-  <string name="audio_delay">Audio delay</string>
-  <string name="back_quit_lock">Press back again to quit video</string>
-  <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
-  <string name="brightness">Brightness</string>
-  <string name="cancel">Cancel</string>
-  <string name="character_counter_pattern">%1$d / %2$d</string>
+  <string name="artists">Umelci</string>
+  <string name="audio">Zvuk</string>
+  <string name="audio_delay">Oneskorenie zvuku</string>
+  <string name="back_quit_lock">Video prerušíte opätovným stlačením tlačidla pre návrat</string>
+  <string name="brightness">Jas</string>
+  <string name="cancel">Zrušiť</string>
   <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
   <string name="default_text">Default</string>
-  <string name="default_web_client_id">632999161735-6aq4lemaj7m65ehgel6v3grrvgjo6bea.apps.googleusercontent.com</string>
-  <string name="delete">Delete</string>
+  <string name="delete">Vymazať</string>
   <string name="delete_file_tips">Delete this file?</string>
   <string name="details">Details</string>
   <string name="dselect_all">Deselect All</string>
-  <string name="encountered_error_message">"Player encountered an error with this media.
-Please try refreshing the media library."</string>
-  <string name="encountered_error_title">Playback error</string>
+  <string name="encountered_error_message">"Aplikácia VLC zaznamenala chybu spojenú s týmto médiom.
+Prosím skúste obnoviť knižnicu médií."</string>
+  <string name="encountered_error_title">Chyba počas prehrávania</string>
   <string name="error_text_invalid_progressive_playback">"This type of file isn't supported."</string>
-  <string name="exit_app">Close Player</string>
+  <string name="exit_app">Ukončiť</string>
   <string name="file">file</string>
   <string name="file_details" formatted="false">"Size: %s
 
@@ -153,15 +149,15 @@ Length: %s
   <string name="toast_screen_text_scaling">Scaling</string>
   <string name="toast_screen_text_stream">Click Stream Button</string>
   <string name="toast_screen_text_vertical">Vertical scaling</string>
-  <string name="track_audio">Audio track</string>
-  <string name="track_text">Subtitle track</string>
-  <string name="track_unknown">Unknown track</string>
-  <string name="track_video">Video track</string>
-  <string name="unknown_album">Unknown Album</string>
-  <string name="unknown_artist">Unknown Artist</string>
-  <string name="unknown_genre">Unknown Genre</string>
-  <string name="unlocked">Unlocked</string>
-  <string name="unseekable_stream">Unseekable stream</string>
+  <string name="track_audio">Zvuková stopa</string>
+  <string name="track_text">Stopa s titulkami</string>
+  <string name="track_unknown">Neznáma stopa</string>
+  <string name="track_video">Stopa s videom</string>
+  <string name="unknown_album">Neznámy album</string>
+  <string name="unknown_artist">Neznámy umelec</string>
+  <string name="unknown_genre">Neznámy žáner</string>
+  <string name="unlocked">Odomknuté</string>
+  <string name="unseekable_stream">Stream bez možnosti vyhľadávania</string>
   <string name="v7_preference_off">OFF</string>
   <string name="v7_preference_on">ON</string>
   <string name="video">Video</string>
@@ -171,6 +167,6 @@ Length: %s
   <string name="video_file_details" formatted="false">%d Videos | %s</string>
   <string name="video_item_title_lines">2</string>
   <string name="videos">Videos</string>
-  <string name="volume">Volume</string>
+  <string name="volume">Hlasitosť</string>
   <string name="wrapper_footer_text">Reached the bottom of the page</string>
 </resources>
