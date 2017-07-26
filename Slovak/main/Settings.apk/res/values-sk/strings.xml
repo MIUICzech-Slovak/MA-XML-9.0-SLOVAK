@@ -4918,7 +4918,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="delete_rule">Odstrániť pravidlá</string>
   <string name="edit_rule">Upraviť pravidlá</string>
   <string name="edit_rules">Upraviť</string>
-  <string name="eighthours">8 hhodín</string>
+  <string name="eighthours">8 hodín</string>
   <string name="finish_button">Ukončiť</string>
   <string name="fourhours">2 hodiny</string>
   <string name="mode_disable">Deaktivované</string>
@@ -4948,7 +4948,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="timed_titlei">Naplánované pravidlo %d</string>
   <string name="total">Režim Nerušiť</string>
   <string name="total_info">Stíšiť zvonenia a vypnúť vibrácie pre všetko okrem budíka</string>
-  <string name="twohours">1 hhodina</string>
+  <string name="twohours">1 hodina</string>
   <string name="vip_list">VIP zoznam</string>
   <string name="vip_mode_info">V Tichom režime, budú oznámené hovory a SMS od kontakty vo VIP zozname</string>
   <string name="wifi_eap_info_reconnect">Overenie zlyhalo, skúste to znova.</string>
