@@ -110,7 +110,7 @@ Dĺžka: %s
   <string name="replace_num_files">Súborov: %d</string>
   <string name="replace_num_videos">Videí: %d</string>
   <string name="ringtone_error">Nastala chyba.</string>
-  <string name="ringtone_set">Súbor '%1$s' bol nastavený ako zvonenie.</string>
+  <string name="ringtone_set">Súbor %1$s bol nastavený ako zvonenie.</string>
   <string name="sdcard_text">SD karta</string>
   <string name="search">Vyhľadať</string>
   <string name="search_history">História</string>
