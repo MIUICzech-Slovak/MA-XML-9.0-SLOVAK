@@ -150,9 +150,9 @@
   <string name="silence_mode">Režim Nerušiť</string>
   <string name="standard">Stíšiť</string>
   <string name="standard_description">[Stíšiť] Stíšiť zvuky pre prichádzajúce hovory a upozornenia</string>
-  <string name="standard_title">Stíšené..</string>
+  <string name="standard_title">Stíšené</string>
   <string name="total">Režim Nerušiť</string>
-  <string name="total_description">[Tichý režim] Stíšiť všetky zvuky a vypnúť vibrácie okrem budíka</string>
-  <string name="total_title">Režim Nerušiť..</string>
+  <string name="total_description">[Režim Nerušiť] Stíšiť všetky zvuky a vypnúť vibrácie okrem budíka</string>
+  <string name="total_title">Režim Nerušiť</string>
   <string name="twohours">1 hodina</string>
 </resources>
