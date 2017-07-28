@@ -59,7 +59,7 @@ Poloha: %s
 "</string>
   <string name="filter">Filter</string>
   <string name="filter_file_tips">Filtrovať tento súbor?</string>
-  <string name="folder">Zložka</string>
+  <string name="folder">Zložky</string>
   <string name="folder_up_tips">(Zložka vyššie)</string>
   <string name="genres">Žánre</string>
   <string name="hide">Skryť</string>
