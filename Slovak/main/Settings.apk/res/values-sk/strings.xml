@@ -4953,4 +4953,12 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="vip_mode_info">V Tichom režime, budú oznámené hovory a SMS od kontakty vo VIP zozname</string>
   <string name="wifi_eap_info_reconnect">Overenie zlyhalo, skúste to znova.</string>
   <string name="wifi_info_reconnect">Chyba hesla, skúste to znova!</string>
+  <string name="miui_lab_feature_applied">Aplikované</string>
+  <string name="miui_lab_feature_off">Vyp</string>
+  <string name="miui_lab_feature_on">Zap</string>
+  <string name="miui_lab_features">MIUI lab funkcie</string>
+  <string name="miui_lab_gallery_search_desc">Vyhľadávanie obrázkov</string>
+  <string name="miui_lab_gallery_search_title">Vyhadať fotografie v galérií</string>
+  <string name="miui_lab_settings">MIUI lab</string>
+  <string name="miui_lab_slogan">Učiť sa, Objavovať, Preskúmať.</string>
 </resources>

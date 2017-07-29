@@ -65,4 +65,7 @@
   <string name="title_fingerprint">Pridať odtlačok prsta</string>
   <string name="user_agreement">Podmienky používania</string>
   <string name="welcome">Vitajte</string>
+  <string name="fail_to_generate_qr_code">Generovanie QR kódu zlyhalo, skúste to znova.</string>
+  <string name="two_dimensional_code_scan">Skenovanie QR kódu</string>
+  <string name="user_strayed_warning">Táto stránka je len pre testovanie, vráťte sa naspäť.</string>
 </resources>

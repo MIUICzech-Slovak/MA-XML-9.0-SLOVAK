@@ -963,4 +963,24 @@
   <string name="backup_cta_not_allow_desc">Povoľte pre automaticku zálohu</string>
   <string name="backup_cta_not_allow_title">Nie je možný prístup k sieti</string>
   <string name="cloud_storage_extend">Navýšiť MiCloud úložisko</string>
+  <string name="album_name_locations">Miesta</string>
+  <string name="album_name_people">Ľudia</string>
+  <string name="album_name_tags">Značky</string>
+  <string name="empty_title_no_photos">Žiadne fotografie alebo videá</string>
+  <string name="home_page_empty_action">Zhotovte fotografiu</string>
+  <string name="people_album_empty_title">Fotografie môžu byť triedené podľa ľudí na nich</string>
+  <string name="people_mark_mode_title">Vyberte \"%s\"</string>
+  <string name="people_mark_mode_title_no_mark_name">Vyberte osobu</string>
+  <string name="places_album_empty_title">Fotografie môžu byť triedené podľa polohy</string>
+  <string name="recent_album_empty_title">Nepridali ste žiadne nové fotografie</string>
+  <string name="search_net_error">Nastala chyba siete. Skúste to znova.</string>
+  <string name="search_request_open">Pridajte sa k testovaciemu tímu</string>
+  <string name="search_select_network">Vyberte sieť</string>
+  <string name="search_setting_sub_title">Vylepšené vyhľadávanie obrázkov</string>
+  <string name="search_setting_sub_title_open">Schválené. Chvíľku počkajte.</string>
+  <string name="search_setting_title">Vyhľadať fotografie v Galérií</string>
+  <string name="search_title_album">Album</string>
+  <string name="search_title_suggestion">Odporúčania</string>
+  <string name="setup_network_connection">Nastavenie siete</string>
+  <string name="things_album_empty_title">Fotografie môžu byť triedené podľa objektov na nich</string>
 </resources>

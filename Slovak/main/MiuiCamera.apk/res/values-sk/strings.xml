@@ -447,4 +447,6 @@ a zvýrazniť osobu na fotografii"</string>
   <string name="pref_camera_proximity_lock_summary">Uzamknúť gestá dotykov ak je zariadenie vo vrecku</string>
   <string name="pref_camera_proximity_lock_title">Režim vo vrecku</string>
   <string name="pref_dualcamera_watermark_title">Vodoznak</string>  
+  <string name="screen_on_proximity_sensor_hint">Pre deaktivovanie tejto funkcie, stlačte naraz tlačidlo hlasitosti nadol a Späť.</string>
+  <string name="screen_on_proximity_sensor_summary">Nezakrývajte priestor slúchadla</string>
 </resources>
