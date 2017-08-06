@@ -77,4 +77,16 @@
 
 Ak chcete spustiť preberanie pri ďalšom pripojení k sieti Wi-Fi, dotknite sa možnosti %s ."</string>
   <string name="wifi_required_title">Preberaný súbor je pre sieť operátora príliš veľký</string>
+  <string name="dialog_button_cancel">Zrušiť</string>
+  <string name="dialog_button_ok">OK</string>
+  <string name="dialog_content_limit0">Obmedziť sťahovanie</string>
+  <string name="dialog_content_limit_max">Neobmedzené</string>
+  <string name="dialog_data_limit_button1">Čakať na WI-Fi</string>
+  <string name="dialog_data_limit_button2">Stiahnuť teraz</string>
+  <string name="dialog_data_limit_msg1">%s bude stiahnuté cez mobilné dáta. Pokračovať?</string>
+  <string name="dialog_data_limit_msg3">Zmeniť limit</string>
+  <string name="dialog_data_limit_title">Upozornenie</string>
+  <string name="dialog_tip_limit">Upozorniť ak sa sťahuje vačší súbor ako %s</string>
+  <string name="dialog_tip_limit0">Vždy upozorniť</string>
+  <string name="dialog_tip_no_limit">Neupozorňovať</string>
 </resources>
