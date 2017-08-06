@@ -223,9 +223,9 @@
   <string name="warning_field_empty">Zadajte %1$s</string>
   <string name="warning_field_invalid">Vyberte platné %1$s</string>
   <string name="title_customer_service">Užívateľská podpora</string>
-+  <string name="mobile_data_note_dialog_cancel">Čakať na Wi-Fi</string>
- +  <string name="mobile_data_note_dialog_confirm">Odoslať</string>
- +  <string name="mobile_data_note_dialog_content">Odosielanie záznamov o chybe na mobilných dátach môže navýšiť vaše poplatky.</string>
- +  <string name="mobile_data_note_dialog_content_with_file_size">Odosielanie záznamov o chybe na mobilných dátach spotrebuje %sMB.</string>
- +  <string name="mobile_data_note_dialog_title">Upozornenie na mobilné dáta</string>
+  <string name="mobile_data_note_dialog_cancel">Čakať na Wi-Fi</string>
+  <string name="mobile_data_note_dialog_confirm">Odoslať</string>
+  <string name="mobile_data_note_dialog_content">Odosielanie záznamov o chybe na mobilných dátach môže navýšiť vaše poplatky.</string>
+  <string name="mobile_data_note_dialog_content_with_file_size">Odosielanie záznamov o chybe na mobilných dátach spotrebuje %sMB.</string>
+  <string name="mobile_data_note_dialog_title">Upozornenie na mobilné dáta</string>
 </resources>
