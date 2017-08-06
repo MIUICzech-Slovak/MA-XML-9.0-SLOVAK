@@ -12,4 +12,8 @@
         <item quantity="other">%d upozornení v Primárnom profile</item>
         <item quantity="one">%d upozornennie v Druhom profile</item>
     </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Vyhľadať %d apl.</item>
+        <item quantity="one">Vyhľadať %d apl.</item>
+    </plurals>
 </resources>

@@ -156,4 +156,15 @@ Zadajte vaše mesto manuálne"</string>
   <string name="content_desc_activity_main_add_city">Pridať mesto</string>
   <string name="content_desc_activity_main_add_city_manage">Správa miest</string>
   <string name="content_desc_activity_main_more_settings">Viac nastavení</string>
+  <string name="it_is_going_to_rain">Bude pršať</string>
+  <string name="night_not_disturb_settings_summary">Nebude zobrazovať upozornenia od 23:00 do 07:00</string>
+  <string name="night_not_disturb_settings_title">Nerušiť počas noci</string>
+  <string name="other_warning_settings">Ostatné upozornenia</string>
+  <string name="rainfall_settings_summary">Upozornenie na dážď</string>
+  <string name="rainfall_settings_title">Upozornenie na dážď</string>
+  <string name="reminder_from_xiaomi_weather_app">Upozornenie z aplikácie Počasie</string>
+  <string name="update_night_setting_summary_text">Nebude sa automaticky aktualizovať v čase 23:00-07:00</string>
+  <string name="update_night_setting_title_text">Aktualizovať automaticky počas noci</string>
+  <string name="update_setting_title_text">Nastavenie aktualizácie</string>
+  <string name="your_location">Vaša poloha</string>
 </resources>

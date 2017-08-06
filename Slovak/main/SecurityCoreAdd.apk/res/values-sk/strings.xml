@@ -278,4 +278,5 @@ Môžete ich aj znova stiahnuť."</string>
   <string name="xspace_uninstalling">Odinštalovanie...</string>
   <string name="can_not_delete_when_calling">Nie je možné vymazať profil počas hovoru</string>
   <string name="can_not_switch_when_calling">Nie je možné prepnúť profil počas hovoru</string>  
+  <string name="search_result_text">Nenašla sa žiadna apl.</string>
 </resources>

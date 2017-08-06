@@ -88,7 +88,7 @@
         <item>Výkonný režim</item>
     </string-array>
     <string-array name="thermal_summaries">
-        <item>Výkon bude obmedzený aby nedochádzalo k prehrievaniu zariadenia</item>
-        <item>Vo výkonnom režime sa môže vaše zariadenie viac prehrievať</item>
+        <item>Súčasný predvolený režim</item>
+        <item>Súčasný výkonný režim</item>
     </string-array>	 
 </resources>

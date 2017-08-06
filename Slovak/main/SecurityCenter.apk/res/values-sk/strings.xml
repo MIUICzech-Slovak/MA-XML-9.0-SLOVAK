@@ -546,7 +546,7 @@ alebo zadajte heslo"</string>
   <string name="cmcc_app_check_dialog_title">Systém je opravený</string>
   <string name="confirmSecondSpacePassword">Potvrďte heslo Druhého profilu</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Pridávanie Mi účtu</string>
-  <string name="confirm_fingerprint_msg">Priložte váš prst na senzor odtlačku prstov</string>
+  <string name="confirm_fingerprint_msg">Overte váš odtlačok prstu</string>
   <string name="confirm_reject_all_permission">Zakázať všetkým aplikáciám používať túto funkciu?</string>
   <string name="connect_internet_by_mobiledata">Mobilné pripojenie</string>
   <string name="connect_internet_by_usbshare">Internet cez USB</string>
@@ -772,7 +772,7 @@ For more info check the message you received from your service provider"</string
   <string name="force_stop_dlg_title">Zakázať dáta na pozadí</string>
   <string name="foreground_traffic">Na popredí %s</string>
   <string name="forget_password_button_text">Zabudol som heslo</string>
-  <string name="forget_pattern">Zabudli ste vzor?</string>
+  <string name="forget_pattern">Zabudnuté heslo</string>
   <string name="free_time_traffic">Limit dát mimo špičku</string>
   <string name="free_time_traffic_hint">Zadajte limit dát mimo špičku</string>
   <string name="free_time_traffic_settings">Nastavenie dát mimo špičku</string>
@@ -2269,9 +2269,9 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="firewall_restrict_wlan">Zakázať používanie Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">Nainštalované aplikácie nebudú mať prístup k internetovému pripojeniu cez Wi-Fi ak je prepínač na Vyp.</string>
   <string name="main_button_usage_adjusting_bill">Prebieha zmena...</string>
-  <string name="password_forget_pattern_confirm">Zálohovať dáta</string>
-  <string name="password_forget_pattern_message">Zálohujte vaše dáta a obnovte továrne nastavenia. Potom bude možné zmeniť vaše heslo.</string>
-  <string name="password_forget_pattern_title">Zálohujte vaše dáta</string>
+  <string name="password_forget_pattern_confirm">Rozumiem</string>
+  <string name="password_forget_pattern_message">Z bezpečnostných dôvodov, môžete obnoviť vaše heslo až po obnovení továrnych nastavení. Dotykom obnovíte továrne nastavenia.</string>
+  <string name="password_forget_pattern_title">Upozornenie</string>
   <string name="password_xspace_forget_pattern_message">Pre zmenu hesla Druhého profilu ho musíte vymazať a vytvoriť znova.</string>
   <string name="firewall_restrict_notify_title">%s nemôže použiť sieť</string>
   <string name="card_main_hbassistant_summary">Zrýchliť a zlepšiť odozvu pri hrách</string>
@@ -2527,4 +2527,23 @@ Tento proces skracuje životnosť batérie."</string>
   <string name="wlan_change_protection_title">Zamedziť zmene siete</string>
   <string name="app_manager_pref_ads">Odporúčania</string>
   <string name="install">Inštalovať</string>
+  <string name="app_manager_app_ifno_version">Verzia</string>
+  <string name="app_manager_app_info_label">Info</string>
+  <string name="app_manager_app_info_name">Názov</string>
+  <string name="app_manager_app_info_pkg">Názov apk</string>
+  <string name="app_manager_copy_pkg_to_clip">Skopírované do schránky</string>
+  <string name="app_manager_hide_system_server">Skryť systémové služby</string>
+  <string name="app_manager_show_all_apps">Zobraziť všetky apl.</string>
+  <string name="access_control_failed_need_to_unlock_nofingerprint">Vyžaduje sa heslo pre otvorenie aplikácií</string>
+  <string name="access_control_fingerprint_not_identified_msg">Nebolo možné rozpoznať odlačok.</string>
+  <string name="applock_bind_account_title">Obnovenie vašho hesla</string>
+  <string name="applock_header_text_less_than_half">Málo miesta pre túto aplikáciu, potiahnite rozdelovač ďalej.</string>
+  <string name="forget_password_button_text_normal">Zabudnuté heslo</string>
+  <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">Nebolo možné rozpoznať odlačok.</string>
+  <string name="lockpattern_access_need_to_unlock_wrong_pattern">Heslo nie je správne, skúste to znova.</string>
+  <string name="modify_password_mode">Zmeniť typ hesla</string>
+  <string name="password_forget_pattern_message_none">Aplikácie nie sú uzamknuté. Môžete obnoviť vaše heslo.</string>
+  <string name="password_forget_pattern_reset">Obnoviť</string>
+  <string name="unlock_pattern">Vzor</string>
+  <string name="unlock_pattern_to_bind_fingerprint">Zadajte heslo pre aktiváciu odtlačku</string>
 </resources>

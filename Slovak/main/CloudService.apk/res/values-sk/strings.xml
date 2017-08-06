@@ -221,7 +221,7 @@ do vášho Mi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_find_device_guide_noti_content">Chráňte vaše dáta pri strate telefónu</string>
   <string name="micloud_find_device_guide_noti_title">Povoliť Vyhľadávanie zariadenia</string>
   <string name="micloud_find_device_guide_progress">Aktivácia Vyhľadávania zariadenia...</string>
-  <string name="micloud_find_device_guide_title">Prihláste sa do %s pre vyhľadanie, zablokovanie alebo vymazanie vášho zariadenia.</string>
+  <string name="micloud_find_device_guide_title">Prihláste sa do i.mi.com pre vyhľadanie, zablokovanie alebo vymazanie vášho zariadenia.</string>
   <string name="micloud_find_device_open_fail">Nebolo možné aktivovať Vyhľadávanie zariadenia</string>
   <string name="micloud_find_device_opened">Vyhľadávanie zariadenia povolené</string>
   <string name="micloud_find_device_opened_content">Nájdite vaše zariadenie na %s</string>
@@ -526,4 +526,28 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
   <string name="micloud_main_wait_wlan">Čaká na Wi-Fi</string>
   <string name="micloud_main_wait_wlan_charge">Čaká na Wi-Fi a pripojenie k nabíjačke</string>
   <string name="micloud_main_wait_wlan_charge_sleep">Čaká na Wi-Fi a pripojenie k nabíjačke</string>		 
+  <string name="activate_find_device_success">Vyhľadávanie zariadenia bolo aktivované.</string>
+  <string name="cloud_find_device_off">Vyp</string>
+  <string name="cloud_find_device_on">Zap</string>
+  <string name="find_device_operation_failure_rpc">Operácia nemohla byť dokončená kvôli RPC chybe.</string>
+  <string name="find_device_pref_alert_content">Vyhľadávanie zariadenia je prepojené s vašim Mi účtom. Musíte zadať vaše heslo. Bude odoslaná bežná SMS pre aktiváciu tejto služby a spoplatnená vašim operátorom. Ak zmeníte SIM kartu, odošle sa SMS znova pre reaktiváciu tejto služby.</string>
+  <string name="find_device_pref_alert_negtive">Nie ďakujem</string>
+  <string name="find_device_pref_alert_positive">OK</string>
+  <string name="find_device_pref_alert_title">Zapamätajte si váš Mi účet a heslo</string>
+  <string name="find_device_pref_initializing">Inicializácia...</string>
+  <string name="micloud_find_device_close_alert_content">Ak túto funkciu deaktivujete, nebudete môcť vyhľadať vaše zariadenie ak ho stratíte.</string>
+  <string name="micloud_find_device_close_alert_negtive">Deaktivovať</string>
+  <string name="micloud_find_device_close_alert_positive">Zrušiť</string>
+  <string name="micloud_find_device_close_alert_title">Vypnúť vyhľadávanie zariadenia?</string>
+  <string name="micloud_find_device_close_fail">Nebolo možné deaktivovať vyhľadávanie zariadenia</string>
+  <string name="micloud_find_device_close_progress">Deaktivovanie...</string>
+  <string name="micloud_find_device_guide_alert_content">Vyhľadávanie zariadenia je prepojené s vašim Mi účtom. Musíte zadať vaše heslo. Bude odoslaná bežná SMS pre aktiváciu tejto služby a spoplatnená vašim operátorom. Ak zmeníte SIM kartu, odošle sa SMS znova pre reaktiváciu tejto služby.</string>
+  <string name="micloud_find_device_guide_alert_negtive">Nie</string>
+  <string name="micloud_find_device_guide_alert_negtive_activate">Nie</string>
+  <string name="micloud_find_device_guide_alert_positive">OK</string>
+  <string name="micloud_find_device_guide_alert_title">Zapamätajte si váš Mi účet a heslo</string>
+  <string name="micloud_find_device_verify_button">Reaktivácia vyhľadávania zariadenia</string>
+  <string name="micloud_find_device_verify_close">Deaktivovať vyhľadávanie zariadenia</string>
+  <string name="micloud_find_device_verify_fail">Nebolo možné reaktivovať</string>
+  <string name="micloud_find_device_verify_progress">Reaktivácia...</string>
 </resources>

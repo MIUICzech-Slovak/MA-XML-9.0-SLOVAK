@@ -205,4 +205,7 @@
   <string name="show_system_app">Zobraziť systémové apl.</string>
   <string name="scenario_policies_warmcontrol">Kontrola prehrievania</string>
   <string name="warm_configure">Nastavenie kontroly teploty</string>
+  <string name="confirm">Potvrdiť</string>
+  <string name="warm_performance_tip">Vo výkonných operáciach sa môže teplota zariadenia zvýšiť viac ako je bežné</string>
+  <string name="important_warning">Upozornenie</string>
 </resources>

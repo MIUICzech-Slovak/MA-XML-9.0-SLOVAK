@@ -983,4 +983,5 @@
   <string name="search_title_suggestion">Odporúčania</string>
   <string name="setup_network_connection">Nastavenie siete</string>
   <string name="things_album_empty_title">Fotografie môžu byť triedené podľa objektov na nich</string>
+  <string name="search_syncing">Prebieha synchronizácia...</string>
 </resources>

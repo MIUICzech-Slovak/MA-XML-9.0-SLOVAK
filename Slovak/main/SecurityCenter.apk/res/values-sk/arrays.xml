@@ -191,4 +191,10 @@
         <item>Zoradiť podľa spotreby dát</item>
         <item>Zoradiť podľa spotreby batérie</item>
     </string-array>	 
+    <string-array name="title_app_info">
+        <item>Zdroj inštalácie</item>
+        <item>Čas inštalácie</item>
+        <item>Zdroj poslednej aktualizácie</item>
+        <item>Čas poslednej aktualizácie</item>
+    </string-array>
 </resources>
