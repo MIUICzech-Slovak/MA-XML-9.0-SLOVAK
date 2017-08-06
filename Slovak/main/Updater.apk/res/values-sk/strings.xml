@@ -39,5 +39,7 @@ Vaše dáta nebudú vymazané."</string>
   <string name="server_error">Chyba servera, aplikácia nemusí pracovať správne!</string>
   <string name="share_desc">MIUI verzia bola aktualizovaná na %1$s, pozrite si zoznam zmien na: https://xiaomi.eu/community/link-forums/rom-downloads.73/</string>
   <string name="share_title">Zdieľať</string>
-  <string name="version">Nainštalovaná verzia:</string>
+  <string name="version">Nainštalovaná verzia</string>
+  <string name="stable">Stabilná</string>
+  <string name="weekly">Týždenná</string>
 </resources>
