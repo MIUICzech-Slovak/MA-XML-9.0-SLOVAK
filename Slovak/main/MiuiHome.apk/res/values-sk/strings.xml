@@ -280,10 +280,10 @@
   <string name="widget_favorite_contacts_style">Rozmer</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
-  <string name="menu_auto_fill">Autom. zaplniť</string>
-  <string name="menu_cell_setting">Nastavenie obrazovky</string>
-  <string name="menu_lock">Zamykacia obrazovka</string>
-  <string name="menu_more">Viac</string>
+  <string name="menu_auto_fill">Automaticky vyplniť</string>
+  <string name="menu_cell_setting">Mriežka obrazovky</string>
+  <string name="menu_lock">Uzamknúť ikony</string>
+  <string name="menu_more">Viac nastavení</string>
   <string name="menu_trans_effect">Efekt prechodu</string>
   <string name="widget_quick_function">Skratky</string>
 </resources>
