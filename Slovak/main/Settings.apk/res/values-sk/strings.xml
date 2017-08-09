@@ -4962,4 +4962,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="miui_lab_settings">MIUI lab</string>
   <string name="miui_lab_slogan">Učiť sa, Objavovať, Preskúmať.</string>
   <string name="lockscreen_magazine_title">Denná tapeta zamyk. obrazovky</string>
+  <string name="turn_off_keyguard_password_wait_dialog">Rušenie hesla</string>
+  <string name="turn_update_keyguard_password_wait_dialog">Zmena hesla</string>
 </resources>

@@ -1283,4 +1283,6 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="profile_delete_toast">Profil vymazaný</string>
   <string name="preference_other">Ostatné</string>
   <string name="option_delete_batch_contacts">Vymazať viac naraz</string>
+  <string name="unfold_all">Rozbaliť všetko</string>
+  <string name="unknown_details_new_contact">Nový kontakt</string>
 </resources>
