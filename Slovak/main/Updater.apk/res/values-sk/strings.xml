@@ -42,4 +42,6 @@ Vaše dáta nebudú vymazané."</string>
   <string name="version">Nainštalovaná verzia</string>
   <string name="stable">Stabilná</string>
   <string name="weekly">Týždenná</string>
+  <string name="no_xioamieu">"Nepoužívate MIUI ROM od miuios.cz alebo xiaomi.eu!
+ Aktualizácia nie je pre vás dostupná!"</string>
 </resources>
