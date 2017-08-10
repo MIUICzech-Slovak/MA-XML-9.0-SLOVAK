@@ -4965,6 +4965,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="turn_off_keyguard_password_wait_dialog">Rušenie hesla</string>
   <string name="turn_update_keyguard_password_wait_dialog">Zmena hesla</string>
   <string name="normal">Normálne</string>
-  <string name="normal_info">Všetky hlasitosti sú obnovené</string>
+  <string name="normal_info">Všetky zvuky sú povolené</string>
   <string name="silent_duration">Trvanie</string>
 </resources>
