@@ -911,4 +911,11 @@ Postupujte podľa pokynov"</item>
         <item>Kompatibilný režim</item>
         <item>Výkonný režim</item>
     </string-array>	
+    <string-array name="silent_mode_duration_text">
+        <item>Vždy</item>
+        <item>30 minút</item>
+        <item>1 hodina</item>
+        <item>2 hodiny</item>
+        <item>8 hodín</item>
+    </string-array>
 </resources>
