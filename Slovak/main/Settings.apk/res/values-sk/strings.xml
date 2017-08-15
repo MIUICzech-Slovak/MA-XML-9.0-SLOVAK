@@ -886,7 +886,7 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="color_white">Biela</string>
   <string name="color_yellow">Žltá</string>
   <string name="common_settings">Časté nastavenia</string>
-  <string name="complete_parameters">All specs</string>
+  <string name="complete_parameters">Všetky špecifikácie</string>
   <string name="complete_settings">Kompletné nastav.</string>
   <string name="computing_size">Prebieha výpočet...</string>
   <string name="condition_provider_security_warning_summary">%1$s bude môcť pridávať podmienky ukončenia do režimu Nerušiť.</string>
@@ -1153,7 +1153,6 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="development_settings_not_available">Pre tohto používateľa sú možnosti vývojára nedostupné</string>
   <string name="development_settings_summary">Umožňuje nastaviť možnosti pre vývoj aplikácií</string>
   <string name="development_settings_title">Možnosti pre vývojárov</string>
-  <string name="device_actionbar_title">Mi 5</string>
   <string name="device_additional_status">Ďalšie informácie</string>
   <string name="device_additional_status_summary">Telefónné číslo, Signál, IMEI, atď.</string>
   <string name="device_admin_add_title">Správca zariadenia</string>
@@ -1161,10 +1160,10 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="device_admin_status">Správca je aktívny a umožňuje aplikácií %1$s vykonávať nasledujúce operácie:</string>
   <string name="device_admin_title">Správa zariadenia</string>
   <string name="device_admin_warning">Aktiváciou tohto správcu umožníte aplikácií %1$s vykonávať nasledujúce operácie:</string>
-  <string name="device_available_memory">Available memory</string>
+  <string name="device_available_memory">Dostupné úložisko</string>
   <string name="device_battery">Battery</string>
-  <string name="device_build_id">Version number</string>
-  <string name="device_complete_parameters">Complete</string>
+  <string name="device_build_id">Číslo verzie</string>
+  <string name="device_complete_parameters">Kompletné</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu10_info">"10 jadier "</string>
   <string name="device_cpu2_info">"2 jadrá "</string>
@@ -1199,7 +1198,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="device_status">Stav</string>
   <string name="device_status_activity_title">Stav</string>
   <string name="device_status_summary">Stav batérie, úroveň nabitia, atď.</string>
-  <string name="device_total_memory">Total memory</string>
+  <string name="device_total_memory">Úložisko</string>
   <string name="dial_application_title">Volanie</string>
   <string name="dial_pad_tones_title">Zvuky číselnej klávesnice</string>
   <string name="dialog_content_login">Aktualizácia vyžaduje Mi účet. Chcete sa prihlásiť?</string>
@@ -2376,7 +2375,7 @@ Vyberte váš operačný systém:"</string>
   <string name="musicfx_title">Hudobné efekty</string>
   <string name="mvno_match_data">Hodnota MVNO</string>
   <string name="mvno_type">Typ MVNO</string>
-  <string name="my_device">My device</string>
+  <string name="my_device">Zariadnie</string>
   <string name="nearby_wifi">Vyberte Wi-Fi sieť</string>
   <string name="need_reboot_now">Pre dokončenie je nutné reštartovať zariadenie!</string>
   <string name="netcheck_title">Diagnostika siete</string>
@@ -4967,4 +4966,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="normal">Normálne</string>
   <string name="normal_info">Všetky zvuky sú povolené</string>
   <string name="silent_duration">Trvanie</string>
+  <string name="my_device_disclaimer">Poznámka: Informácie o HW, CPU, kapacite batérie, veľkosti displeja a rozlíšenie je poskytované Xiaomi, dizajnérmi a dodávateľmi.</string>
 </resources>
