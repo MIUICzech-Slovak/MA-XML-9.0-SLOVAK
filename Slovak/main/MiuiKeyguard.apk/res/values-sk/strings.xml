@@ -119,4 +119,11 @@
   <string name="keyguard_left_remotecentral">MiRemote</string>
   <string name="keyguard_left_smarthome">MiHome</string>
   <string name="input_password_handle_sdcard_fs">Vypnite Optimalizáciu emulovanej SD karty v Nastaveniach pre vývojárov.</string>
+  <string name="phone_locked_foget_password_mehod_back">Späť</string>
+  <string name="phone_locked_foget_password_method">Zabudnuté heslo?</string>
+  <string name="phone_locked_foget_password_method_content">Musíte vymazať všetky vaše dáta a nastaviť vaše heslo znova.</string>
+  <string name="phone_locked_foget_password_method_next">Ďalej</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content">Vypnite vaše zariadenie, podržte tlačidlo Zapínania a Hlasitosti nahor pokiaľ neuvidíte logo MI.</string>
+  <string name="phone_locked_forget_password_suggesstion_two_content">Vyberte Vymazať (Wipe) - Potiahnite pre továrne nastavenia a reštartujte zariadenie.</string>
+  <string name="phone_locked_forget_password_suggesstions_title">Ako vymazať dáta?</string>
 </resources>

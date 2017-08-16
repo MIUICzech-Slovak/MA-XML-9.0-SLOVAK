@@ -1278,4 +1278,5 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="xdivert_title">X-Divert</string>
   <string name="no_checked_network">Nebudete môcť sa pripojiť k mobilnej sieti. Vybrať inú sieť?"</string>  
   <string name="volte_switch_not_support_summary">VoLTE hovory nie sú podporované na dátovej SIM karte.</string>
+  <string name="carrier_info">Info o operátorovi</string>
 </resources>

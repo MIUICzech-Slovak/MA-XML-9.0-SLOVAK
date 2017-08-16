@@ -2546,4 +2546,5 @@ Tento proces skracuje životnosť batérie."</string>
   <string name="password_forget_pattern_reset">Obnoviť</string>
   <string name="unlock_pattern">Vzor</string>
   <string name="unlock_pattern_to_bind_fingerprint">Zadajte heslo pre aktiváciu odtlačku</string>
+  <string name="ss_activity_main_support_text">Poskytuje %s</string>
 </resources>

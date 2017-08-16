@@ -1285,4 +1285,8 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="option_delete_batch_contacts">Vymazať viac naraz</string>
   <string name="unfold_all">Rozbaliť všetko</string>
   <string name="unknown_details_new_contact">Nový kontakt</string>
+  <string name="t9_search_empty_create_contact">Nový kontakt</string>
+  <string name="t9_search_empty_edit_contact">Pridať do kontaktov</string>
+  <string name="t9_search_empty_send_sms">Odoslať SMS</string>
+  <string name="t9_search_empty_video_call">Video hovor</string>  
 </resources>

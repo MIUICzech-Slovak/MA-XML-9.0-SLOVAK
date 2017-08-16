@@ -46,4 +46,5 @@ Vaše dáta nebudú vymazané."</string>
  Aktualizácia nie je pre vás dostupná!"</string>
   <string name="wifi_recommended">Pripojte sa na Wi-fi sieť pre stiahnutie aktualizácie!</string>
   <string name="no_info">Informácie nie sú dostupné</string>
+  <string name="notifications_switch">Zobraziť upozornenie</string>
 </resources>

@@ -914,4 +914,9 @@ Chcete opustiť túto web stránku?"</string>
   <string name="miuichromium_error_page_suggestion_grant_permission">Obnovte stránku po povolení prehliadaču prístup na internet.</string>
   <string name="miuichromium_error_page_suggestion_title">. Skúste nasledovné:</string> 
   <string name="hybrid_webpage_not_available">Webstránka je nedostupná</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Vymazať cache a cookies (vaše nastavenie účtov môže byť vymazané).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">Vymazať cache.</string>
+  <string name="qr_description">Načítať QR kód</string>
+ <string name="ssl_date_error_warnings_header">Certifikát tejto webstránky vypršal a nie je platný. Odporúča sa ju opustiť.</string>
+  <string name="voice_description">Hlasové vyhľadávanie</string>
 </resources>

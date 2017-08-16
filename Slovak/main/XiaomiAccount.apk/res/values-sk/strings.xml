@@ -478,4 +478,7 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="passport_set">Nastaviť</string>
   <string name="passport_sms_send_success">Odoslané</string>
   <string name="passport_verifying_activator_phone">Overovanie zabezpečenia...</string>
+  <string name="find_device_message">Zariadenie je uzamknuté, správa: %1$s, telefón: %2$s.</string>
+  <string name="find_device_owner_phone">Zariadenie je uzamknuté, telefón: %1$s.</string>
+  <string name="find_device_prompt_message">Zariadenie je uzamknuté, správa: %1$s.</string>
 </resources>

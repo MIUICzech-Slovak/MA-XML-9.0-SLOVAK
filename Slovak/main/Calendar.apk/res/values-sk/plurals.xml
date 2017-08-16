@@ -112,4 +112,16 @@
         <item quantity="other">%1$d roky</item>
         <item quantity="one">%1$d rok</item>
     </plurals>	
+    <plurals name="birthday_event_description_days_ago">
+        <item quantity="other">%1$d dní od</item>
+        <item quantity="one">%1$d deň od</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_later">
+        <item quantity="other">%1$d dní do</item>
+        <item quantity="one">%1$d deň do</item>
+    </plurals>
+    <plurals name="edit_date_calculate_days_error_hint">
+        <item quantity="other">Môžete zadať do %1$d dní</item>
+        <item quantity="one">Môžete zadať do %1$d dňa</item>
+    </plurals>	
 </resources>
