@@ -208,4 +208,19 @@
   <string name="confirm">Potvrdiť</string>
   <string name="warm_performance_tip">Vo výkonných operáciach sa môže teplota zariadenia zvýšiť viac ako je bežné</string>
   <string name="important_warning">Upozornenie</string>
+  <string name="base_info">Info</string>
+  <string name="cloud_addr_info">HideMode cloud info</string>
+  <string name="cloud_china_addr">Update china server data</string>
+  <string name="cloud_international_addr">Update international server data</string>
+  <string name="cloud_staging_addr">Update staging server data</string>
+  <string name="current_cloud_addr_is">The cloud control server address is:</string>
+  <string name="extreme_power_config_mode_category">Extrémna Úspora batérie</string>
+  <string name="extreme_power_config_mode_desc">Povolenie tejto funkcie deaktivuje synchronizáciu, bluetooth, GPS, NFC, prebudenie dvojitým poklepaním, podsvietenie tlačidiel, rozsvietenie displeja pri novom upozornení, LED.</string>
+  <string name="extreme_power_config_mode_title">Extrémna Úspora batérie</string>
+  <string name="failure">Chyba</string>
+  <string name="lasttime_applist_cloud">Applist last update:</string>
+  <string name="lasttime_feature_cloud">Function last update:</string>
+  <string name="sucess">Hotovo</string>
+  <string name="update_profile_failture_not_connect_wifi">Update failed, no Wifi connection</string>
+  <string name="update_profile_sucess">Update form server sucess</string> 
 </resources>
