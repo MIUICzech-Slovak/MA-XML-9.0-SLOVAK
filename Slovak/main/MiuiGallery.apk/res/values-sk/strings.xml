@@ -299,7 +299,7 @@
   <string name="doodle_brush">Štetec</string>
   <string name="doodle_mark">Označovač</string>
   <string name="doodle_middle_size">Stredné</string>
-  <string name="doodle_mosaic">Mozajka</string>
+  <string name="doodle_mosaic">Mozaika</string>
   <string name="doodle_pen">Pero</string>
   <string name="doodle_pencil">Ceruzka</string>
   <string name="doodle_small_size">Malé</string>
@@ -1056,7 +1056,7 @@
   <string name="photo_editor_doodle">Doodle</string>
   <string name="photo_editor_filter">Filter</string>
   <string name="photo_editor_long_crop">Orezať</string>
-  <string name="photo_editor_mosaic">Mozajka</string>
+  <string name="photo_editor_mosaic">Mozaika</string>
   <string name="photo_editor_navigator_cancel">Zrušiť</string>
   <string name="photo_editor_navigator_export">Dokončiť</string>
   <string name="photo_editor_rotate">Otočiť</string>
