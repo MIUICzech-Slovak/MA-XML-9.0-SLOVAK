@@ -2375,7 +2375,7 @@ Vyberte váš operačný systém:"</string>
   <string name="musicfx_title">Hudobné efekty</string>
   <string name="mvno_match_data">Hodnota MVNO</string>
   <string name="mvno_type">Typ MVNO</string>
-  <string name="my_device">Zariadnie</string>
+  <string name="my_device">Zariadenie</string>
   <string name="nearby_wifi">Vyberte Wi-Fi sieť</string>
   <string name="need_reboot_now">Pre dokončenie je nutné reštartovať zariadenie!</string>
   <string name="netcheck_title">Diagnostika siete</string>
