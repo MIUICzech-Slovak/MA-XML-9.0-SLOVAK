@@ -173,13 +173,13 @@ alebo zadajte heslo"</string>
   <string name="app_install_tips_go_to">Otvoriť</string>
   <string name="app_install_tips_install_success">%1$s úspešne nainštalované</string>
   <string name="app_maanger_app_uninstalled_toast">Táto aplikácie je odinštalovaná</string>
-  <string name="app_manager_app_lock">Zámok aplikácií</string>
+  <string name="app_manager_app_lock">Zámok</string>
   <string name="app_manager_app_version_name">"Verzia: "</string>
   <string name="app_manager_apps_generatioin">Aktualizácia</string>
   <string name="app_manager_apps_generation_summary">Aktualizujte pre využívanie najnovšách funkcií</string>
   <string name="app_manager_appupdate_remind">Upozorniť na aktualizácie</string>
-  <string name="app_manager_bipartition">Klonované aplikácie</string>
-  <string name="app_manager_card_permission_title">Povoelnia</string>
+  <string name="app_manager_bipartition">Klonovať</string>
+  <string name="app_manager_card_permission_title">Povolenia</string>
   <string name="app_manager_default_close_summary">Nie je predvolené nastavenie.</string>
   <string name="app_manager_default_open">Otvoriť ako predvolené</string>
   <string name="app_manager_default_open_summary">Nastavili ste otvorenie tejto aplikácie ako predvolené pre niektoré akcie.</string>
@@ -205,7 +205,7 @@ alebo zadajte heslo"</string>
   <string name="app_manager_perm_monitor_send_sms">Odoslať SMS</string>
   <string name="app_manager_permission">Povolenia (posledných 7 dní)</string>
   <string name="app_manager_permission_call_phone_over">Hovor 100000+ krát</string>
-  <string name="app_manager_permission_manager_title">Povoelnia</string>
+  <string name="app_manager_permission_manager_title">Povolenia</string>
   <string name="app_manager_permission_notify_summary">Bubliny a plávajúce upozornenia na zamknutej obrazovke</string>
   <string name="app_manager_permission_notify_title">Upozornenia</string>
   <string name="app_manager_permission_power_saving_summary">MIUI Úspora batérie</string>
@@ -229,7 +229,7 @@ alebo zadajte heslo"</string>
   <string name="app_manager_stop_wakepath_success">Obmedzené</string>
   <string name="app_manager_stop_wp_dialog_cancel">Zrušiť</string>
   <string name="app_manager_stop_wp_dialog_uninstall">Odinštalovať</string>
-  <string name="app_manager_title">Spravovať aplikácie</string>
+  <string name="app_manager_title">Aplikácie</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Klonované aplikácie budú odstránené spolu s dátami.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_msg">Odinštalovanie klonovanej aplikácie odstráni všetky jej dáta.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Odinštalovať klonovanú aplikáciu?</string>
