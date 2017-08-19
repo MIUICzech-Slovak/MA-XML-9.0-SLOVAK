@@ -4977,4 +4977,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="turn_on_keyguard_password_alert_forget_content">Zapamätajte si vaše heslo. Ak ho zabudnete, budete musieť vymazať všetky vaše dáta a nastaviť nové heslo.</string>
   <string name="turn_on_keyguard_password_alert_forget_title">Ak ho zabudnete, nebude možné ho obnoviť.</string>
   <string name="privacy_header_text_less_than_half">Pre túto aplikáciu je príliš málo miesta. Potiahnite oddeľovač ďalej.</string>
+  <string name="default_spell_checker">Predvolená kontrola pravopisu</string>
 </resources>
