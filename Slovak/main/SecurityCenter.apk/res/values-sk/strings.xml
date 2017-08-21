@@ -2347,7 +2347,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="memory_clean_no_running_process">Žiadne úlohy na vyčistenie</string>
   <string name="memory_clean_running_process_title">Sledovanie apl. (%d)</string>
   <string name="memory_cleaned_memory_info">Dostupná pamäť</string>
-  <string name="memory_cleaned_memory_up">Zrýchliť</string>
+  <string name="memory_cleaned_memory_up">Zrýchlené</string>
   <string name="om_btn_text_quick_fix">Optimalizovať</string>
   <string name="om_cpu_overload_activity_title">Apl. s vysokým využitím CPU</string>
   <string name="om_cpu_overload_app_fixed">Všetky problémy boli opravené</string>
