@@ -147,4 +147,24 @@
         <item quantity="other">%1$d prepínačov nad čiarou je aktívnych</item>
         <item quantity="one">1 prepínač nad čiarou je aktívny</item>
     </plurals>	
+    <plurals name="lockpassword_pin_too_short">
+        <item quantity="other">PIN musí mať %d čísel</item>
+        <item quantity="one">PIN musí mať %d čísel</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">PIN môže obsahovať až %d čísel</item>
+        <item quantity="one">PIN môže obsahovať až %d čísel</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Spojte aspoň %d body. Skúste to znova.</item>
+        <item quantity="one">pojte aspoň %d body. Skúste to znova.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+        <item quantity="other">Príliš mnoho nesprávnych pokusov. Skúste to znova o %ds.</item>
+        <item quantity="one">ríliš mnoho nesprávnych pokusov. Skúste to znova o %ds.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Počkajte aspoň %ds a skúste to znova.</item>
+        <item quantity="one">Počkajte aspoň %ds a skúste to znova.</item>
+    </plurals>	
 </resources>

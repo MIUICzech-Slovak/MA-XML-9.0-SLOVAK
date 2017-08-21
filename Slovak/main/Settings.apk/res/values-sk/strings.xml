@@ -4978,4 +4978,12 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="turn_on_keyguard_password_alert_forget_title">Ak ho zabudnete, nebude možné ho obnoviť.</string>
   <string name="privacy_header_text_less_than_half">Pre túto aplikáciu je príliš málo miesta. Potiahnite oddeľovač ďalej.</string>
   <string name="default_spell_checker">Predvolená kontrola pravopisu</string>
+  <string name="max_aspect_settings_all_app_display_loading">Načítavanie...</string>
+  <string name="restrict_max_aspect_ratio_title">Odporučiť deaktivovanie max. pomeru strán</string>
+  <string name="screen_max_aspect_ratio_desc">Či sa aplikácia môže zobrazovať na celej obrazovke</string>
+  <string name="screen_max_aspect_ratio_title">Nastavenie maximálneho pomeru strán</string>
+  <string name="status_bar_screen_button_force_immersive_desc">Potiahnite od spodnej hrany displeja pre zobrazenie tlačidiel</string>
+  <string name="status_bar_screen_button_key_force_immersive">Skryť tlačidla na displeji</string>
+  <string name="suggest_unrestrict_max_aspect_ratio_title">Odporučiť aktivovanie max. pomeru strán</string>
+  <string name="unrestrict_max_aspect_ratio_title">Podporovať max. pomer strán</string>
 </resources>

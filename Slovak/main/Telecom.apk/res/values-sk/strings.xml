@@ -45,4 +45,8 @@
   <string name="voice_dial_out">Hlasový hovor</string>
   <string name="voice_report_incoming_call">Volanie</string>
   <string name="voice_report_unknown_num">Neznáme číslo</string>
+  <string name="callFailed_simError">Chyba SIM karty</string>
+  <string name="close">Zatvoriť</string>
+  <string name="incall_error_power_off">Deaktivujte režim Lietadlo pre uskutočnenie hovoru.</string>
+  <string name="incall_error_supp_service_unknown">Táto služba nie je podporovaná.</string>
 </resources>

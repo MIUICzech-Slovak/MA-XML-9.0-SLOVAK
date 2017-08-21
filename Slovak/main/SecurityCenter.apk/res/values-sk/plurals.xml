@@ -382,4 +382,8 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Nepridaných apl.: %d</item>
         <item quantity="one">Nepridaných apl.: %d</item>
     </plurals>	
+    <plurals name="title_virus_clean">
+        <item quantity="other">Vyčistených vírusov: %d</item>
+        <item quantity="one">Vyčistených vírusov: %d</item>
+    </plurals>	
 </resources>

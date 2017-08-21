@@ -286,4 +286,5 @@
   <string name="menu_more">Viac nastavení</string>
   <string name="menu_trans_effect">Efekt prechodu</string>
   <string name="widget_quick_function">Skratky</string>
+  <string name="no_space_toast">Nie je voľné miesto</string>
 </resources>
