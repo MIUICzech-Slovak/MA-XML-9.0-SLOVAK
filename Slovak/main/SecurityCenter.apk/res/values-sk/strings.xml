@@ -2581,4 +2581,5 @@ Tento proces skracuje životnosť batérie."</string>
   <string name="wifi_optizition_tip">Turn on WLAN speed boost to make WLAN connection more stable. A small amount of mobile data will be used.</string>
   <string name="wifi_optizition_title">WLAN speed boost</string>
   <string name="wlan_booster">WLAN speed boost</string>
+  <string name="title_device_not_root">Zariadenie nemá práva ROOT</string>
 </resources>
