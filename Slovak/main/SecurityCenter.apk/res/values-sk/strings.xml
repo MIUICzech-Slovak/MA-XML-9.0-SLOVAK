@@ -2572,7 +2572,7 @@ Tento proces skracuje životnosť batérie."</string>
   <string name="title_chain_start">Zakázať reťazové spustenie</string>
   <string name="title_data_flow_monitor">Sledovanie spotreby dát je zapnuté</string>
   <string name="title_dev_model_off">Nastavenia pre vývojárov sú vypnuté</string>
-  <string name="title_device_not_root">"Root access wasn't granted"</string>
+  <string name="title_device_not_root">Zariadenie nemá práva ROOT</string>
   <string name="title_garbage_less">Cache apl. je malá</string>
   <string name="title_miui_update_latest">MIUI je aktuálne</string>
   <string name="title_payment_protection">Platby sú zabezpečené</string>
@@ -2581,5 +2581,4 @@ Tento proces skracuje životnosť batérie."</string>
   <string name="wifi_optizition_tip">Turn on WLAN speed boost to make WLAN connection more stable. A small amount of mobile data will be used.</string>
   <string name="wifi_optizition_title">WLAN speed boost</string>
   <string name="wlan_booster">WLAN speed boost</string>
-  <string name="title_device_not_root">Zariadenie nemá práva ROOT</string>
 </resources>
