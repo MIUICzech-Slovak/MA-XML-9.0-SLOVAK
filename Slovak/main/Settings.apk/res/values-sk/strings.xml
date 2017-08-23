@@ -4986,4 +4986,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="status_bar_screen_button_key_force_immersive">Skryť tlačidla na displeji</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">Odporučiť aktivovanie max. pomeru strán</string>
   <string name="unrestrict_max_aspect_ratio_title">Podporovať max. pomer strán</string>
+  <string name="popup_window">Povoliť vyskakovacie okná</string>
 </resources>

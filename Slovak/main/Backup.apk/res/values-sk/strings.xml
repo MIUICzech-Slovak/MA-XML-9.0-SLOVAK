@@ -350,4 +350,9 @@ Size: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
 Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Dostupná nová verzia!</string>
+  <string name="backup_security_tips_message">Aplikácie ktoré používajú osobné údaje nemusia byť zálohované alebo obnovené správne.</string>
+  <string name="backup_security_tips_title">Bezpečnostné upozornenie</string>
+  <string name="btn_got_it">Rozumiem</string>
+  <string name="trans_security_tips_message">Niektoré aplikácie nepodporujú Prenos.</string>
+  <string name="trans_security_tips_title">Kompatibilita Prenosu</string> 
 </resources>
