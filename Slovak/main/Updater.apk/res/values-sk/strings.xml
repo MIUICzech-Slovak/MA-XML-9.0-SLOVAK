@@ -22,9 +22,9 @@ Vaše dáta nebudú vymazané."</string>
   <string name="menu_title_current_version_log">Informácie o aktualizácií</string>
   <string name="menu_title_pick_rom_file">Vybrať ZIP z úložiska</string>
   <string name="menu_title_recovery">Reštartovať do TWRP recovery</string>
-  <string name="new_version">Je dostupná nová verzia!</string>
+  <string name="new_version">Je dostupná nová verzia MIUI!</string>
   <string name="no_network">Žiaden prístup k sieti.</string>
-  <string name="no_update">Nie je dostupná nová verzia!</string>
+  <string name="no_update">Nie je dostupná nová verzia MIUI!</string>
   <string name="notif_cancel">Zrušiť</string>
   <string name="notif_install">Inštalovať</string>
   <string name="notif_new_summary">Zobraziť podrobnosti</string>
