@@ -4987,10 +4987,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="suggest_unrestrict_max_aspect_ratio_title">Odporučiť aktivovanie max. pomeru strán</string>
   <string name="unrestrict_max_aspect_ratio_title">Podporovať max. pomer strán</string>
   <string name="popup_window">Povoliť vyskakovacie okná</string>
-  <string name="spellchecker_language">Jazyk</string>
-  <string name="spellchecker_quick_settings">Nastavenia</string>
-  <string name="spellchecker_security_warning">Táto kontrola pravopisu môže zhromažďovať zadávaný text vrátane osobných údajov, ako sú napríklad heslá alebo čísla kreditných kariet. Je používaná aplikáciou %1$s. Chcete povoliť túto kontrolu pravopisu?</string>
-  <string name="spellcheckers_settings_title">Kontrola pravopisu</string>
   <string name="add_facerecoginition_text">Pridať tvár</string>
   <string name="face_unlock_disable">Odomknutie tvárou je vyp.</string>
   <string name="face_unlock_enable">Odomknutie tvárou je zap.</string>
