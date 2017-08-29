@@ -607,7 +607,7 @@
   <string name="photo">Fotografie</string>
   <string name="photo_edit_file_not_exits_tip">Najskôr stiahnite fotografiu pred jej úpravou</string>
   <string name="photo_editor_label">Upraviť</string>
-  <string name="photo_editor_saving">Ukladanie</string>
+  <string name="photo_editor_saving">Ukladanie...</string>
   <string name="photo_page_save_uri_image_fail">Ukladanie snímky zlyhalo.</string>
   <string name="photo_page_save_uri_image_ok">Snímka bola uložená do zložky fotoaparátu.</string>
   <string name="photo_save_succeed">Uložené</string>
@@ -625,8 +625,8 @@
   <string name="picker_mobile_data_video">Nie je možné stiahnuť videá cez mobilné dáta, preskočiť %d.</string>
   <string name="picker_no_network_message">Sieť je nedostupná. Pripojte sa k sieti skúste to znova.</string>
   <string name="picker_origin_need_download">%1$d vybraných nie je v zariadení (%2$dMB), stiahnuť cez mobilné dáta?</string>
-  <string name="picker_title_format">Vyberte %1$d do %2$d obrázkov</string>
-  <string name="picker_title_selection_format">%d vybraných</string>
+  <string name="picker_title_format">Vyberte %1$d až %2$d obrázky</string>
+  <string name="picker_title_selection_format">Vybraných: %d</string>
   <string name="picker_title_unlimit">vyberte obrázok</string>
   <string name="posterize">Posterizovať</string>
   <string name="preparing_data">Spracovávanie dát...</string>

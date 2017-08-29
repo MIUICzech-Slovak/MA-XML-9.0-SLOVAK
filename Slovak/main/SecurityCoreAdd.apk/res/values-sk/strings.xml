@@ -280,4 +280,10 @@ Môžete ich aj znova stiahnuť."</string>
   <string name="can_not_switch_when_calling">Nie je možné prepnúť profil počas hovoru</string>  
   <string name="search_result_text">Nenašla sa žiadna apl.</string>
   <string name="sdcardfs_dialog_message">Vypnite Optimalizáciu emulovanej SD karty v Nastaveniach pre vývojárov.</string>
+  <string name="do_not_ask">Viac sa nepýtať</string>
+  <string name="gms_message">Vytvorenie klonovanej aplikácie vyžaduje Google služby. Vytvoriť klonovanú aplikáciu z Google služieb?</string>
+  <string name="gms_open_button">Povoliť</string>
+  <string name="gms_title">Povoliť Google služby</string>
+  <string name="gpg_message">Vytvorenie klonovanej aplikácie z hier vyžaduje Google Play Hry. Vytvoriť klonovanú aplikáciu pre Google Play Hry?</string>
+  <string name="gpg_title">Google Play Hry</string>
 </resources>

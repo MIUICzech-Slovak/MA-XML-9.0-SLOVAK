@@ -4987,4 +4987,19 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="suggest_unrestrict_max_aspect_ratio_title">Odporučiť aktivovanie max. pomeru strán</string>
   <string name="unrestrict_max_aspect_ratio_title">Podporovať max. pomer strán</string>
   <string name="popup_window">Povoliť vyskakovacie okná</string>
+  <string name="spellchecker_language">Jazyk</string>
+  <string name="spellchecker_quick_settings">Nastavenia</string>
+  <string name="spellchecker_security_warning">Táto kontrola pravopisu môže zhromažďovať zadávaný text vrátane osobných údajov, ako sú napríklad heslá alebo čísla kreditných kariet. Je používaná aplikáciou %1$s. Chcete povoliť túto kontrolu pravopisu?</string>
+  <string name="spellcheckers_settings_title">Kontrola pravopisu</string>
+  <string name="add_facerecoginition_text">Pridať tvár</string>
+  <string name="face_unlock_disable">Odomknutie tvárou je vyp.</string>
+  <string name="face_unlock_enable">Odomknutie tvárou je zap.</string>
+  <string name="fingerprint_first_open_screen_password_face_tittle">Biometria (najskôr nastavte heslo)</string>
+  <string name="fingerprint_manage_tittle">Odtlačok prsta</string>
+  <string name="force_immersive_compatibility_dont_hide">Neskrývať</string>
+  <string name="force_immersive_compatibility_hide">Skryť</string>
+  <string name="force_immersive_compatibility_hint_message">Niektoré aplikácie nemusia pracovať správne ak skryjete tlačidlá na displeji.</string>
+  <string name="force_immersive_compatibility_hint_title">Problémy s kompatibilitou</string>
+  <string name="manage_facerecoginition_text">Spravovať tváre</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Po deaktivovaní hesla zamykacej obrazovky sa vymaže aj nastavenie vašich odtlačkov.</string>
 </resources>

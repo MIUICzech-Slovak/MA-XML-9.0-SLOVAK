@@ -2581,4 +2581,7 @@ Tento proces skracuje životnosť batérie."</string>
   <string name="wifi_optizition_tip">Turn on WLAN speed boost to make WLAN connection more stable. A small amount of mobile data will be used.</string>
   <string name="wifi_optizition_title">WLAN speed boost</string>
   <string name="wlan_booster">WLAN speed boost</string>
+  <string name="app_manager_back">Naspäť</string>
+  <string name="background_restrict_app_dialog_message">Zákaz používať mobilné dáta na pozadí pre túto aplikáciu môže znamenať, že nebude fungovať správne. Chcete zakázať dáta na pozadí?</string>
+ <string name="menu_report">Nahlásiť chybu</string>
 </resources>

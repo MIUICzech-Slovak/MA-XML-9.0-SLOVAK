@@ -160,4 +160,7 @@
   <string name="miui_screen_ratio_hint_go_to_settings">Choďte do Nastavení</string>
   <string name="miui_screen_ratio_hint_message">Táto aplikácia má povolený beh v režime na celú obrazovku, čo môže spôsobiť jej nesprávne zobrazenie. Môžete to zmeniť v Nastavenia - Ďalšie nastavenia - Tlačidlá.</string>
   <string name="miui_screen_ratio_hint_ok">OK</string>  
+  <string name="switch_brand_desc_tv">Zabezpečenie je poskytované Graphite</string>
+  <string name="switch_desc_tv">Dva profily. Jedno zariadenie.</string>
+  <string name="switching_tv">Prepínanie...</string>
 </resources>
