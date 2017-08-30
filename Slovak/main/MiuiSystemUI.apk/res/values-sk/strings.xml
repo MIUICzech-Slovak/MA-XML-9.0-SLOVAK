@@ -405,4 +405,5 @@ posunutím nadol uzamknete"</string>
   <string name="unimportant_title">Nedôležité</string>
   <string name="screenshot_insert_failed">Načítavanie schreenshotu zlyhalo. Skúste ho zhotoviť znova.</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">KeyGuard nepodporuje multi-window režim.</string>  
+  <string name="call_status_holding">Držanie</string>
 </resources>

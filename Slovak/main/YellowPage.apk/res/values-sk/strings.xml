@@ -206,4 +206,7 @@ Majte na pamäti, že žiadna banka alebo iné spoločnosti sa Vás nesmú pýta
   <string name="yellow_page_call_log_title">Zoznam hovorov</string>
   <string name="yellow_page_detail_title">Čo je to</string>
   <string name="yellow_page_website">Oficiálna stránka</string>
+  <string name="turn_on_online_antispam_enable">Povoliť</string>
+  <string name="turn_on_online_antispam_summary">Povoliť Caller ID pre rozpoznanie neznámych čísel.</string>
+  <string name="turn_on_online_antispam_title">Povoliť Caller ID</string>
 </resources>

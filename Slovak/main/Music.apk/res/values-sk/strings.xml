@@ -575,4 +575,6 @@
   <string name="music_notification_headset_settings">Pripojené slúchadla</string>  
   <string name="start_shuffle">Spustiť náhodne...</string>
   <string name="local_header_title">Lokálna hudba</string>
+  <string name="toast_new_playlist_name_no_enter">"tlačidlo 'Enter' bolo vymazané"</string>
+  <string name="toast_new_playlist_name_too_long">Názov Playlistu je príliš dlhý</string>
 </resources>
