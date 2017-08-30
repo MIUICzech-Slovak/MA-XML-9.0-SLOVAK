@@ -5000,10 +5000,4 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Po deaktivovaní hesla zamykacej obrazovky sa vymaže aj nastavenie vašich odtlačkov.</string>
   <string name="bluetooth_device_misc_title">Zriedkavo používané zariadenia</string>
   <string name="bt_rarely_used_device_title">Zriedkavo používané zaridenia (%d)</string>
-  <string name="close_gesture">Skryť pomocou gesta</string>
-  <string name="got_it">Rozumiem</string>
-  <string name="hide">Skryť</string>
-  <string name="hide_screen_button">Skryť tlačidlá na displeji</string>
-  <string name="screen_button">Tlačidlá na displeji</string>
-  <string name="screen_button_tips">Posuňte nadol pre ukrytie tlačidiel</string>
 </resources>
