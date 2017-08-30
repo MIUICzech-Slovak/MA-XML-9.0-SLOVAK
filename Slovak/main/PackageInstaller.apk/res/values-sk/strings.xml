@@ -599,15 +599,10 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="wifi_verbose_logging_summary">Increase Wi‑Fi logging level, show per SSID RSSI in Wi‑Fi Picker</string>
   <string name="window_animation_scale_title">Window animation scale</string>
   <string name="app_version">Verzia: %1$s</string>
-  <string name="auto_startup_dialog_msg">Táto aplikácia sa môže spustiť bez vášho povolenia.</string>
   <string name="miui_installing2">Inštalácia...</string>
   <string name="miui_message_staging">Kontrola...</string>
   <string name="miui_uninstall_application_text">Chcete odinštalovať túto aplikáciu?</string>
-  <string name="miui_uninstall_success">Odinštalované</string>
   <string name="miui_uninstall_update_text">Nahradiť túto aplikáciu verziou v ROM? Všetky jej dáta budú vymazané.</string>
-  <string name="permission_action_accept">Povoliť</string>
-  <string name="permission_action_prompt">Opýtať sa</string>
-  <string name="permission_action_reject">Zakázať</string>
   <string name="permission_detail">Povolenia</string>
   <string name="pref_ads">Odporúčania</string>
   <string name="pref_key_antivirus">Antivírus</string>
