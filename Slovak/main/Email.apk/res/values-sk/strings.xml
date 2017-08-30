@@ -882,7 +882,7 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
  Nie je možné načítať správy"</string>
   <string name="system_setup_open_error">Synchronizácia nie je povolená.</string>
   <string name="account_settings_preference_add_account">Pridajte účet</string>
-  <string name="account_settings_preference_head_icon">Head portrait switch</string>
+  <string name="account_settings_preference_head_icon">Zobraziť avatary</string>
   <string name="account_settings_preference_notify">Upozornenie</string>
   <string name="account_settings_user_usage">Nastavenie účtu</string>
   <string name="account_setup_options_actionbar_title">Bežné nastavenia</string>
@@ -895,7 +895,7 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="edit_signature">Upraviť podpis</string>
   <string name="login_support_tip_text">Podporuje všetky bežné emailové účty</string>
   <string name="mailbox_name_display_add_account">Pridať účet</string>
-  <string name="new_signature_has_saved">Novú podpis bol uložený</string>
+  <string name="new_signature_has_saved">Nový podpis bol uložený</string>
   <string name="save_this_new_signature">Uložiť nový podpis?</string>
   <string name="search_bar_text">Vyhľadať email, odosielateľa</string>
   <string name="topic_merge_summary">Režim zobrazenia vo vlákne</string>
