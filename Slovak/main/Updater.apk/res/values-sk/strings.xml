@@ -47,4 +47,8 @@ Vaše dáta nebudú vymazané."</string>
   <string name="wifi_recommended">Pripojte sa na Wi-fi sieť pre stiahnutie aktualizácie!</string>
   <string name="no_info">Informácie nie sú dostupné</string>
   <string name="notifications_switch">Upozorniť na novú verziu</string>
+  <string name="dialog_3g_desc">Sťahovanie novej verzie MIUI cez mobilné dáta môže navýšiť vaše mesačné poplatky. Odporúča sa pripojiť na Wi-Fi.</string>
+  <string name="dialog_3g_title">Upozornenie!</string>
+  <string name="dialog_btn_3g">Pokračovať</string>
+  <string name="dialog_btn_wifi">Prepnúť na Wi-Fi</string>
 </resources>
