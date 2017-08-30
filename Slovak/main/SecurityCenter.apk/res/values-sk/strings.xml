@@ -2583,5 +2583,6 @@ Tento proces skracuje životnosť batérie."</string>
   <string name="wlan_booster">WLAN speed boost</string>
   <string name="app_manager_back">Naspäť</string>
   <string name="background_restrict_app_dialog_message">Zákaz používať mobilné dáta na pozadí pre túto aplikáciu môže znamenať, že nebude fungovať správne. Chcete zakázať dáta na pozadí?</string>
- <string name="menu_report">Nahlásiť chybu</string>
+  <string name="menu_report">Nahlásiť chybu</string>
+  <string name="access_control_app_is_launching">Apl. sa spúšťa</string>
 </resources>
