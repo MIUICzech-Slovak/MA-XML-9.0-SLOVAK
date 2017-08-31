@@ -1402,7 +1402,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="enable_service_password_reason">Keďže zapnutie služby %1$s ovplyvňuje šifrovanie údajov, musíte potvrdiť svoje heslo.</string>
   <string name="enable_service_pattern_reason">Keďže zapnutie služby %1$s ovplyvňuje šifrovanie údajov, musíte potvrdiť svoj vzor.</string>
   <string name="enable_service_pin_reason">Keďže zapnutie služby %1$s ovplyvňuje šifrovanie údajov, musíte potvrdiť svoj kód PIN.</string>
-  <string name="enable_service_title">Služba vykoná tieto akcie:</string>
+  <string name="enable_service_title">Použiť %1$s?</string>
   <string name="enable_snapshot_screenlock">Rýchla fotografia tl. Späť</string>
   <string name="enable_terminal_summary">Povoliť terminálovú apl. na miestny prístup k prostrediu shell</string>
   <string name="enable_terminal_title">Miestny terminál</string>
