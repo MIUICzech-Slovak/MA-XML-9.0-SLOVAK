@@ -24,11 +24,11 @@
   <string name="activate_history_success_overview">Aktivácia SIM karty úspešná. Aktivácia je spustená \"%1$s\".</string>
   <string name="activate_history_title">Aktivácia SIM karty</string>
   <string name="activate_phone_cancel_notif_title">Aktivácia SIM karty zrušená</string>
-  <string name="activate_phone_cancel_notif_title_msim">Aktivácia SIM karty %s zrušená</string>
+  <string name="activate_phone_cancel_notif_title_msim">Aktivácia SIM karty %d zrušená</string>
   <string name="activate_phone_failed_notif_title">Nie je možné aktivovať SIM kartu</string>
-  <string name="activate_phone_failed_notif_title_msim">Nie je možné aktivovať SIM kartu %s</string>
+  <string name="activate_phone_failed_notif_title_msim">Nie je možné aktivovať SIM kartu %d</string>
   <string name="activate_phone_success_notif_title">SIM karta aktivovaná</string>
-  <string name="activate_phone_success_notif_title_msim">SIM karta %s aktivovaná</string>
+  <string name="activate_phone_success_notif_title_msim">SIM karta %d aktivovaná</string>
   <string name="activate_popup_confirm_all_gateway_failed_query_info">Znova</string>
   <string name="activate_popup_confirm_all_gateway_failed_send_sms">Znova</string>
   <string name="activate_popup_confirm_error_device_id">Znova</string>
@@ -104,7 +104,7 @@ Zadajte vaše telefónne číslo novej SIM karty pre aktiváciu %s"</string>
   <string name="activate_status_desc_wait_for_sms_fail">Nie je možné prijať aktivačnú SMS zo servera</string>
   <string name="activate_status_desc_wait_for_sms_success">Aktivačná SMS zo servera prijatá</string>
   <string name="activate_status_title_activating">Aktivácia vašej SIM karty</string>
-  <string name="activate_status_title_activating_msim">Aktivácia vašej SIM karty %s</string>
+  <string name="activate_status_title_activating_msim">Aktivácia vašej SIM karty %d</string>
   <string name="app_name">Aktivácia SIM karty</string>
   <string name="error_device_id_message">"Chybné ID zariadenia: %s
 ID zariadenia musí byť platný IMEI alebo MAC adresa. Bez platného ID nebudú dostupné niektoré služby a funkcie."</string>
@@ -116,4 +116,11 @@ ID zariadenia musí byť platný IMEI alebo MAC adresa. Bez platného ID nebudú
   <string name="sync_notification_title_format">Synchronizácia: %1$s</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmsf_activate_info">XMSF info</string>
+  <string name="agree">Súhlasím</string>
+  <string name="phone_get_processing">Načítavanie...</string>
+  <string name="phone_get_text">Súhlasíte s %1$s pre použitie vášho telefónneho čísla: %2$s</string>
+  <string name="phone_get_title">Súhlasíte s %1$s pre použitie vášho telefónneho čísla</string>
+  <string name="phone_verify_processing">Overovanie...</string>
+  <string name="phone_verify_text">%1$s nepoužije vaše telefónne číslo, len overí či sa zhoduje.</string>
+  <string name="phone_verify_title">Súhlasíte s %1$s pre overenie vášho telefónneho čísla</string>
 </resources>
