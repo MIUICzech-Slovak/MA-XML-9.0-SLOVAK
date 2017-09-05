@@ -1076,4 +1076,6 @@
   <string name="text_edit_dialog_style_shadow">Tieň</string>
   <string name="text_edit_dialog_style_transparent">Priehľadnosť</string>
   <string name="text_edit_sub_menu_text">Bublina</string>
+  <string name="error_download_tip">Nebolo možné stiahnuť</string>
+  <string name="search_title_more">Viac</string>
 </resources>

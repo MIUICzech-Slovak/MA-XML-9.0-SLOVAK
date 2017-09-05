@@ -1292,4 +1292,6 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="select_all_exceed">Vyberte maximálne %1$d, nie všetko</string>
   <string name="select_exceed">Vyberte maximálne %1$d</string>  
   <string name="add_field_toast">Žiadne položky na pridanie.</string>
+  <string name="sim_export_error">SIM nie je pripravená, skúste to znova</string>
+  <string name="toast_start_intent_failed">Nenašla sa žiadna aplikácia pre použitie</string>
 </resources>
