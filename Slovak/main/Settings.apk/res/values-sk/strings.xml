@@ -5010,8 +5010,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="key_gesture_function_preview">Ukážka gest a tlačidiel</string>
   <string name="key_gesture_function_shortcut">Skratka funkcie</string>
   <string name="key_none">Žiaden</string>
-  <string name="key_settings">Skratky tlačiediel</string>
-  <string name="key_settings_title">Skratky tlačiediel</string>
   <string name="key_system_control">Ovládané systémom</string>
   <string name="key_combination_power_back">Zapínanie + Späť</string>
   <string name="key_combination_power_home">Zapínanie + Domov</string>
