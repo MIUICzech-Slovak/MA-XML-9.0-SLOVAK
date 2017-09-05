@@ -2585,8 +2585,5 @@ Tento proces skracuje životnosť batérie."</string>
   <string name="background_restrict_app_dialog_message">Zákaz používať mobilné dáta na pozadí pre túto aplikáciu môže znamenať, že nebude fungovať správne. Chcete zakázať dáta na pozadí?</string>
   <string name="menu_report">Nahlásiť chybu</string>
   <string name="access_control_app_is_launching">Apl. sa spúšťa</string>
-  <string name="button_text_clear">Vyčistiť</string>
   <string name="button_text_forbid_now">Zabudnúť</string>
-  <string name="hints_risk_descx_title">"Popis: "</string>
-  <string name="hints_risk_name_title">"Riziko: "</string>
 </resources>
