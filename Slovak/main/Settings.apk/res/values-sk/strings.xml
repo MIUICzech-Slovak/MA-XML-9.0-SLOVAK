@@ -5003,13 +5003,13 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="close_app">Zatvoriť aktuálnu aplikáciu</string>
   <string name="double_click_power_key">Dvojité stlačenie Zapínania</string>
   <string name="go_to_sleep">Uspať zariadenie</string>
-  <string name="key_gesture_function_dialog_message">%1$s bolo nastavené na %2$s skratky, nahradené s %3$s</string>
+  <string name="key_gesture_function_dialog_message">%1$s bolo nastavené na %2$s a bude nahradené s %3$s</string>
   <string name="key_gesture_function_dialog_negative">Zrušiť</string>
   <string name="key_gesture_function_dialog_positive">Nahradiť</string>
-  <string name="key_gesture_function_optional">Voliteľné gestá a tlačidlá</string>
-  <string name="key_gesture_function_preview">Ukážka gest a tlačidiel</string>
-  <string name="key_gesture_function_shortcut">Skratka funkcie</string>
-  <string name="key_none">Žiaden</string>
+  <string name="key_gesture_function_optional">Možnosti gest a tlačidiel</string>
+  <string name="key_gesture_function_preview">Ukážka</string>
+  <string name="key_gesture_function_shortcut">Funkcie skratiek</string>
+  <string name="key_none">Žiadne</string>
   <string name="key_system_control">Ovládané systémom</string>
   <string name="key_combination_power_back">Zapínanie + Späť</string>
   <string name="key_combination_power_home">Zapínanie + Domov</string>
@@ -5024,6 +5024,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="long_press_menu_key_when_lock">Dlhé podržanie Menu na zamykacej obrazovke</string>
   <string name="screen_shot">Zhotoviť Screenshot</string>
   <string name="show_menu">Zobraziť Menu</string>
-  <string name="three_gesture_down">Three Gesture Down</string>
+  <string name="three_gesture_down">Potiahnutie troma prstami</string>
   <string name="turn_on_torch">Spustiť Svietidlo</string>
 </resources>
