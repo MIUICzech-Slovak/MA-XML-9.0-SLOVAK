@@ -252,4 +252,5 @@
   <string name="card_title_answering_fail">Nebolo možné prijať hovor, skúste to znova.</string>
   <string name="card_title_hanging_up_fail">Nebolo možné ukončiť hovor, skúste to znova.</string>
   <string name="package_not_available">\"%s\" nie je dostupné</string>
+  <string name="card_title_answering_time_out">Nebolo možné prijať hovor, skúste to znova.</string>
 </resources>

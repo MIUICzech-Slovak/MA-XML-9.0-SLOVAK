@@ -5026,4 +5026,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="show_menu">Zobraziť Menu</string>
   <string name="three_gesture_down">Potiahnutie troma prstami</string>
   <string name="turn_on_torch">Spustiť Svietidlo</string>
+  <string name="bug_report_settings">Hlásenie chýb</string>
+  <string name="search_input_hint">Nastavenie vyhľadávania</string>
+  <string name="spellchecker_switch_title">Povoliť kontrolu pravopisu</string>
 </resources>
