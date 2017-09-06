@@ -931,4 +931,12 @@ Postupujte podľa pokynov"</item>
         <item>Zobraziť vždy</item>
         <item>Nezobrazovať</item>
     </string-array>
+    <string-array name="standard_configuration_version_description_primary_mi3">
+        <item>CPU</item>
+        <item>Batéria</item>
+        <item>Fotoaparát</item>
+        <item>Displej</item>
+        <item>Rozlíšenie</item>
+        <item>Android</item>
+    </string-array>	
 </resources>
