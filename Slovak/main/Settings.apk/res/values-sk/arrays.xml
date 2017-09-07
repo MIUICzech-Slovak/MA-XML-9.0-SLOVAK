@@ -947,6 +947,6 @@ Postupujte podľa pokynov"</item>
     <string-array name="check_importance_summary">
         <item>Inteligentné posúdenie. Menej dôležité upozornenia budú triedené do zložky.</item>
         <item>Upozornenia budú zobrazené priamo v roletke</item>
-        <item>Všetky upzornenia budú triedené do zložky</item>
+        <item>Všetky upozornenia budú triedené do zložky</item>
      </string-array>	
 </resources>
