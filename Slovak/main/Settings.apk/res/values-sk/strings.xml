@@ -5029,4 +5029,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="bug_report_settings">Hlásenie chýb</string>
   <string name="search_input_hint">Nastavenie vyhľadávania</string>
   <string name="spellchecker_switch_title">Povoliť kontrolu pravopisu</string>
+  <string name="check_importance">Skontrolovať dôležitosť</string>
+  <string name="statusbar_permission_desc">Povolenia sú dostupné len pre dôležité upozornenia</string>
+  <string name="unimportant">Nedôležité</string>
 </resources>

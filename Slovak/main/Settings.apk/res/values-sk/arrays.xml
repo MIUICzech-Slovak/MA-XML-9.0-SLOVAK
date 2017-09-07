@@ -939,4 +939,14 @@ Postupujte podľa pokynov"</item>
         <item>Rozlíšenie</item>
         <item>Android</item>
     </string-array>	
+    <string-array name="check_importance_entries">
+        <item>Odporúčané</item>
+        <item>Dôležité</item>
+        <item>Nedôležité</item>
+    </string-array>	
+    <string-array name="check_importance_summary">
+        <item>Inteligentné posúdenie. Menej dôležité upozornenia budú triedené do zložky.</item>
+        <item>Upozornenia budú zobrazené priamo v roletke</item>
+        <item>Všetky upzornenia budú triedené do zložky</item>
+     </string-array>	
 </resources>
