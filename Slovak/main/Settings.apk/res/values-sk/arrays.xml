@@ -948,5 +948,9 @@ Postupujte podľa pokynov"</item>
         <item>Inteligentné posúdenie. Menej dôležité upozornenia budú triedené do zložky.</item>
         <item>Upozornenia budú zobrazené priamo v roletke</item>
         <item>Všetky upozornenia budú triedené do zložky</item>
-     </string-array>	
+     </string-array>
+    <string-array name="screen_key_position_action">
+        <item>Menu naľavo, Späť napravo</item>
+        <item>Späť naľavo, Menu napravo</item>
+    </string-array>	
 </resources>

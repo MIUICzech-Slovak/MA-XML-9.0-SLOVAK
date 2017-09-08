@@ -5032,4 +5032,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="check_importance">Skontrolovať dôležitosť</string>
   <string name="statusbar_permission_desc">Povolenia sú dostupné len pre dôležité upozornenia</string>
   <string name="unimportant">Nedôležité</string>
+  <string name="key_position_cat">Rozloženie tlačidiel</string>
+  <string name="screen_key_position">Navigačné tlačidlá</string>
 </resources>
