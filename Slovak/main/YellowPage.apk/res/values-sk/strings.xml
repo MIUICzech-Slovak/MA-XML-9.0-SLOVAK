@@ -193,7 +193,7 @@ Majte na pamäti, že žiadna banka alebo iné spoločnosti sa Vás nesmú pýta
   <string name="title_about_yellow_page">Čo je to</string>
   <string name="toast_finish_delete_call_log">Zoznam hovorov bol vymazaný</string>
   <string name="toast_text_copied">Text skopírovaný</string>
-  <string name="try_again">Skúsiť opôť</string>
+  <string name="try_again">Skúsiť opäť</string>
   <string name="turn_on_smart_antispam_hint">Po povolení, neznáme čísla budú identifikované. Ak sa číslo nenájde, môžete ho priradiť do správnej kategórie alebo si vytvoriť vlastnú.</string>
   <string name="turn_on_smart_antispam_summary_off">Pýtať sa len na čísla s miestnou predvoľbou</string>
   <string name="turn_on_smart_antispam_summary_on">Identifikovať neznáme čísla a odoslať do databázy</string>
