@@ -51,4 +51,6 @@ Vaše dáta nebudú vymazané."</string>
   <string name="dialog_3g_title">Upozornenie!</string>
   <string name="dialog_btn_3g">Pokračovať</string>
   <string name="dialog_btn_wifi">Prepnúť na Wi-Fi</string>
+  <string name="dialog_stop_desc">Ste si istý, že chcete ukončiť sťahovanie?</string>
+  <string name="dialog_stop_title">Zastaviť sťahovanie?</string>
 </resources>
