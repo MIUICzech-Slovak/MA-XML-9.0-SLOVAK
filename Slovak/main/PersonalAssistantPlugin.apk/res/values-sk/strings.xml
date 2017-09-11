@@ -10,7 +10,7 @@
   <string name="agenda_assistant_finish">Všetky udalosti sú na dnes ukončené</string>
   <string name="agenda_assistant_gas">Gas bills</string>
   <string name="agenda_assistant_loan_payment">Hypotéka</string>
-  <string name="agenda_assistant_more">všetky udalosti</string>
+  <string name="agenda_assistant_more">Všetky udalosti</string>
   <string name="agenda_assistant_payment_day">Payment day</string>
   <string name="agenda_assistant_repayment_day">Payment day</string>
   <string name="agenda_assistant_tail_num">Číslo</string>
@@ -33,7 +33,7 @@
   <string name="calc_parent">Kalkulačka</string>
   <string name="calendar_name">Nová udalosť</string>
   <string name="calendar_parent">Kalendár</string>
-  <string name="card_hint_noteboard">Nová poznámka.</string>
+  <string name="card_hint_noteboard">Nová poznámka</string>
   <string name="card_menu_edit">Upraviť</string>
   <string name="card_menu_setting">Nastavenia</string>
   <string name="card_note_finish">Hotovo</string>
