@@ -406,4 +406,7 @@ posunutím nadol uzamknete"</string>
   <string name="screenshot_insert_failed">Načítavanie schreenshotu zlyhalo. Skúste ho zhotoviť znova.</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">KeyGuard nepodporuje multi-window režim.</string>  
   <string name="call_status_holding">Držanie</string>
+  <string name="accessibility_brightness_slider">Posuvník jasu</string>
+  <string name="accessibility_search_scanner">Skener</string>
+  <string name="accessibility_settings">Nastavenia</string>
 </resources>

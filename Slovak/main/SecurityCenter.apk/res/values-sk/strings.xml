@@ -2586,4 +2586,5 @@ Tento proces skracuje životnosť batérie."</string>
   <string name="menu_report">Nahlásiť chybu</string>
   <string name="access_control_app_is_launching">Apl. sa spúšťa</string>
   <string name="button_text_forbid_now">Zabudnúť</string>
+  <string name="network_test_speed">Otestovať rýchlosť Wi-Fi</string>
 </resources>

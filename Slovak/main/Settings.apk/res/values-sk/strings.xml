@@ -5032,4 +5032,23 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="check_importance">Skontrolovať dôležitosť</string>
   <string name="statusbar_permission_desc">Povolenia sú dostupné len pre dôležité upozornenia</string>
   <string name="unimportant">Nedôležité</string>
+  <string name="add_back_fingerprint_instruction_msg">Priložte prst na senzor</string>
+  <string name="add_fingerprint_edge_instruction_msg">Pohnite vašim prstom tak aby senzor zaznamenal aj kraje vášho prsta.</string>
+  <string name="add_fingerprint_edge_instruction_title">Jemne pohnite prstom</string>
+  <string name="add_front_fingerprint_instruction_msg">Senzor je na zadnej strane vášho zariadenia.</string>
+  <string name="setup_add_fingerprint_failed_retry_text">Nebolo možné pridať odtlačok</string>
+  <string name="setup_choose_unlock_fingerprint_msg">Nastavte odomykanie pred pridaním odtlačku prsta.</string>
+  <string name="setup_choose_unlock_mixed_password_color_normal">Heslo</string>
+  <string name="setup_choose_unlock_mixed_password_color_pressed">Heslo</string>
+  <string name="setup_choose_unlock_mixpassword_title">Nastaviť heslo</string>
+  <string name="setup_choose_unlock_password_color_normal">PIN</string>
+  <string name="setup_choose_unlock_password_color_pressed">PIN</string>
+  <string name="setup_choose_unlock_password_msg">Zadajte 4 čísla</string>
+  <string name="setup_choose_unlock_password_title">Nastaviť PIN</string>
+  <string name="setup_choose_unlock_pattern_color_normal">Vzor</string>
+  <string name="setup_choose_unlock_pattern_color_pressed">Vzor</string>
+  <string name="setup_choose_unlock_pattern_title">Nakreslite odomykací vzor</string>
+  <string name="setup_choose_unlock_type_title">Nastaviť heslo</string>
+  <string name="setup_password_back">Späť</string>
+  <string name="setup_password_confirm">OK</string>
 </resources>

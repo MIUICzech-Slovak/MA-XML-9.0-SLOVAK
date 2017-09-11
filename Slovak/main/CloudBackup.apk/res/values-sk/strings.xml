@@ -122,4 +122,5 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="start_recover">Obnoviť %s</string>
   <string name="success_open_cloudbackup">Povolená záloha pre rozloženie plochy a apl.</string>
   <string name="wait_icon_download">Sťahovanie ikony aplikácie</string>
+  <string name="restore_data_title">Obnoviť dáta</string>
 </resources>
