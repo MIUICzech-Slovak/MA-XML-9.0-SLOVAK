@@ -481,4 +481,8 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="find_device_message">Zariadenie je uzamknuté, správa: %1$s, telefón: %2$s.</string>
   <string name="find_device_owner_phone">Zariadenie je uzamknuté, telefón: %1$s.</string>
   <string name="find_device_prompt_message">Zariadenie je uzamknuté, správa: %1$s.</string>
+  <string name="passport_no">Nie</string>
+  <string name="passport_quick_register">Prihlásiť</string>
+  <string name="passport_set_password_no_phone_msg">Ak chcete chrániť vaše dáta, nastavte heslo.</string>
+  <string name="passport_yes">Áno</string>
 </resources>

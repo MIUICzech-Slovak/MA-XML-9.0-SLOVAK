@@ -355,4 +355,12 @@ Delta update size: %2$s"</string>
   <string name="btn_got_it">Rozumiem</string>
   <string name="trans_security_tips_message">Niektoré aplikácie nepodporujú Prenos.</string>
   <string name="trans_security_tips_title">Kompatibilita Prenosu</string> 
+  <string name="notif_trans_wait_for_reconnecting">Vzdialené zariadenie je odpojené. Pripojte ho znovu.</string>
+  <string name="reconnect">Pripojiť znova</string>
+  <string name="trans_connect_failed_device_incompatible">Zariadenie nie je kompatibilné. Zrušte prenos a skúste to znova.</string>
+  <string name="trans_device_wait_for_reconnecting">Zariadenie je odpojené. Pripojte ho znova.</string>
+  <string name="trans_operate_reconnect_new_tips">"Počkajte kým sa na novom telefóne nezobrazí \"Zariadenie je odpojené\".
+Potom stlačte [Znova pripojiť] pre vytvorenie QR kódu."</string>
+  <string name="trans_operate_reconnect_old_tips">"Počkajte kým sa na starom telefóne nezobrazí \"Zariadenie je odpojené\".
+Potom stlačte [Znova pripojiť] pre vytvorenie QR kódu."</string>
 </resources>
