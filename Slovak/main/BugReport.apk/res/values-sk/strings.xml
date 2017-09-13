@@ -228,4 +228,10 @@
   <string name="mobile_data_note_dialog_content">Odosielanie záznamov o chybe na mobilných dátach môže navýšiť vaše poplatky.</string>
   <string name="mobile_data_note_dialog_content_with_file_size">Odosielanie záznamov o chybe na mobilných dátach spotrebuje %sMB.</string>
   <string name="mobile_data_note_dialog_title">Upozornenie na mobilné dáta</string>
+  <string name="bugreport_tool_log_dumping_desc">Trvá približne 1 min</string>
+  <string name="bugreport_tool_log_dumping_title">Vytváranie hlásenia</string>
+  <string name="modem_tool_log_dumping_desc">Dotykom zastavíte</string>
+  <string name="modem_tool_log_dumping_title">Vytváranie hlásenia</string>
+  <string name="modem_tool_log_finish_desc">Log uložený do %s</string>
+  <string name="modem_tool_log_finish_title">Hlásenie vytvorené</string>
 </resources>

@@ -900,4 +900,15 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="search_bar_text">Vyhľadať email, odosielateľa</string>
   <string name="topic_merge_summary">Režim zobrazenia vo vlákne</string>
   <string name="update_to_wps_mail">Pre viac možností nainštalujte WPS-mail</string>
+  <string name="account_setup_basics_login_gmail_without_proxy">Použiť aktuálne pripojenie</string>
+  <string name="default_signature_2">Odoslané z môjho %s</string>
+  <string name="oauth_login_usr_proxy">Proxy prihlásenie</string>
+  <string name="open_calendar_and_contacts_permission">Povoľte práva k používaniu Kalendára a Kontaktov v nastaveniach</string>
+  <string name="open_external_storage_and_calendar_permission">Povoľte práva k používaniu Kalendára a úložiska v nastaveniach</string>
+  <string name="open_external_storage_and_contacts_and_calendar_permission">Povoľte práva k používaniu Kalendára, Kontaktov a úložiska v nastaveniach</string>
+  <string name="open_external_storage_and_contacts_permission">Povoľte práva k používaniu Kontaktov a úložiska v nastaveniach</string>
+  <string name="sync_contacts_fail_per_content">Povoľte práva ku Kontaktom</string>
+  <string name="sync_contacts_fail_per_title">Synchronizácia kontaktov zlyhala</string>
+  <string name="sync_contacts_fail_permission">Synchronizácia kontaktov zlyhala. Povoľte práva ku Kontaktom v nastaveniach.</string>
+  <string name="sync_contacts_req_per_ignored">Synchronizácia kontaktov zlyhala</string>
 </resources>

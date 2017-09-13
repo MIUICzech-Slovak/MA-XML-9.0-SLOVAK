@@ -577,4 +577,5 @@
   <string name="local_header_title">Lokálna hudba</string>
   <string name="toast_new_playlist_name_no_enter">"tlačidlo 'Enter' bolo vymazané"</string>
   <string name="toast_new_playlist_name_too_long">Názov Playlistu je príliš dlhý</string>
+  <string name="no_system_cropper_find">Systém neobsahuje funkciu orezania obrázku</string>
 </resources>

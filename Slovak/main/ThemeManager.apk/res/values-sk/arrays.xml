@@ -7,4 +7,11 @@
         <item>Rastliny</item>
         <item>Zvieratá</item>
     </string-array>
+    <string-array name="wallpaper_settings_precust_global_cover_name">
+        <item>Krajina</item>
+        <item>Zvieratá</item>
+        <item>Rastliny</item>
+        <item>Kreativita</item>
+        <item>Štýl</item>
+    </string-array>
 </resources>
