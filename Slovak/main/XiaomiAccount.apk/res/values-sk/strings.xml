@@ -485,4 +485,13 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="passport_quick_register">Prihlásiť</string>
   <string name="passport_set_password_no_phone_msg">Ak chcete chrániť vaše dáta, nastavte heslo.</string>
   <string name="passport_yes">Áno</string>
+  <string name="passport_confirm_recycle_account_msg">%s is the operator to buy again after the purchase number, the number has been under the millet account, this account is your</string>
+  <string name="passport_continue">Pokračovať</string>
+  <string name="mi_vip_info">Oprávnenia</string>
+  <string name="passport_login_recycle_account_no">Nie</string>
+  <string name="passport_login_recycle_account_yes">Áno</string>
+  <string name="passport_reg_recycle_account_no">Nie</string>
+  <string name="passport_reg_recycle_account_yes">Áno</string>
+ <string name="passport_set_password_no_phone_msg">Pridajte vaše číslo pre ochranu vášho účtu.</string>
+ <string name="vip_settings_info">VIP nastavenia</string>
 </resources>

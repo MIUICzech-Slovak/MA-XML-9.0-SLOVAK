@@ -949,5 +949,10 @@ Postupujte podľa pokynov"</item>
         <item>Upozornenia budú zobrazené priamo v roletke</item>
         <item>Všetky upozornenia budú triedené do zložky</item>
      </string-array>
-
+    <string-array name="vip_mode_text">
+        <item>Od všetkých</item>
+        <item>Iba od kontaktov</item>
+        <item>Iba od obľúbených kontaktov</item>
+        <item>Žiaden</item>
+    </string-array>
 </resources>
