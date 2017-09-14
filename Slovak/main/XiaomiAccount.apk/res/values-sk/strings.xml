@@ -483,7 +483,6 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="find_device_prompt_message">Zariadenie je uzamknuté, správa: %1$s.</string>
   <string name="passport_no">Nie</string>
   <string name="passport_quick_register">Prihlásiť</string>
-  <string name="passport_set_password_no_phone_msg">Ak chcete chrániť vaše dáta, nastavte heslo.</string>
   <string name="passport_yes">Áno</string>
   <string name="passport_confirm_recycle_account_msg">%s is the operator to buy again after the purchase number, the number has been under the millet account, this account is your</string>
   <string name="passport_continue">Pokračovať</string>
