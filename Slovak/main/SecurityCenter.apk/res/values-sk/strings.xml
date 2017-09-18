@@ -2587,4 +2587,15 @@ Tento proces skracuje životnosť batérie."</string>
   <string name="access_control_app_is_launching">Apl. sa spúšťa</string>
   <string name="button_text_forbid_now">Zabudnúť</string>
   <string name="network_test_speed">Otestovať rýchlosť Wi-Fi</string>
+  <string name="pref_special_package_setting">Upraviť dátový balíček</string>
+  <string name="pref_special_package_setting_summary">Spravovať denný limit dát, navýšenie a sledovanie spotreby dát aplikácií</string>
+  <string name="pref_over_traffic_limit">Po prekročení balíčku</string>
+  <string name="pref_category_extra_package_tile">Navýšenie balíčku dát</string>
+  <string name="pref_key_extra_package_value">Veľkosť balíčku</string>
+  <string name="pref_key_half_year_package_value">Veľkosť balíčku</string>
+  <string name="pref_category_daily_package_tile">Denný objem dát</string>
+  <string name="pref_key_daily_package_switch">Denný objem dát</string>
+  <string name="pref_key_daily_package_value">Denný objem dát</string>
+  <string name="pref_key_daily_package_summary">Denné obnovenie dátového balíčku</string>
+  <string name="pref_key_direction_traffic">Ignorovať spotrebu dát</string>
 </resources>
