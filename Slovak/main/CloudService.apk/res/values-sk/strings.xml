@@ -551,4 +551,8 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
   <string name="micloud_find_device_verify_fail">Nebolo možné reaktivovať</string>
   <string name="micloud_find_device_verify_progress">Reaktivácia...</string>
   <string name="sync_dspt_entrance_provision_network">Táto aplikácia vyžaduje pripojenie k sieti pre jej správne fungovanie.</string>
+  <string name="confirm_delete">Vymazať</string>
+  <string name="confirm_save">Ponechať</string>
+  <string name="secret_photo">Skryté fotografie</string>
+  <string name="wipe_secret_photo_dialog_title">Skryté fotografie nie suú synchronizované</string>
 </resources>
