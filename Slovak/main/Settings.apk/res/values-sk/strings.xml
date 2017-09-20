@@ -2172,8 +2172,6 @@ Na tomto zariadení sú prítomní ďalší používatelia.
   <string name="memory_title">Dostupné: %1$s\u0009\u0009Celkom: %2$s</string>
   <string name="memory_usage">Využitie pamäte</string>
   <string name="memory_usage_apps">Pamäť používaná aplikáciami</string>
-  <string name="memory_use_running_format">%1$s / %2$s</string>
-  <string name="memory_use_summary">Za posledné 3 hodiny bolo priemerné využitie pamäte %1$s</string>
   <string name="menu_cancel">Zrušiť</string>
   <string name="menu_check">Experience</string>
   <string name="menu_delete">Zmazať názov prístupového bodu</string>
@@ -2233,8 +2231,6 @@ Na tomto zariadení sú prítomní ďalší používatelia.
   <string name="miracast_wifi_off">Pre použitie Miracast, zapnite Wi-Fi</string>
   <string name="misc_files">Rôzne súbory</string>
   <string name="misc_files_selected_count">Vybraných: %1$d z %2$d</string>
-  <string name="misc_files_selected_count_bytes">%1$s z %2$s</string>
-  <string name="miui_allow_alarm">Budík</string>
   <string name="miui_allow_light">LED</string>
   <string name="miui_allow_music">Hudba</string>
   <string name="miui_allow_vibrate">Vibrácie</string>
@@ -2405,8 +2401,6 @@ Vyberte váš operačný systém:"</string>
   <string name="nfc_how_it_works_got_it">Dobre</string>
   <string name="nfc_how_it_works_title">Platenie pri termináli</string>
   <string name="nfc_more_title">Viac...</string>
-  <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
-  <string name="nfc_payment_default">Predvolená platobná aplikácia</string>
   <string name="nfc_payment_default_not_set">Nenastavené</string>
   <string name="nfc_payment_favor_default">Vždy</string>
   <string name="nfc_payment_favor_open">Okrem prípadov, keď je spustená iná platobná aplikácia</string>
@@ -2424,8 +2418,6 @@ Vyberte váš operačný systém:"</string>
   <string name="nfc_se_wallet_title">Predvolená Peňaženka</string>
   <string name="night_mode_auto">Automatický</string>
   <string name="night_mode_no">Svetlý</string>
-  <string name="night_mode_summary">%s</string>
-  <string name="night_mode_title">Motív</string>
   <string name="night_mode_yes">Tmavý</string>
   <string name="no">Nie</string>
   <string name="no_all_caps">NIE</string>
@@ -2476,8 +2468,6 @@ Vyberte váš operačný systém:"</string>
   <string name="notifications_no_peeking">Žiadny náhľad</string>
   <string name="notifications_priority">Prioritné</string>
   <string name="notifications_sensitive">Citlivý obsah je skrytý</string>
-  <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
-  <string name="notifications_two_items">%1$s / %2$s</string>
   <string name="now">Teraz</string>
   <string name="nsd_quick_toggle_summary">Povoliť aplikáciám na iných zariadeniach pristupovať k aplikáciám na Vašom zariadení</string>
   <string name="nsd_quick_toggle_title">Detekcia sieťových služieb</string>
@@ -3321,8 +3311,6 @@ Ako funkciu použiť:
   <string name="service_foreground_processes">Využité: %1$s</string>
   <string name="service_manage">Nastavenie</string>
   <string name="service_manage_description">%1$s: práve sa používa. Ovládacie prvky zobrazíte dotykom na Nastavenia.</string>
-  <string name="service_process_name">%1$s</string>
-  <string name="service_restarting">Prebieha reštartovanie</string>
   <string name="service_started_by_app">Spustené aplikáciou.</string>
   <string name="service_stop">Zastaviť</string>
   <string name="service_stop_description">Táto služba bola spustená svojou aplikáciou. Pokiaľ ju zastavíte, môže dôjsť k zlyhaniu aplikácie.</string>
@@ -3469,8 +3457,6 @@ Ostáva:"</string>
   <string name="sim_reenter_new">Potvrďte nový kód PIN.</string>
   <string name="sim_select_card">Výber SIM karty</string>
   <string name="sim_selection_required_pref">Vyžaduje sa výber</string>
-  <string name="sim_settings_summary">%1$s – %2$s</string>
-  <string name="sim_settings_title">SIM karty</string>
   <string name="sim_setup_wizard_title">SIM karty</string>
   <string name="sim_slot_empty">SIM karta je prázdna</string>
   <string name="sim_status_summary">Informácie týkajúce sa SIM karty</string>
@@ -3803,8 +3789,6 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">Synchronizácia...</string>
   <string name="sync_is_failing">Nastali problémy so synchronizáciou. Služba bude čoskoro obnovená.</string>
-  <string name="sync_item_title">Synchr.: %s</string>
-  <string name="sync_menu_sync_cancel">Zrušiť synchronizáciu</string>
   <string name="sync_menu_sync_now">Synchronizovať</string>
   <string name="sync_one_time_sync">"Dotykom vykonáte synchronizáciu %1$s"</string>
   <string name="sync_plug">"Víta vás aplikácia Google Sync. Nový pohľad na synchronizáciu dát v réžii Googlu. Poskytuje vám prístup ku kontaktom, schôdzkam a ďalším informáciám, nech ste kdekoľvek."</string>
@@ -4838,8 +4822,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zen_mode_rule_name_hint">Zadajte názov pravidla</string>
   <string name="zen_mode_rule_name_warning">Názov pravidla sa už používa</string>
   <string name="zen_mode_rule_not_found_text">Pravidlo sa nenašlo</string>
-  <string name="zen_mode_rule_summary_combination">%1$s / %2$s</string>
-  <string name="zen_mode_rule_type">Typ pravidla</string>
   <string name="zen_mode_rule_type_unknown">Neznáme</string>
   <string name="zen_mode_schedule_rule_days">Dni</string>
   <string name="zen_mode_schedule_rule_days_all">Každý deň</string>

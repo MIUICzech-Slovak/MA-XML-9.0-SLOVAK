@@ -467,8 +467,6 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
   <string name="sync_item_calllog_title">Zoznam hovorov</string>
   <string name="sync_item_sms_summary">Prečítané SMS budú automaticky synchronizované</string>
   <string name="sync_item_sms_title">Synch. SMS</string>
-  <string name="sync_item_title">Synchr. položky</string>
-  <string name="sync_off">Vyp</string>
   <string name="sync_on">Zap</string>
   <string name="sync_resend_sms_dspt_provision">. Ak zmeníte SIM kartu, bude odoslaná medzinárodná SMS pre jej aktiváciu.</string>
   <string name="sync_sub_1_intl_sms">Medzinárodná SMS bude odoslaná pre aktiváciu vašej SIM karty</string>

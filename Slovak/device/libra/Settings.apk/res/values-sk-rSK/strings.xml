@@ -333,8 +333,6 @@ Môžete nastaviť novú zámku obrazovky pre svoje zariadenie aj pracovný prof
   <string name="one_userkey">jeden kľúč používateľa</string>
   <string name="operator_warning">Účtovanie dát operátorom sa môže líšiť od údajov zariadenia.</string>
   <string name="ota_disable_automatic_update">Automatické aktualizácie systému</string>
-  <string name="owner_info_settings_status">%1$d / %2$d</string>
-  <string name="payment_summary">%1$s je predvolená aplikácia</string>
   <string name="physical_device_title">%1$s – %2$s</string>
   <string name="physical_keyboard_title">Fyzická klávesnica</string>
   <string name="picture_color_mode">Farebný režim obrázka</string>
@@ -355,8 +353,6 @@ Môžete nastaviť novú zámku obrazovky pre svoje zariadenie aj pracovný prof
   <string name="preview_page_indicator_content_description">Zobraziť ukážku stránky %1$d z %2$d</string>
   <string name="preview_pager_content_description">Ukážka</string>
   <string name="printer_info_desc">Ďalšie informácie o tejto tlačiarni</string>
-  <string name="process_format">%1$s (%2$d)</string>
-  <string name="process_stats_total_duration">Využité miesto za posled. %3$s: %1$s z %2$s</string>
   <string name="process_stats_total_duration_percentage">Počas %2$s sa použilo %1$s RAM</string>
   <string name="profile_section_header">Pracovné upozornenia</string>
   <string name="profiles_settings_title">Systémové profily</string>
