@@ -166,4 +166,6 @@
   <string name="app_description_content">Skener môže načítať QR kódy, vizitky a dokumenty.</string>
   <string name="app_description_title">O skenere</string>
   <string name="document_recognize_null_tip">Dokument je prázdny</string>
+  <string name="label_choose_picture">Vybrať obrázok</string>
+  <string name="label_flash_light">Svietidlo</string>
 </resources>

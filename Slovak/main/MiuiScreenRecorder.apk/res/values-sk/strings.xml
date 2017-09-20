@@ -66,4 +66,8 @@
   <string name="stop_record_while_locking_summary">Ukončiť nahrávanie a uložiť nahrávku uzamknutím obrazovky</string>
   <string name="low_memory_dior">Máte menej ako 500MB voľného miesta na úložisku. Môžete nahrať max. 12 minút záznamu.</string>
   <string name="frequently_click_toast">Prebieha spúšťanie služby, čakajte prosím...</string>
+  <string name="recording_failure">Posledné nahrávanie zlyhalo, spustite nahrávanie znova</string>
+  <string name="recording_max_size">Nahrávanie bolo zastavené a uložené z dôvodu maximálnej veľkosti súboru. Môžete spustiť nahrávanie znova a pokračovať.</string>
+  <string name="start_recording">Spustiť nahrávanie</string>
+  <string name="stop_recording">Zastaviť nahrávanie</string>
 </resources>

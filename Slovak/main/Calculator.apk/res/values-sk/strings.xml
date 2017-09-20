@@ -197,4 +197,5 @@
   <string name="wf_word_figure">Finančné znaky</string>
   <string name="description_content">Kalkulačka slúži nielen na matematické úlohy ale aj konverziu mien a výpočet fyzikálnych veličín.</string>
   <string name="description_title">O Kalkulačke</string>  
+  <string name="global_network_confirm_content">Výpočet daní, kurzov mien a hypotéky vyžaduje sťahovanie dát cez internetové pripojenie</string>
 </resources>
