@@ -1294,4 +1294,7 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="add_field_toast">Žiadne položky na pridanie.</string>
   <string name="sim_export_error">SIM nie je pripravená, skúste to znova</string>
   <string name="toast_start_intent_failed">Nenašla sa žiadna aplikácia pre použitie</string>
+  <string name="group_member_remove_fail_toast">Nie je odstránené zo skupiny</string>
+  <string name="group_member_remove_success_toast">Odstránené zo skupiny</string>
+  <string name="unknown_details_add_to_contact">Existujúci</string>
 </resources>

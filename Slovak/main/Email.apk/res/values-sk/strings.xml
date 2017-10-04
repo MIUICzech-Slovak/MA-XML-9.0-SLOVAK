@@ -911,4 +911,12 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="sync_contacts_fail_per_title">Synchronizácia kontaktov zlyhala</string>
   <string name="sync_contacts_fail_permission">Synchronizácia kontaktov zlyhala. Povoľte práva ku Kontaktom v nastaveniach.</string>
   <string name="sync_contacts_req_per_ignored">Synchronizácia kontaktov zlyhala</string>
+  <string name="confirm_delete_attachment">Vymazať prílohu</string>
+  <string name="system_security_open_error">Nebolo možné nastaviť aplikáciu Optimalizácia. Povoľte oprávnenia v nastaveniach.</string>
+  <string name="toastbar_calendar_and_contacts_permission_switch_close">Povolenia ku Kalendáru a kontaktom nie sú povolené. Kalendár a Kontakty nemôžu byť synchronizované.</string>
+  <string name="toastbar_calendar_permission_switch_close">Povolenia ku Kalendáru nie sú povolené. Kalendár nemôže byť synchronizovaný.</string>
+  <string name="toastbar_contacts_permission_switch_close">Povolenia ku kontaktom nie sú povolené. Kontakty nemôžu byť synchronizované.</string>
+  <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Synchr. Kalendára a kontaktov nie je povolená.</string>
+  <string name="toastbar_local_calendar_sync_switch_close">Synchr. Kalendára nie je povolená</string>
+  <string name="toastbar_local_contacts_sync_swtich_close">Synchr. Kontaktov nie je povolená</string>
 </resources>

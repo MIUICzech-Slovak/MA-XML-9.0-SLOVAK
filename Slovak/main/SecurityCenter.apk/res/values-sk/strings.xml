@@ -2598,4 +2598,12 @@ Tento proces skracuje životnosť batérie."</string>
   <string name="pref_key_daily_package_value">Denný objem dát</string>
   <string name="pref_key_daily_package_summary">Denné obnovenie dátového balíčku</string>
   <string name="pref_key_direction_traffic">Ignorovať spotrebu dát</string>
+  <string name="back_app_name">Späť na Zámok aplikácií</string>
+  <string name="back_modifypassword">Späť k Zmene hesla</string>
+  <string name="antivirus_main_activity_back">Späť z kontroly</string>
+  <string name="data_booster_desc">Deaktivovať druhú SIM kartu pre udržanie stabilného pripojenia</string>
+  <string name="data_booster_title">Stabilizovať pripojenie</string>
+  <string name="game_anti_disturb_msg">DND Hry</string>
+  <string name="gamebooster_main_activity_back">Naspäť k Zrýchleniu hier</string>
+  <string name="xunyou_server_expired">Relácia vypršala.</string>
 </resources>

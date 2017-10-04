@@ -1078,4 +1078,19 @@
   <string name="text_edit_sub_menu_text">Bublina</string>
   <string name="error_download_tip">Nebolo možné stiahnuť</string>
   <string name="search_title_more">Viac</string>
+  <string name="app_is_launching">%s sa spúšťa…</string>
+  <string name="app_is_launching_common">Spúšťanie aplikície…</string>
+  <string name="photo_editor_navigator_download_network_metered_msg">Stiahnutie %s vyžaduje 4MB dát. Stiahnuť teraz?</string>
+  <string name="photo_editor_navigator_download_network_metered_title">Spotreba dát</string>
+  <string name="photo_editor_navigator_module_download_failed">Nebolo možné stiahnuť %s</string>
+  <string name="photo_editor_navigator_module_download_now">Stiahnuť</string>
+  <string name="photo_editor_navigator_module_download_success">Stiahnuté</string>
+  <string name="photo_editor_navigator_module_download_wait_wlan">Čakať na Wi-Fi</string>
+  <string name="photo_editor_navigator_module_downloading">Sťahovanie %s…</string>
+  <string name="photo_editor_navigator_need_download">Pripojte sa na internet a stiahnite %s.</string>
+  <string name="photo_editor_remover">Vymazať</string>
+  <string name="remover_edit_type_free">Objekty</string>
+  <string name="remover_edit_type_line">Čiary</string>
+  <string name="remover_erase_aera_too_big">Zóna vymazania je príliš veľká</string>
+  <string name="remover_menu_processing">Spracovávanie</string>
 </resources>

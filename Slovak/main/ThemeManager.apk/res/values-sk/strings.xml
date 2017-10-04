@@ -436,4 +436,14 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="wallpaper_settings_loading_text">Načítavanie...</string>
   <string name="wallpaper_settings_no_history">Žiadna história</string>
   <string name="wallpaper_settings_pad_more_page_title">Viac tapiet</string>
+  <string name="online_precust_animal">Zvieratá</string>
+  <string name="online_precust_building">Architektúra</string>
+  <string name="online_precust_cartoon">Rozprávky</string>
+  <string name="online_precust_creative">Kreativita</string>
+  <string name="online_precust_entertainment">Zábava</string>
+  <string name="online_precust_lifestyle">Štýl</string>
+  <string name="online_precust_plant">Rastliny</string>
+  <string name="online_precust_scenery">Krajiny</string>
+  <string name="online_precust_starry_sky">Vesmír</string>
+  <string name="region_not_support">Prepáčte, téma nie je podporovaná.</string>
 </resources>
