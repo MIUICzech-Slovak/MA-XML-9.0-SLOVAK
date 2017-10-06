@@ -6,6 +6,7 @@
   <string name="enable_wifi_message">Povoľte Wi-Fi pre vyhľadávanie zariadení v blízkosti.</string>
   <string name="enable_wifi_title">Povoliť Wi-Fi</string>
   <string name="media_feature_projection">Zrkadliť obrazovku</string>
+  <string name="media_route_controller_disconnect">Odpojiť</string>
   <string name="media_status_error">Chyba</string>
   <string name="media_status_started">Pripojené</string>
   <string name="media_status_starting">Pripájanie...</string>
@@ -36,5 +37,4 @@
   <string name="wifi_display_status_in_use">Používa sa</string>
   <string name="wifi_display_status_not_available">Nedostupné</string>
   <string name="wifi_display_wps_config">WPS nastavenie</string>
-  <string name="media_route_controller_disconnect">Odpojiť</string>
 </resources>

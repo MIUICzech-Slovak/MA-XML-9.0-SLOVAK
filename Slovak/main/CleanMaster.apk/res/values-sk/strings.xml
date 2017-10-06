@@ -32,6 +32,8 @@
   <string name="apk_status_install">Nainštalované</string>
   <string name="apk_status_installed_old">Stará verzia</string>
   <string name="apk_status_uninstalled">Nenainštalované</string>
+  <string name="app_description_content">Čistič vyhľadá nepotrebné súbory a uvoľní miesto na vašom úložisku.</string>
+  <string name="app_description_title">O Čističi</string>
   <string name="app_install_tips_go_to">Spustiť</string>
   <string name="app_install_tips_install_success">%1$s nainštalované</string>
   <string name="app_name">CleanMaster</string>
@@ -181,6 +183,9 @@
   <string name="empty_title_photos">Žiadne fotografie</string>
   <string name="empty_title_residual">Žiadne súbory</string>
   <string name="empty_title_video">Žiadne videá na vymazanie​</string>
+  <string name="engine_cm">Clean Master</string>
+  <string name="engine_init">Inicializácia...</string>
+  <string name="engine_tm">Tencent</string>
   <string name="file">Súbory</string>
   <string name="file_not_found">Súbor sa nenašiel</string>
   <string name="flow_rank_title">Využitie dát</string>
@@ -457,9 +462,4 @@
   <string name="white_list_title">Ignorované</string>
   <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yesterday">Včera</string>
-  <string name="app_description_content">Čistič vyhľadá nepotrebné súbory a uvoľní miesto na vašom úložisku.</string>
-  <string name="app_description_title">O Čističi</string>  
-  <string name="engine_cm">Clean Master</string>
-  <string name="engine_tm">Tencent</string>
-  <string name="engine_init">Inicializácia...</string>
 </resources>

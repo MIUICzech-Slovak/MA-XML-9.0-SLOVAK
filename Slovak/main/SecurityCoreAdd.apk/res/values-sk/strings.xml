@@ -15,6 +15,8 @@ táto funkcia bude automaticky aktívna aj v Druhom profile."</string>
   <string name="appData">Nainštalované apl.</string>
   <string name="app_name">Security Core Component</string>
   <string name="back">Späť</string>
+  <string name="can_not_delete_when_calling">Nie je možné vymazať profil počas hovoru</string>
+  <string name="can_not_switch_when_calling">Nie je možné prepnúť profil počas hovoru</string>
   <string name="cancelClosePassword">Nevypínajte</string>
   <string name="cancel_button">Zrušiť</string>
   <string name="changePassword">Zmeniť heslo</string>
@@ -49,6 +51,7 @@ táto funkcia bude automaticky aktívna aj v Druhom profile."</string>
   <string name="createUserFail">Nebolo možné vytvoriť</string>
   <string name="create_app_icon_failed">Nebolo možné vytvoriť ikonu</string>
   <string name="create_app_icon_success">Ikona vytvorená</string>
+  <string name="create_second_space">Vytvorené</string>
   <string name="create_space_loading">Vytváranie Druhého profilu...</string>
   <string name="create_work_space">Vytvoriť Pracovný priestor</string>
   <string name="creating_app_icon">Vytváranie ikony...</string>
@@ -65,6 +68,7 @@ táto funkcia bude automaticky aktívna aj v Druhom profile."</string>
   <string name="delete_src_photo">Vymazať fotografie</string>
   <string name="dir_switch_out_all_photos">Galéria Druhého profilu</string>
   <string name="disable">Vypnúť</string>
+  <string name="do_not_ask">Viac sa nepýtať</string>
   <string name="dont_import">Neskôr</string>
   <string name="downloading_space">Sťahovanie...</string>
   <string name="enable">Zapnúť</string>
@@ -86,8 +90,13 @@ táto funkcia bude automaticky aktívna aj v Druhom profile."</string>
   <string name="finger_print_of_use">Použiť odtlačok</string>
   <string name="fingerprint_removal_failed">Nebolo možné vymazať odtlačok</string>
   <string name="function_not_support">Nie je podporované v tomto profile</string>
+  <string name="gms_message">Vytvorenie klonovanej aplikácie vyžaduje Google služby. Vytvoriť klonovanú aplikáciu z Google služieb?</string>
+  <string name="gms_open_button">Povoliť</string>
+  <string name="gms_title">Povoliť Google služby</string>
   <string name="goToSecondSpacce">Prejsť do Druhého profilu</string>
   <string name="go_on_import">Pokračovať v importovaní</string>
+  <string name="gpg_message">Vytvorenie klonovanej aplikácie z hier vyžaduje Google Play Hry. Vytvoriť klonovanú aplikáciu pre Google Play Hry?</string>
+  <string name="gpg_title">Google Play Hry</string>
   <string name="guide_contact_sub_title_desc">Kontakty pridané do Druhého profilu budú súkromné.
 Správy sa zobrazia len v Druhom profile.</string>
   <string name="guide_contact_suc_sub_title_desc">Len súkromné kontakty a správy budú zobrazené v Druhom profile</string>
@@ -96,6 +105,10 @@ Správy sa zobrazia len v Druhom profile.</string>
   <string name="guide_pwd_detail_title">"Chráňte svoje dáta.
 Prejdite do Druhého profilu zo zamykacej obrazovky"</string>
   <string name="guide_setting_guide_title">Spravovať Druhý profil</string>
+  <string name="guide_start_ads_text">Kompletne nová úroveň zabezpečenia</string>
+  <string name="guide_start_text">Dva profily, jedno zariadenie.</string>
+  <string name="has_created_second_space">"Teraz môžete otvoriť druhý profil.
+Jedno zariadenie, dva profily."</string>
   <string name="hidden_app">Druhý profil</string>
   <string name="imageData">Fotografie</string>
   <string name="import_application">Importovať aplikácie</string>
@@ -109,6 +122,8 @@ Môžete ich aj znova stiahnuť."</string>
   <string name="import_photo">Importovať fotografie</string>
   <string name="import_photo_desc">Zobraziť zdieľané položky v Druhom profile</string>
   <string name="import_photo_suc">Importované fotografie</string>
+  <string name="input_space_finger">Nastaviť</string>
+  <string name="input_space_password">Nastaviť</string>
   <string name="invalid_qr_code">Nesprávny QR kód</string>
   <string name="list_empty_text">Prázdne</string>
   <string name="loading">Načítavanie...</string>
@@ -149,6 +164,8 @@ Môžete ich aj znova stiahnuť."</string>
   <string name="please_diff_finger_print">Uistite sa, že používate rôzne odtlačky pre Prvý a Druhý profil./nInak nebude možné otvoriť Druhý profil priamo zo zamykacej obrazovky.</string>
   <string name="privacyContactsSummary">Zobraziť súkromné položky v Druhom profile</string>
   <string name="privacyContactsTitle">Súkromné správy a kontakty</string>
+  <string name="privacy_password_fingerprint_dialog_message">Priložte váš prst na senzor</string>
+  <string name="privacy_password_fingerprint_dialog_title">Načítajte váš odtlačok prsta</string>
   <string name="private_sms_show_sub_title">Správy budú zdieľané medzi oboma profilmi​</string>
   <string name="private_sms_show_title">Súkromné správy sú zobrazené v Druhom profile</string>
   <string name="private_space_setting">Spravovať</string>
@@ -177,6 +194,8 @@ Môžete ich aj znova stiahnuť."</string>
   <string name="scanner_fingerprint_tips_desc">Vybrať existujúci odtlačok pre vstup do Druhého profilu. Nebude možné ho použiť v Prvom profile.</string>
   <string name="scanner_fingerprint_tips_title">Otvoriť Druhý profil použitím odtlačku prsta</string>
   <string name="scanner_second_space_fingerprint">Naskenovať odtlačok pre Druhý profil</string>
+  <string name="sdcardfs_dialog_message">Vypnite Optimalizáciu emulovanej SD karty v Nastaveniach pre vývojárov.</string>
+  <string name="search_result_text">Nenašla sa žiadna apl.</string>
   <string name="secondSpace">Druhý profil</string>
   <string name="second_owner_finger_print">Odtlačok pre Druhý profil</string>
   <string name="second_space_finger_printf_desc">Pridať odtlačok špeciálne pre vstup do Druhého profilu</string>
@@ -188,6 +207,9 @@ Môžete ich aj znova stiahnuť."</string>
   <string name="setSecondSpacePasswordGuideDes">Použiť toto heslo pre prístup do Druhého profilu zo zamykacej obrazovky</string>
   <string name="setSpacePasswordGuide">Použite dve rôzne heslá pre prístup do oboch profilov zo zamykacej obrazovky</string>
   <string name="setSuccess">Heslo nastavené</string>
+  <string name="set_space_finger">Nastaviť odtlačok prsta</string>
+  <string name="set_space_finger_sub_text_suc">Odtlačok je nastavený</string>
+  <string name="set_space_password">Nastaviť heslo</string>
   <string name="set_space_pwd_detail">Môžete vstúpiť do Druhého profilu použitím hesla</string>
   <string name="set_space_pwd_suc">Pridaní heslo pre Druhý profil</string>
   <string name="setting_finger_print_sub_title">Uistite sa, že používate rôzne odtlačky pre Prvý a Druhý profil</string>
@@ -204,12 +226,20 @@ Môžete ich aj znova stiahnuť."</string>
   <string name="settings_status_icon_title">Ikona Druhého profilu</string>
   <string name="settings_switch_shortcut_summary">Zobraziť odkaz Druhého profilu na ploche Primárneho profilu</string>
   <string name="settings_switch_shortcut_title">Odkaz pre prepnutie profilu</string>
+  <string name="show_decktop_quick_switch_icon">Skratka na domácej ploche</string>
+  <string name="show_decktop_quick_switch_icon_detail">Zobraziť skratku pre prepnutie profilu na domácej obrazovke</string>
   <string name="show_normal_content">Nezobrazovať súkromné položky</string>
+  <string name="show_noti_from_owner">Upozornenia z druhého profilu</string>
+  <string name="show_noti_from_owner_detail">Dostávať upozornenia v súčasnom profile z druhého profilu</string>
+  <string name="show_noti_quick_switch_icon">Skratka v roletke</string>
+  <string name="show_noti_quick_switch_icon_detail">Zobraziť skratku pre prepnutie profilu v roletke</string>
   <string name="show_private_content">Zobraziť súkromné položky</string>
   <string name="show_private_msg">Zobraziť súkromné správy</string>
   <string name="show_private_msg_summary">Zobraziť súkromné správy v Druhom profile</string>
+  <string name="skip">Preskočiť</string>
   <string name="spaceSetting">Nastavenia</string>
   <string name="space_des_default">Izolovaný priestor so šifrovanými dátami</string>
+  <string name="space_finger_sub_text">Nastavte odtlačok prsta pre rýchlejšie prepnutie do Druhého profilu</string>
   <string name="space_name_default">Pracovný priestor</string>
   <string name="startSet">Nastaviť</string>
   <string name="startTransfer">Preniesť</string>
@@ -276,34 +306,4 @@ Môžete ich aj znova stiahnuť."</string>
   <string name="xspace_uninstall_dialog_content">Odinštalovanie klonovanej aplikácie vymaže všetky jej dáta.</string>
   <string name="xspace_uninstall_dialog_title">Odinštalovať klonovanú apl.</string>
   <string name="xspace_uninstalling">Odinštalovanie...</string>
-  <string name="can_not_delete_when_calling">Nie je možné vymazať profil počas hovoru</string>
-  <string name="can_not_switch_when_calling">Nie je možné prepnúť profil počas hovoru</string>  
-  <string name="search_result_text">Nenašla sa žiadna apl.</string>
-  <string name="sdcardfs_dialog_message">Vypnite Optimalizáciu emulovanej SD karty v Nastaveniach pre vývojárov.</string>
-  <string name="do_not_ask">Viac sa nepýtať</string>
-  <string name="gms_message">Vytvorenie klonovanej aplikácie vyžaduje Google služby. Vytvoriť klonovanú aplikáciu z Google služieb?</string>
-  <string name="gms_open_button">Povoliť</string>
-  <string name="gms_title">Povoliť Google služby</string>
-  <string name="gpg_message">Vytvorenie klonovanej aplikácie z hier vyžaduje Google Play Hry. Vytvoriť klonovanú aplikáciu pre Google Play Hry?</string>
-  <string name="gpg_title">Google Play Hry</string>
-  <string name="create_second_space">Vytvorené</string>
-  <string name="guide_start_ads_text">Kompletne nová úroveň zabezpečenia</string>
-  <string name="guide_start_text">Dva profily, jedno zariadenie.</string>
-  <string name="has_created_second_space">"Teraz môžete otvoriť druhý profil.
-Jedno zariadenie, dva profily."</string>
-  <string name="input_space_finger">Nastaviť</string>
-  <string name="input_space_password">Nastaviť</string>
-  <string name="privacy_password_fingerprint_dialog_message">Priložte váš prst na senzor</string>
-  <string name="privacy_password_fingerprint_dialog_title">Načítajte váš odtlačok prsta</string>
-  <string name="set_space_finger">Nastaviť odtlačok prsta</string>
-  <string name="set_space_finger_sub_text_suc">Odtlačok je nastavený</string>
-  <string name="set_space_password">Nastaviť heslo</string>
-  <string name="show_decktop_quick_switch_icon">Skratka na domácej ploche</string>
-  <string name="show_decktop_quick_switch_icon_detail">Zobraziť skratku pre prepnutie profilu na domácej obrazovke</string>
-  <string name="show_noti_from_owner">Upozornenia z druhého profilu</string>
-  <string name="show_noti_from_owner_detail">Dostávať upozornenia v súčasnom profile z druhého profilu</string>
-  <string name="show_noti_quick_switch_icon">Skratka v roletke</string>
-  <string name="show_noti_quick_switch_icon_detail">Zobraziť skratku pre prepnutie profilu v roletke</string>
-  <string name="skip">Preskočiť</string>
-  <string name="space_finger_sub_text">Nastavte odtlačok prsta pre rýchlejšie prepnutie do Druhého profilu</string>
 </resources>

@@ -6,6 +6,8 @@
   <string name="action_search">Vyhľadať</string>
   <string name="address">"Adresa: "</string>
   <string name="allow_check_website_security">skontrolovať bezpečnosť webstránok</string>
+  <string name="app_description_content">Skener môže načítať QR kódy, vizitky a dokumenty.</string>
+  <string name="app_description_title">O skenere</string>
   <string name="app_details">"Apl.: "</string>
   <string name="app_name">Skener</string>
   <string name="back">Späť</string>
@@ -42,6 +44,7 @@
   <string name="document_ocr_tip_msg">Rozpoznávanie...</string>
   <string name="document_ocr_vendor_info">OCR poskytuje Kingsoft</string>
   <string name="document_recognize_fail_tip">Nebolo možné rozpoznať dokument</string>
+  <string name="document_recognize_null_tip">Dokument je prázdny</string>
   <string name="document_rectify">Upraviť</string>
   <string name="document_rectify_tip_msg">Úprava...</string>
   <string name="document_save_succeed_tip">Dokument uložený do %1$s</string>
@@ -70,6 +73,8 @@
   <string name="impunity_declaration_negative_text">Ukončiť</string>
   <string name="impunity_declaration_positive_text">Povoliť</string>
   <string name="impunity_declaration_title">Podmienky používania</string>
+  <string name="label_choose_picture">Vybrať obrázok</string>
+  <string name="label_flash_light">Svietidlo</string>
   <string name="language_entry_chinese_cn">Simplified Chinese</string>
   <string name="language_entry_chinese_tw">Traditional Chinese</string>
   <string name="language_entry_danish">Danish</string>
@@ -163,9 +168,4 @@
   <string name="wifi_pwd">"Heslo: "</string>
   <string name="wifi_security">"Bezpečnosť: "</string>
   <string name="wifi_ssid">"SSID: "</string>
-  <string name="app_description_content">Skener môže načítať QR kódy, vizitky a dokumenty.</string>
-  <string name="app_description_title">O skenere</string>
-  <string name="document_recognize_null_tip">Dokument je prázdny</string>
-  <string name="label_choose_picture">Vybrať obrázok</string>
-  <string name="label_flash_light">Svietidlo</string>
 </resources>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_alarm">Pridať</string>
+  <string name="add_timezone_title">Pridať časovú zónu</string>
   <string name="alarm_alert">Zvonenie budíka</string>
   <string name="alarm_alert_alert_silenced">Budík stíšený na dobu %d minút.</string>
   <string name="alarm_alert_snooze_set">Odložiť o %d minút.</string>
@@ -57,9 +58,12 @@
   <string name="force_touch_enter_stopwatch">Stopky</string>
   <string name="force_touch_enter_timer">Časovač</string>
   <string name="full_wday_month_day_no_year">EEEE, d.MMMM</string>
+  <string name="go_back">Späť</string>
   <string name="hour">1 hodina</string>
   <string name="hour_unit">h</string>
   <string name="hours">%d hodín</string>
+  <string name="install_weather_app_error">Načítavanie zlyhalo.</string>
+  <string name="install_weather_app_loading">Načítavanie...</string>
   <string name="keep_screen_on">Ponechať zapnutý displej</string>
   <string name="label">Nastaviť štítok</string>
   <string name="label_pref_summary">Názov tohto budíku</string>
@@ -71,6 +75,7 @@
   <string name="legal_workday_invalidate">Zoznam sviatkov nie je aktuálny (Nastavené je budenie od pondelka do piatku)</string>
   <string name="legal_workday_invalidate_message">(Zoznam sviatkov nie je aktuálny, aktualizujte v Nastaveniach)</string>
   <string name="legal_workday_message">(Budík je vypnutý počas sviatkov)</string>
+  <string name="life_post_setting_close_title">Zatvoriť</string>
   <string name="loading_ringtone">Načítavanie zvonenia...</string>
   <string name="menu_add_worldclock">Časová zóna</string>
   <string name="menu_desk_clock">Hodiny</string>
@@ -80,6 +85,7 @@
   <string name="menu_item_sort_by_name">Zoradiť podľa názvu</string>
   <string name="minute">1 minúta</string>
   <string name="minutes">%d minút</string>
+  <string name="more_setting">Viac nastavení</string>
   <string name="more_settings">Viac nastavení</string>
   <string name="never">Raz</string>
   <string name="oneshot_alarm">Vymazať budík po vypnutí</string>
@@ -144,10 +150,4 @@
   <string name="workday_alarm_clock">Pracovný deň</string>
   <string name="worldclock_empty_text">Žiadne svetové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
-  <string name="install_weather_app_error">Načítavanie zlyhalo.</string>
-  <string name="install_weather_app_loading">Načítavanie...</string>  
-  <string name="add_timezone_title">Pridať časovú zónu</string>
-  <string name="go_back">Späť</string>
-  <string name="life_post_setting_close_title">Zatvoriť</string>
-  <string name="more_setting">Viac nastavení</string>
 </resources>

@@ -21,9 +21,12 @@
   <string name="convertion_unit_weight">Konverzia hmotnosti</string>
   <string name="currency_update_time_format">Aktualizované %s</string>
   <string name="dateformat">dd.MM.yyyy</string>
+  <string name="description_content">Kalkulačka slúži nielen na matematické úlohy ale aj konverziu mien a výpočet fyzikálnych veličín.</string>
+  <string name="description_title">O Kalkulačke</string>
   <string name="error">Chyba</string>
   <string name="error_fomrat">Chyba formátu</string>
   <string name="from_unit_en">kilometre za hodinu</string>
+  <string name="global_network_confirm_content">Výpočet daní, kurzov mien a hypotéky vyžaduje sťahovanie dát cez internetové pripojenie</string>
   <string name="home_title_calculator">Kalkulačka</string>
   <string name="item_title_aa_payment">Rozdeliť účet</string>
   <string name="item_title_area_conversion">Plocha</string>
@@ -195,7 +198,4 @@
   <string name="unit_year">Y</string>
   <string name="unit_year_format">Rok %s</string>
   <string name="wf_word_figure">Finančné znaky</string>
-  <string name="description_content">Kalkulačka slúži nielen na matematické úlohy ale aj konverziu mien a výpočet fyzikálnych veličín.</string>
-  <string name="description_title">O Kalkulačke</string>  
-  <string name="global_network_confirm_content">Výpočet daní, kurzov mien a hypotéky vyžaduje sťahovanie dát cez internetové pripojenie</string>
 </resources>

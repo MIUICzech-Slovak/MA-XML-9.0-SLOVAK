@@ -41,8 +41,11 @@
   <string name="backup_new">Nový:</string>
   <string name="backup_progress">Zálohovanie...</string>
   <string name="backup_report">Hlásenie zálohovania</string>
+  <string name="backup_security_tips_message">Aplikácie ktoré používajú osobné údaje nemusia byť zálohované alebo obnovené správne.</string>
+  <string name="backup_security_tips_title">Bezpečnostné upozornenie</string>
   <string name="backup_update">Aktualizácia</string>
   <string name="batch_delete_backup_confirm">Vymazať zálohy?</string>
+  <string name="btn_got_it">Rozumiem</string>
   <string name="button_backup">Nová záloha</string>
   <string name="button_cancel">Zrušiť</string>
   <string name="button_continue">Pokračovať</string>
@@ -157,6 +160,7 @@
   <string name="notif_trans_receiving_failed">Prijímanie dát zlyhalo</string>
   <string name="notif_trans_sending_completed">Dáta úspešne odoslané</string>
   <string name="notif_trans_sending_failed">Odosielanie dát zlyhalo</string>
+  <string name="notif_trans_wait_for_reconnecting">Vzdialené zariadenie je odpojené. Pripojte ho znovu.</string>
   <string name="page_loading">Načítavanie...</string>
   <string name="progress_backup_hint">Zálohovanie dát...</string>
   <string name="progress_restore_hint">Obnovovanie dát...</string>
@@ -164,6 +168,7 @@
   <string name="prompt_sending">Odosielanie...</string>
   <string name="prompt_writing">Ukladanie...</string>
   <string name="read_encrypt_fail">Čítanie šifrovania zlyhalo</string>
+  <string name="reconnect">Pripojiť znova</string>
   <string name="refresh">Obnoviť</string>
   <string name="remote_receive">Prijať</string>
   <string name="restore">Obnovenie</string>
@@ -254,6 +259,7 @@
   <string name="trans_calculating_base_size">Výpočet veľkosti aplikácií</string>
   <string name="trans_cancel_confirm">Prebieha prenos, chcete ho zastaviť?</string>
   <string name="trans_cancelling">Ukončenie...</string>
+  <string name="trans_connect_failed_device_incompatible">Zariadenie nie je kompatibilné. Zrušte prenos a skúste to znova.</string>
   <string name="trans_connect_failed_message">Pripojenie zlyhalo, skúste to znova alebo reštartujte. Na druhom zariadení choďte do Nastavenia &gt; Ďalšie nastavenia &gt; Presun do nového zariadenia, Stlačte [Som odosielateľ], alebo spustite presun znova po reštarte</string>
   <string name="trans_connect_failed_title">Pripojenie zlyhalo</string>
   <string name="trans_connect_failed_toast">Nebolo možné sa pripojiť</string>
@@ -264,6 +270,7 @@
   <string name="trans_detail_category_sysdata">Systémové dáta</string>
   <string name="trans_detail_category_userdata">Apl.</string>
   <string name="trans_device_disconnected">Zariadenie odpojené</string>
+  <string name="trans_device_wait_for_reconnecting">Zariadenie je odpojené. Pripojte ho znova.</string>
   <string name="trans_generate_qr_code_failed">Nebolo možné vytvoriť QR kód</string>
   <string name="trans_main_tutor">Presuňte kontakty, históriu hovorov, správy, nastavenie plochy, aplikácie, nastavenia, atď. do nového zariadenia.</string>
   <string name="trans_my_device">Moje zariadenie</string>
@@ -281,6 +288,10 @@ Stlačte [Som príjemca] pre vytvorenie QR kódu"</string>
   <string name="trans_operate_old_phone_tips2">"Metóda B
 Nastavenia &gt; Ďalšie nastavenia &gt; Presun do nového zariadenia
 a stlačte [Som odosielateľ]"</string>
+  <string name="trans_operate_reconnect_new_tips">"Počkajte kým sa na novom telefóne nezobrazí \"Zariadenie je odpojené\".
+Potom stlačte [Znova pripojiť] pre vytvorenie QR kódu."</string>
+  <string name="trans_operate_reconnect_old_tips">"Počkajte kým sa na starom telefóne nezobrazí \"Zariadenie je odpojené\".
+Potom stlačte [Znova pripojiť] pre vytvorenie QR kódu."</string>
   <string name="trans_please_waiting">Čakajte prosím...</string>
   <string name="trans_progress_subdescript_br_receiver">Obnovenie %1$s, %2$s dokončené</string>
   <string name="trans_progress_subdescript_br_sender">Zálohovanie %1$s, %2$s dokončené</string>
@@ -303,6 +314,8 @@ a stlačte [Som odosielateľ]"</string>
   <string name="trans_retry">Znova</string>
   <string name="trans_scan_invalid_qrcode">Chybný QR kód</string>
   <string name="trans_scan_qr_code_tips">Načítajte QR kód novým zariadením</string>
+  <string name="trans_security_tips_message">Niektoré aplikácie nepodporujú Prenos.</string>
+  <string name="trans_security_tips_title">Kompatibilita Prenosu</string>
   <string name="trans_select_data">Vyberte dáta na prenos</string>
   <string name="trans_select_data_no_space">"%s dostupné na novom zariadení
 Vyberte súbory znova pre uvoľnenie úložiska"</string>
@@ -350,17 +363,4 @@ Size: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
 Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Dostupná nová verzia!</string>
-  <string name="backup_security_tips_message">Aplikácie ktoré používajú osobné údaje nemusia byť zálohované alebo obnovené správne.</string>
-  <string name="backup_security_tips_title">Bezpečnostné upozornenie</string>
-  <string name="btn_got_it">Rozumiem</string>
-  <string name="trans_security_tips_message">Niektoré aplikácie nepodporujú Prenos.</string>
-  <string name="trans_security_tips_title">Kompatibilita Prenosu</string> 
-  <string name="notif_trans_wait_for_reconnecting">Vzdialené zariadenie je odpojené. Pripojte ho znovu.</string>
-  <string name="reconnect">Pripojiť znova</string>
-  <string name="trans_connect_failed_device_incompatible">Zariadenie nie je kompatibilné. Zrušte prenos a skúste to znova.</string>
-  <string name="trans_device_wait_for_reconnecting">Zariadenie je odpojené. Pripojte ho znova.</string>
-  <string name="trans_operate_reconnect_new_tips">"Počkajte kým sa na novom telefóne nezobrazí \"Zariadenie je odpojené\".
-Potom stlačte [Znova pripojiť] pre vytvorenie QR kódu."</string>
-  <string name="trans_operate_reconnect_old_tips">"Počkajte kým sa na starom telefóne nezobrazí \"Zariadenie je odpojené\".
-Potom stlačte [Znova pripojiť] pre vytvorenie QR kódu."</string>
 </resources>

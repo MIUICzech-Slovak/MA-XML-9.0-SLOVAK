@@ -102,6 +102,8 @@ pre výber toho najlepšieho"</string>
   <string name="portrait_mode_lowlight_hint">Vyžaduje sa viac svetla</string>
   <string name="portrait_mode_too_close_hint">Postavte sa ďalej od objektu</string>
   <string name="portrait_mode_too_far_hint">Umiestnite objekt max 2,5m od objektívu</string>
+  <string name="portrait_mode_use_hint">"Režim potrétu vám pomôže rozmazať pozadie 
+a zvýrazniť osobu na fotografii"</string>
   <string name="portrait_with_facebeauty_hint">Režim vyhladenia pleti je dostupný.</string>
   <string name="pref_advance_settings">Rozšírené nastavenie</string>
   <string name="pref_audio_focus_entry_front">Predný</string>
@@ -266,6 +268,8 @@ pre výber toho najlepšieho"</string>
   <string name="pref_camera_portrait_mode_entry_on">Portrét zap.</string>
   <string name="pref_camera_portrait_mode_title">Portrét</string>
   <string name="pref_camera_portrait_with_facebeauty_title">Vyhladiť pleť v režime Portrét</string>
+  <string name="pref_camera_proximity_lock_summary">Uzamknúť gestá dotykov ak je zariadenie vo vrecku</string>
+  <string name="pref_camera_proximity_lock_title">Režim vo vrecku</string>
   <string name="pref_camera_raw_title">RAW</string>
   <string name="pref_camera_recordlocation_entry_off">Vypnutá</string>
   <string name="pref_camera_recordlocation_entry_on">Zapnutá</string>
@@ -293,6 +297,8 @@ pre výber toho najlepšieho"</string>
   <string name="pref_camera_show_gender_age_entry_alias">Zobraziť vekové rozpätie</string>
   <string name="pref_camera_show_gender_age_entry_off">Vypnuté</string>
   <string name="pref_camera_show_gender_age_entry_on">Zapnuté</string>
+  <string name="pref_camera_show_gender_age_label_alias">Vek</string>
+  <string name="pref_camera_show_gender_age_label_on">Vek a pohlavie</string>
   <string name="pref_camera_show_gender_age_title">Zobrazenie veku</string>
   <string name="pref_camera_skinToneEnhancement_entry_auto">Auto</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Vypnutá</string>
@@ -301,6 +307,8 @@ pre výber toho najlepšieho"</string>
   <string name="pref_camera_snap_entry_off">Vypnuté</string>
   <string name="pref_camera_snap_entry_take_movie">Video: Na zamk. obr. stlačte hlasitosť nadol.</string>
   <string name="pref_camera_snap_entry_take_picture">Snímka: Na zamk. obr. stlačte hlasitosť nadol.</string>
+  <string name="pref_camera_snap_label_take_movie">Video</string>
+  <string name="pref_camera_snap_label_take_picture">Fotografia</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Nie je možné použiť \"Rýchle zhotovenie fotografie\" ak sa používajú tlačidlá hlasitosti na prebudenie displeja.</string>
   <string name="pref_camera_sound_title">Zvuk kamery</string>
   <string name="pref_camera_square_mode_title">Štvorec</string>
@@ -330,14 +338,16 @@ pre výber toho najlepšieho"</string>
   <string name="pref_camera_whitebalance_title">Vyváženie bielej</string>
   <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
   <string name="pref_camera_zoom_mode_entry_wide">Široký</string>
-  <string name="pref_camera_zoom_mode_title">Objektív</string>  
+  <string name="pref_camera_zoom_mode_title">Objektív</string>
   <string name="pref_camera_zsl_entry_off">Vypnutá (Odporúčané)</string>
   <string name="pref_camera_zsl_entry_on">Zapnutá</string>
   <string name="pref_capture_settings">Nastavenie Fotoaparátu</string>
+  <string name="pref_dualcamera_watermark_title">Vodoznak</string>
   <string name="pref_face_beauty_title">Úprava pleti</string>
   <string name="pref_front_mirror_entry_auto">Auto (len ak je rozpoznaná tvár)</string>
   <string name="pref_front_mirror_entry_off">Vyp</string>
   <string name="pref_front_mirror_entry_on">Zap</string>
+  <string name="pref_front_mirror_label_auto">Auto</string>
   <string name="pref_front_mirror_title">Zrkadliť prednú kameru</string>
   <string name="pref_groupshot_with_primitive_title">Uložiť v GroupShot režime</string>
   <string name="pref_manual_exposure_title">Expozícia</string>
@@ -391,6 +401,8 @@ pre výber toho najlepšieho"</string>
   <string name="pref_watermark_style_title">Pridať vodoznak do fotografie</string>
   <string name="preparing_sd">Príprava úložiska...</string>
   <string name="record_back_pressed_hint">Stlačte opäť pre zastavenie nahrávania</string>
+  <string name="screen_on_proximity_sensor_hint">Pre deaktivovanie tejto funkcie, stlačte naraz tlačidlo hlasitosti nadol a Späť.</string>
+  <string name="screen_on_proximity_sensor_summary">Nezakrývajte priestor slúchadla</string>
   <string name="see_qrcode_detals">Zobraziť podrobnosti o QR kóde</string>
   <string name="setting_top_text">Režim</string>
   <string name="simple_mode_button_asd_flash">Ukončiť</string>
@@ -437,16 +449,4 @@ pre výber toho najlepšieho"</string>
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Bol dosiahnutý limit veľkosti súboru.</string>
   <string name="wait">Čakajte prosím...</string>
-  <string name="pref_camera_show_gender_age_label_alias">Vek</string>
-  <string name="pref_camera_show_gender_age_label_on">Vek a pohlavie</string>
-  <string name="pref_camera_snap_label_take_movie">Video</string>
-  <string name="pref_camera_snap_label_take_picture">Fotografia</string>
-  <string name="pref_front_mirror_label_auto">Auto</string>
-  <string name="portrait_mode_use_hint">"Režim potrétu vám pomôže rozmazať pozadie 
-a zvýrazniť osobu na fotografii"</string>  
-  <string name="pref_camera_proximity_lock_summary">Uzamknúť gestá dotykov ak je zariadenie vo vrecku</string>
-  <string name="pref_camera_proximity_lock_title">Režim vo vrecku</string>
-  <string name="pref_dualcamera_watermark_title">Vodoznak</string>  
-  <string name="screen_on_proximity_sensor_hint">Pre deaktivovanie tejto funkcie, stlačte naraz tlačidlo hlasitosti nadol a Späť.</string>
-  <string name="screen_on_proximity_sensor_summary">Nezakrývajte priestor slúchadla</string>
 </resources>

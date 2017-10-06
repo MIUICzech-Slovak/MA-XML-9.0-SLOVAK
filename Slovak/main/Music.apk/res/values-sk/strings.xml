@@ -266,6 +266,7 @@
   <string name="load_shuffle">Načítavanie...</string>
   <string name="loadercontainer_loading">Načítavanie...</string>
   <string name="loading_hint">Načítavanie...</string>
+  <string name="local_header_title">Lokálna hudba</string>
   <string name="local_music">Offline</string>
   <string name="local_music_empty">Lokálny playlist je prázdny</string>
   <string name="local_music_empty_goto_online">Žiadne skladby</string>
@@ -329,6 +330,9 @@
   <string name="multichoice">Vybrať</string>
   <string name="music_browser_label">Hudba</string>
   <string name="music_filter">Filtrovať audio súbory</string>
+  <string name="music_notification_headset_custom">Zrušiť</string>
+  <string name="music_notification_headset_info">Dotykom zobrazíte nastavenia</string>
+  <string name="music_notification_headset_settings">Pripojené slúchadla</string>
   <string name="music_picker_title">Vyberte skladby</string>
   <string name="music_settings">Hudba</string>
   <string name="my_account">Môj účet</string>
@@ -363,6 +367,7 @@
   <string name="no_scanned_songs">Prázdne</string>
   <string name="no_song">Žiadne skladby</string>
   <string name="no_song_downloaded">Nie je možné sa pripojiť na server</string>
+  <string name="no_system_cropper_find">Systém neobsahuje funkciu orezania obrázku</string>
   <string name="normal_quality">Dobrá</string>
   <string name="not_login">Neprihlásený</string>
   <string name="not_selected">Zvoľte skladbu</string>
@@ -504,6 +509,7 @@
   <string name="sort_by_name">Názov</string>
   <string name="sort_by_time">Dátum</string>
   <string name="source_from">Zdroj: %1$s</string>
+  <string name="start_shuffle">Spustiť náhodne...</string>
   <string name="start_to_download">Začať sťahovanie…</string>
   <string name="start_to_play">Prehrať</string>
   <string name="stop">Zastaviť</string>
@@ -537,6 +543,8 @@
   <string name="title_search_history">Prehľadávať históriu</string>
   <string name="title_search_hot">Horúce</string>
   <string name="toast_cancel_play">Prehrávanie zrušené</string>
+  <string name="toast_new_playlist_name_no_enter">"tlačidlo 'Enter' bolo vymazané"</string>
+  <string name="toast_new_playlist_name_too_long">Názov Playlistu je príliš dlhý</string>
   <string name="today_update">Aktualizovaná Hudba</string>
   <string name="too_freq">Príliš častá operácia</string>
   <string name="tos">Podmienky používania</string>
@@ -570,12 +578,4 @@
   <string name="vip_expiration_title">VIP členstvo čoskoro vyprší</string>
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
   <string name="vip_required">Prepáčte, vyžadované VIP členstvo</string>
-  <string name="music_notification_headset_custom">Zrušiť</string>
-  <string name="music_notification_headset_info">Dotykom zobrazíte nastavenia</string>
-  <string name="music_notification_headset_settings">Pripojené slúchadla</string>  
-  <string name="start_shuffle">Spustiť náhodne...</string>
-  <string name="local_header_title">Lokálna hudba</string>
-  <string name="toast_new_playlist_name_no_enter">"tlačidlo 'Enter' bolo vymazané"</string>
-  <string name="toast_new_playlist_name_too_long">Názov Playlistu je príliš dlhý</string>
-  <string name="no_system_cropper_find">Systém neobsahuje funkciu orezania obrázku</string>
 </resources>

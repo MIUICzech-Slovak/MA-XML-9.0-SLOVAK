@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_calllog_detail">Zoznam hovorov</string>
+  <string name="accessibility_contact_detail">Podrobnosti</string>
   <string name="account_container_title">V tomto účte</string>
   <string name="account_default">Telefón</string>
   <string name="account_phone">Len v Telefóne, nesynchr.</string>
@@ -22,6 +23,7 @@
   <string name="add_contact_dlg_message_fmt">Pridať \"%s\" do kontaktov?</string>
   <string name="add_display_photo_entry">Pridať fotografiu</string>
   <string name="add_field">Pridať ďalšiu položku</string>
+  <string name="add_field_toast">Žiadne položky na pridanie.</string>
   <string name="add_incall_show_entry">Pridať video</string>
   <string name="add_new_account">Pridať nový účet</string>
   <string name="add_new_entry_for_section">Pridať nový</string>
@@ -82,7 +84,9 @@
   <string name="call_radio">Volať rádiostanicu</string>
   <string name="call_record_setting_miui">Nahrávanie hovoru</string>
   <string name="call_settings">Nastavenia</string>
+  <string name="call_sim1_description">SIM 1</string>
   <string name="call_sim1_menu_title">Volať cez SIM1</string>
+  <string name="call_sim2_description">SIM 2</string>
   <string name="call_sim2_menu_title">Volať cez SIM2</string>
   <string name="call_sim_menu_title_suffix">(Primárna)</string>
   <string name="call_telex">Volať na číslo Telex</string>
@@ -193,6 +197,7 @@
   <string name="contactPickerActivityTitle">Vyberte kontakt</string>
   <string name="contactSavedErrorToast">Chyba, zmeny nemožno uložiť.</string>
   <string name="contactSavedToast">Kontakt uložený.</string>
+  <string name="contact_clear_search_history">Vymazať históriu</string>
   <string name="contact_delete_toast">Kontakt úspešne vymazaný</string>
   <string name="contact_detail_action_item_calllog">História</string>
   <string name="contact_detail_action_item_nocalllog">Žiadna história</string>
@@ -237,6 +242,7 @@ Karty kontaktu sú deaktivované"</string>
   <string name="contact_list_loading">Načítavanie...</string>
   <string name="contact_pick_photo">Fotografia</string>
   <string name="contact_read_only">Nie je možné na tomto zariadení upraviť.</string>
+  <string name="contact_search_history">História</string>
   <string name="contact_status_update_attribution">cez %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s cez %2$s</string>
   <string name="contact_unfavorite_toast">Kontakt bol odobraný z obľúbených</string>
@@ -291,7 +297,10 @@ Karty kontaktu sú deaktivované"</string>
   <string name="description_add_contact">Pridať kontakt</string>
   <string name="description_call">Volať %1$s</string>
   <string name="description_call_log_incoming_call">Prichádzajúci hovor</string>
+  <string name="description_call_log_incoming_forwarding_call">Prichádzajúci presmerovaný hovor</string>
   <string name="description_call_log_missed_call">Zmeškaný hovor</string>
+  <string name="description_call_log_missed_forwarding_call">Zmeškaný presmerovaný hovor</string>
+  <string name="description_call_log_new_contact">Nový kontakt</string>
   <string name="description_call_log_outgoing_call">Odchádzajúci hovor</string>
   <string name="description_call_log_play_button">Prehrať hlasovú schránku</string>
   <string name="description_call_log_unheard_voicemail">Nevypočutý odkaz</string>
@@ -481,6 +490,8 @@ Chyba: \"%s\""</string>
   <string name="group_create_success_toast">Skupina vytvorená</string>
   <string name="group_delete_success_toast">Skupina vymazaná</string>
   <string name="group_edit_field_hint_text">Meno skupiny</string>
+  <string name="group_member_remove_fail_toast">Nie je odstránené zo skupiny</string>
+  <string name="group_member_remove_success_toast">Odstránené zo skupiny</string>
   <string name="group_member_remove_toast">Kontakt bol úspešne odobraný zo skupiny</string>
   <string name="group_move_fail_toast">Nebolo možné presunúť kontakty</string>
   <string name="group_name">Moje skupiny</string>
@@ -720,6 +731,7 @@ Chyba: \"%s\""</string>
   <string name="miprofile_nick_name_edit_dialog_hint">Zadajte prezývku</string>
   <string name="miprofile_nick_name_edit_dialog_message">Prezývka sa zobrazí pri volaní a info o kontakte</string>
   <string name="miprofile_nick_name_edit_dialog_title">Upraviť prezývku</string>
+  <string name="miprofile_notice_close">Zatvoriť</string>
   <string name="miprofile_notice_text">Dotknite sa fotografie kontaktu</string>
   <string name="miprofile_request_agenda_date">%1$s si chce s vami vymeniť kartu kontaktu</string>
   <string name="miprofile_request_agenda_today">%1$s si chce s vami vymeniť kartu kontaktu</string>
@@ -847,6 +859,7 @@ Synchronizujte ich teraz."</string>
   <string name="openDialKeyboard">Číselník</string>
   <string name="open_contact">Zobraziť kontakt</string>
   <string name="open_dial_pad_description">Otvoriť číselník</string>
+  <string name="option_delete_batch_contacts">Vymazať viac naraz</string>
   <string name="option_delete_contact">Vymazať</string>
   <string name="option_delete_group">Vymazať</string>
   <string name="option_edit_contact">Upraviť</string>
@@ -950,6 +963,7 @@ Synchronizujte ich teraz."</string>
   <string name="preference_import_export">Import/Export</string>
   <string name="preference_import_export_title">Importovať/Exportovať kontakty</string>
   <string name="preference_key_trash_bin_title">Prehliadať zálohované kontakty ktoré boli nedávno vymazané</string>
+  <string name="preference_other">Ostatné</string>
   <string name="preference_others">Ostatné</string>
   <string name="preference_phone">Telefón</string>
   <string name="preference_phone_more_title">Viac nastavení telefónu</string>
@@ -974,6 +988,9 @@ Synchronizujte ich teraz."</string>
   <string name="preview_incall_show_entry">Náhľad videa</string>
   <string name="previous">Späť</string>
   <string name="private_num">Súkromné číslo</string>
+  <string name="profileSavedErrorToast">Nebolo možné uložiť zmeny</string>
+  <string name="profileSavedToast">Zmeny boli uložené</string>
+  <string name="profile_delete_toast">Profil vymazaný</string>
   <string name="profile_display_name">Nastaviť môj profil</string>
   <string name="profile_name">Môj profil</string>
   <string name="profile_name_photo">Fotografia</string>
@@ -1064,7 +1081,9 @@ Synchronizujte ich teraz."</string>
   <string name="search_wipe_data">Organize;Contacts</string>
   <string name="searching_vcard_message">Vyhľadávanie dát karty vCard na karte SD</string>
   <string name="select_all">Vybrať všetko</string>
+  <string name="select_all_exceed">Vyberte maximálne %1$d, nie všetko</string>
   <string name="select_done">Viac netreba vyberať</string>
+  <string name="select_exceed">Vyberte maximálne %1$d</string>
   <string name="select_groups">Zvoliť skupinu</string>
   <string name="select_none">Nič nie je vybrané, operácia je neplatná</string>
   <string name="select_show_contacts">Zobraziť kontakt</string>
@@ -1109,6 +1128,7 @@ Synchronizujte ich teraz."</string>
   <string name="sim_error_password_error">Nesprávne heslo.</string>
   <string name="sim_error_storage_full">Úložisko je plné.</string>
   <string name="sim_error_text_too_long">Meno je príliš dlhé.</string>
+  <string name="sim_export_error">SIM nie je pripravená, skúste to znova</string>
   <string name="sim_export_loading">Informácie o SIM karte sa načítavajú. Táto operácia môže trvať dlhšie.</string>
   <string name="sim_indexed_contact_not_exist">Pozícia %1$d na SIM karte nie je platná, mala by byť medzi %2$d a %3$d</string>
   <string name="sim_no_contact">žiadne kontakty na SIM karte</string>
@@ -1161,6 +1181,10 @@ Synchronizujte ich teraz."</string>
   <string name="strequentList">Obľúbené</string>
   <string name="success_message_import_from_account">Import bol úspešný</string>
   <string name="summary_kind_title">Súhrn</string>
+  <string name="t9_search_empty_create_contact">Nový kontakt</string>
+  <string name="t9_search_empty_edit_contact">Pridať do kontaktov</string>
+  <string name="t9_search_empty_send_sms">Odoslať SMS</string>
+  <string name="t9_search_empty_video_call">Video hovor</string>
   <string name="t9_search_guide_pinyin">Stlačte 7 a 8 pre vyhľadanie Svokry</string>
   <string name="t9_search_guide_pinyin_title1">Rýchle vyhľadanie kontaktu stlačením písmen</string>
   <string name="t9_search_guide_pinyin_title2">Stlačte 2 alebo 3 pre vyhľadanie Adam Ferko</string>
@@ -1182,6 +1206,7 @@ Synchronizujte ich teraz."</string>
   <string name="toast_for_saving_nickname">Prezývka uložená</string>
   <string name="toast_join_with_empty_contact">Prosím zadajte meno kontaktu pred spojením s ďalším kontaktom.</string>
   <string name="toast_making_personal_copy">Vytváram osobnú kópiu</string>
+  <string name="toast_start_intent_failed">Nenašla sa žiadna aplikácia pre použitie</string>
   <string name="toast_text_copied">Text skopírovaný</string>
   <string name="today">Dnes</string>
   <string name="tomorrow">Zajtra</string>
@@ -1192,10 +1217,13 @@ Synchronizujte ich teraz."</string>
   <string name="type_outgoing">Odchádzajúci hovor</string>
   <string name="type_voicemail">Hlasová správa</string>
   <string name="unable_get_device_id">Nie je možné získať IMEI</string>
+  <string name="unfold_all">Rozbaliť všetko</string>
   <string name="unknow_phone_number_call_failed">Nie je možné volať na neznáme číslo.</string>
   <string name="unknow_phone_number_mms_failed">Nie je možné odoslať SMS na neznáme číslo.</string>
   <string name="unknown">Neznámy</string>
   <string name="unknown_contact_name">Neznámy kontakt</string>
+  <string name="unknown_details_add_to_contact">Existujúci</string>
+  <string name="unknown_details_new_contact">Nový kontakt</string>
   <string name="update_sim_contact_photo_toast">Pre kontakty na SIM karte nie je možné nastaviť fotografiu</string>
   <string name="upgrade_in_progress">"Aktualizácia zoznamu kontaktov</string>
   <string name="upgrade_out_of_memory">Prebieha aktualizácia kontaktov. 
@@ -1269,32 +1297,4 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="yesterday">Včera</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
-  <string name="profileSavedErrorToast">Nebolo možné uložiť zmeny</string>
-  <string name="profileSavedToast">Zmeny boli uložené</string>  
-  <string name="accessibility_contact_detail">Podrobnosti</string>
-  <string name="call_sim1_description">SIM 1</string>
-  <string name="call_sim2_description">SIM 2</string>
-  <string name="contact_clear_search_history">Vymazať históriu</string>
-  <string name="contact_search_history">História</string>
-  <string name="description_call_log_incoming_forwarding_call">Prichádzajúci presmerovaný hovor</string>
-  <string name="description_call_log_missed_forwarding_call">Zmeškaný presmerovaný hovor</string>
-  <string name="description_call_log_new_contact">Nový kontakt</string>
-  <string name="miprofile_notice_close">Zatvoriť</string>
-  <string name="profile_delete_toast">Profil vymazaný</string>
-  <string name="preference_other">Ostatné</string>
-  <string name="option_delete_batch_contacts">Vymazať viac naraz</string>
-  <string name="unfold_all">Rozbaliť všetko</string>
-  <string name="unknown_details_new_contact">Nový kontakt</string>
-  <string name="t9_search_empty_create_contact">Nový kontakt</string>
-  <string name="t9_search_empty_edit_contact">Pridať do kontaktov</string>
-  <string name="t9_search_empty_send_sms">Odoslať SMS</string>
-  <string name="t9_search_empty_video_call">Video hovor</string>  
-  <string name="select_all_exceed">Vyberte maximálne %1$d, nie všetko</string>
-  <string name="select_exceed">Vyberte maximálne %1$d</string>  
-  <string name="add_field_toast">Žiadne položky na pridanie.</string>
-  <string name="sim_export_error">SIM nie je pripravená, skúste to znova</string>
-  <string name="toast_start_intent_failed">Nenašla sa žiadna aplikácia pre použitie</string>
-  <string name="group_member_remove_fail_toast">Nie je odstránené zo skupiny</string>
-  <string name="group_member_remove_success_toast">Odstránené zo skupiny</string>
-  <string name="unknown_details_add_to_contact">Existujúci</string>
 </resources>

@@ -218,6 +218,7 @@
   <string name="card_title_outgoing_barred">Odmietnuté odchádzajúce hovory</string>
   <string name="card_title_redialing">Opakuje sa pokus</string>
   <string name="card_title_unconditionalCF">Call Forward Unconditional is enabled</string>
+  <string name="carrier_info">Info o operátorovi</string>
   <string name="carrier_name">(Názov operátora)</string>
   <string name="carrier_settings"/>
   <string name="carrier_settings_menu"/>
@@ -730,6 +731,7 @@
   <string name="new_pin_label">Nový PIN</string>
   <string name="new_sim_detected">Zistená nová SIM karta:</string>
   <string name="no_change">Neboli vykonané žiadne zmeny.</string>
+  <string name="no_checked_network">Nebudete môcť sa pripojiť k mobilnej sieti. Vybrať inú sieť?"</string>
   <string name="no_internet_available">Ak chcete volať cez internet, skontrolujte najskôr internetové pripojenie.</string>
   <string name="no_internet_available_title">Internetové pripojenie nedostupné</string>
   <string name="no_number">Žiadne telefónne číslo</string>
@@ -1256,6 +1258,7 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="volte_provision_notification_activate">Aktivovať</string>
   <string name="volte_provision_text">Detekcia VoLTE na vašej SIM nie je podporovaná, chcete ho aktivovať?</string>
   <string name="volte_provision_title">Povoliť VoLTE</string>
+  <string name="volte_switch_not_support_summary">VoLTE hovory nie sú podporované na dátovej SIM karte.</string>
   <string name="volte_switch_summary">Použiť VoLTE pre zlepšenie kvality hlasu</string>
   <string name="volte_switch_title">Povoliť VoLTE</string>
   <string name="wait_prompt_str">"Odoslať tieto tóny?
@@ -1276,7 +1279,4 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="xdivert_setting">X-Divert Nastavenia</string>
   <string name="xdivert_summary">CFNRc Nastavenia</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="no_checked_network">Nebudete môcť sa pripojiť k mobilnej sieti. Vybrať inú sieť?"</string>  
-  <string name="volte_switch_not_support_summary">VoLTE hovory nie sú podporované na dátovej SIM karte.</string>
-  <string name="carrier_info">Info o operátorovi</string>
 </resources>

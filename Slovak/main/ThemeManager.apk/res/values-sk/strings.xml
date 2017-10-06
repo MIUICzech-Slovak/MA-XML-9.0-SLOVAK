@@ -22,6 +22,11 @@
   <string name="both_all_apply_failured">Nie je možné nastaviť tapetu</string>
   <string name="both_all_apply_success">Tapeta nastavená</string>
   <string name="browser_local_resource">Lokálne zdroje</string>
+  <string name="can_not_apply">Nie je možné nastaviť</string>
+  <string name="card_data_request_error">Nedostupné, skúste to neskôr...</string>
+  <string name="card_loading">Načítavanie...</string>
+  <string name="card_no_network">Žiadna sieť, pripojte sa a skúste to neskôr...</string>
+  <string name="card_retry">Znova</string>
   <string name="change_wallpaper">Zmena tapety</string>
   <string name="choose_new_themes">Témy</string>
   <string name="close">Zatvoriť</string>
@@ -48,6 +53,7 @@
   <string name="fail_to_add_account">Pridávanie účtu zlyhalo.</string>
   <string name="favorite_list">Obľúbené</string>
   <string name="favorite_list_format">Obľúbené %1$s</string>
+  <string name="find_more_wallpapers">Viac</string>
   <string name="forcetouch_featured">Odporúčané</string>
   <string name="forcetouch_free_themes">Zdarma</string>
   <string name="forcetouch_offline">Lokálne</string>
@@ -86,6 +92,7 @@
   <string name="gift_used">Odoslané</string>
   <string name="home_apply_failured">Nie je možné nastaviť tapetu</string>
   <string name="home_apply_success">Tapeta nastavená</string>
+  <string name="in_the_end">Nič viac</string>
   <string name="incompatible_dialog_message">Táto téma nie je plne kompatibilná s MIUI 8. Niektoré jej časti nemusia byť zobrazené správne alebo spôsobiť neočakávané chyby.</string>
   <string name="incompatible_dialog_ok">Rozumiem</string>
   <string name="incompatible_dialog_title">Problém s kompatibilitou</string>
@@ -94,6 +101,7 @@
   <string name="loading">Načítavanie...</string>
   <string name="loading_resource_detail_fail">Nie je dostupné mimo Čínu!</string>
   <string name="loading_resource_detail_info">Načítavanie...</string>
+  <string name="local_photos">Lokálne</string>
   <string name="lockscreen_apply_failured">Nie je možné nastaviť tapetu</string>
   <string name="lockscreen_apply_failured_but_home_apply_success">Tapeta domácej obrazovky nastavená ale nie je možné nastaviť pre zámok obrazovky</string>
   <string name="lockscreen_apply_success">Tapeta nastavená</string>
@@ -115,6 +123,15 @@
   <string name="my_gifts_received">Prijaté</string>
   <string name="no_data">Nie je možné sa pripojiť k sieti</string>
   <string name="online_no_network">Sieť je nedostupná</string>
+  <string name="online_precust_animal">Zvieratá</string>
+  <string name="online_precust_building">Architektúra</string>
+  <string name="online_precust_cartoon">Rozprávky</string>
+  <string name="online_precust_creative">Kreativita</string>
+  <string name="online_precust_entertainment">Zábava</string>
+  <string name="online_precust_lifestyle">Štýl</string>
+  <string name="online_precust_plant">Rastliny</string>
+  <string name="online_precust_scenery">Krajiny</string>
+  <string name="online_precust_starry_sky">Vesmír</string>
   <string name="online_search_hint">Vyhľadať online informácie</string>
   <string name="present_local_themes">Stiahnuté</string>
   <string name="present_online_themes">Online</string>
@@ -126,6 +143,8 @@
   <string name="purchased_list_current">MIUI 8</string>
   <string name="purchased_list_format">Zakúpené %1$s</string>
   <string name="purchased_list_legacy">Staré témy</string>
+  <string name="recently_used">Nedávno použité</string>
+  <string name="region_not_support">Prepáčte, téma nie je podporovaná.</string>
   <string name="reload">Znova</string>
   <string name="resource_account_abnormal_state">Chyba účtu: Skúste to opäť neskôr.</string>
   <string name="resource_account_fail_to_add">Pridávanie účtu zlyhalo.</string>
@@ -317,11 +336,13 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="resource_user_know">OK</string>
   <string name="resource_waiting_download">Čaká na stiahnutie...</string>
   <string name="resource_waiting_pause">Zastaviť</string>
+  <string name="ringtone_set_success">Nastavené</string>
   <string name="sdcard_not_mounted_dialog_message">"Vložte SD kartu.
 "</string>
   <string name="sdcard_not_mounted_dialog_title">Žiadna SD karta</string>
   <string name="selected_resource_file_invalid">Vybraný súbor je chybný.</string>
   <string name="settings">Nastavenia</string>
+  <string name="system_precust">Systémové</string>
   <string name="the_picture_is_too_small">Obrázok je príliš malý</string>
   <string name="theme_apply_audio_dialog_item_alarm">Budík</string>
   <string name="theme_apply_audio_dialog_item_notification">Upozornenia</string>
@@ -408,6 +429,7 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="uid_change_dialog_message">Vymazali ste aktualizácie. Reštartujte zariadenie pre použitie nových tém.</string>
   <string name="uid_change_dialog_ok">Rozumiem</string>
   <string name="uid_change_dialog_title">Rešťartujte zariadenie</string>
+  <string name="wallpaper_apply">Použiť</string>
   <string name="wallpaper_auto_change_title">Zamykacia obrazovka</string>
   <string name="wallpaper_crop">Orezať</string>
   <string name="wallpaper_decoded_error">Nepodarilo sa dešifrovať!</string>
@@ -419,31 +441,9 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="wallpaper_settings">Nastavenie tapety</string>
   <string name="wallpaper_settings_change_wallpaper">Zmeniť</string>
   <string name="wallpaper_settings_desktop_text">Domáca plocha</string>
-  <string name="wallpaper_settings_lockscreen_text">Zamykacia obrazovka</string>
-  <string name="wallpaper_settings_page_title">tapeta</string>
-  <string name="can_not_apply">Nie je možné nastaviť</string>
-  <string name="card_data_request_error">Nedostupné, skúste to neskôr...</string>
-  <string name="card_loading">Načítavanie...</string>
-  <string name="card_no_network">Žiadna sieť, pripojte sa a skúste to neskôr...</string>
-  <string name="card_retry">Znova</string>
-  <string name="find_more_wallpapers">Viac</string>
-  <string name="in_the_end">Nič viac</string>
-  <string name="local_photos">Lokálne</string>
-  <string name="recently_used">Nedávno použité</string>
-  <string name="ringtone_set_success">Nastavené</string>
-  <string name="system_precust">Systémové</string>
-  <string name="wallpaper_apply">Použiť</string>
   <string name="wallpaper_settings_loading_text">Načítavanie...</string>
+  <string name="wallpaper_settings_lockscreen_text">Zamykacia obrazovka</string>
   <string name="wallpaper_settings_no_history">Žiadna história</string>
   <string name="wallpaper_settings_pad_more_page_title">Viac tapiet</string>
-  <string name="online_precust_animal">Zvieratá</string>
-  <string name="online_precust_building">Architektúra</string>
-  <string name="online_precust_cartoon">Rozprávky</string>
-  <string name="online_precust_creative">Kreativita</string>
-  <string name="online_precust_entertainment">Zábava</string>
-  <string name="online_precust_lifestyle">Štýl</string>
-  <string name="online_precust_plant">Rastliny</string>
-  <string name="online_precust_scenery">Krajiny</string>
-  <string name="online_precust_starry_sky">Vesmír</string>
-  <string name="region_not_support">Prepáčte, téma nie je podporovaná.</string>
+  <string name="wallpaper_settings_page_title">tapeta</string>
 </resources>

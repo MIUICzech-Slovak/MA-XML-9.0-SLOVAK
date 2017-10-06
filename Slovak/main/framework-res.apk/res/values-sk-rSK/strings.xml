@@ -1535,6 +1535,7 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže poškodiť váš sluch."</st
   <string name="upload_file">Zvoliť súbor</string>
   <string name="usb_accessory_notification_title">Pripojené k periférnemu zariadeniu USB</string>
   <string name="usb_cd_installer_notification_title">Pripojené ako inštalátor</string>
+  <string name="usb_charging_notification_title">Iba nabíjanie cez USB</string>
   <string name="usb_mtp_notification_title">Pripojené ako mediálne zariadenie</string>
   <string name="usb_notification_message">Dotykom zobrazíte ďalšie možnosti USB.</string>
   <string name="usb_ptp_notification_title">Pripojené ako fotoaparát</string>
@@ -1676,5 +1677,4 @@ Chcete ju zavrieť?"</string>
   <string name="years">roky</string>
   <string name="yes">OK</string>
   <string name="zen_mode_forever">Natrvalo</string>
-   <string name="usb_charging_notification_title">Iba nabíjanie cez USB</string>
 </resources>

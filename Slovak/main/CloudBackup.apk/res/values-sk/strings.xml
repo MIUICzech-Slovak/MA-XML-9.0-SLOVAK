@@ -110,6 +110,7 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="remove_task_in_process">Mazanie...</string>
   <string name="remove_task_unfinished">mazanie nie je dokončené</string>
   <string name="restore_data_summary">Táto funkcia vyžaduje internetové pripojenie.</string>
+  <string name="restore_data_title">Obnoviť dáta</string>
   <string name="restore_from_cloud">Obnoviť z MiCloud</string>
   <string name="restore_from_this_device">Obnoviť z tejto zálohy</string>
   <string name="restore_home_screen_apps">Obnoviť zo zálohy v MiCloud</string>
@@ -122,5 +123,4 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="start_recover">Obnoviť %s</string>
   <string name="success_open_cloudbackup">Povolená záloha pre rozloženie plochy a apl.</string>
   <string name="wait_icon_download">Sťahovanie ikony aplikácie</string>
-  <string name="restore_data_title">Obnoviť dáta</string>
 </resources>

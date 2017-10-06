@@ -56,6 +56,7 @@ Povoliť teraz aj v budúcnosti?"</string>
   <string name="app_store_installing_message">Inštalácia Mi AppStore</string>
   <string name="app_store_missing_message">Mi AppStore nie je nainštalovaný na tomto zariadení.</string>
   <string name="app_store_missing_title">Mi AppStore sa nenašiel</string>
+  <string name="app_version">Verzia: %1$s</string>
   <string name="auto_startup_dialog_msg">"Miui dovolí aplikácií spustiť sa automaticky. To môže zvýšiť nielen spotrebu energie ale aj dát. \nPovoliť automatické spustenie？"</string>
   <string name="available_via_passpoint">Dostupné cez %1$s</string>
   <string name="battery_info_status_charging">Nabíjanie</string>
@@ -358,6 +359,8 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="miui_install_success">Nainštalované</string>
   <string name="miui_install_version">Verzia: %s</string>
   <string name="miui_installing">Inštalácia...</string>
+  <string name="miui_installing2">Inštalácia...</string>
+  <string name="miui_message_staging">Kontrola...</string>
   <string name="miui_no_perms">Nevyžaduje žiadne povolenia</string>
   <string name="miui_other_relative">Ostatné</string>
   <string name="miui_permission_detail">Povolenia</string>
@@ -369,7 +372,9 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="miui_security_relative">Bezpečnosť</string>
   <string name="miui_solution_clean">Vymazať odpad</string>
   <string name="miui_solution_msg">Riešenie</string>
+  <string name="miui_uninstall_application_text">Chcete odinštalovať túto aplikáciu?</string>
   <string name="miui_uninstall_success">Odinštalované</string>
+  <string name="miui_uninstall_update_text">Nahradiť túto aplikáciu verziou v ROM? Všetky jej dáta budú vymazané.</string>
   <string name="miui_uninstalling">Odinštalovanie...</string>
   <string name="miui_virus_deleted">Vírusy vymazané</string>
   <string name="miui_virus_install">Aj tak nainštalovať</string>
@@ -416,6 +421,7 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="permission_action_accept">Povoliť</string>
   <string name="permission_action_prompt">Opýtať sa</string>
   <string name="permission_action_reject">Zakázať</string>
+  <string name="permission_detail">Povolenia</string>
   <string name="permission_group_title_charges_related">Telefón</string>
   <string name="permission_group_title_media_related">Multimédia</string>
   <string name="permission_group_title_others">Ostatné</string>
@@ -447,6 +453,9 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="power_discharging_duration_short">%1$s - %2$s left</string>
   <string name="power_remaining_duration_only">Approx. %1$s left</string>
   <string name="power_remaining_duration_only_short">%1$s left</string>
+  <string name="pref_ads">Odporúčania</string>
+  <string name="pref_key_antivirus">Antivírus</string>
+  <string name="pref_key_antivirus_summary">Skontrolovať vírusy v aplikácií pred inštaláciou</string>
   <string name="privacyPerms">Ochrana osobných údajov</string>
   <string name="privacy_relative">Práva k súkromným údajom</string>
   <string name="reboot_time">Zariadenie bude reštartované...(%1$s)</string>
@@ -502,6 +511,7 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="tether_settings_title_wifi">Portable hotspot</string>
   <string name="tethering_settings_not_available">Tethering settings are not available for this user</string>
   <string name="title_convert_fbe">Converting to file based encryption</string>
+  <string name="toast_network_eror">Nie je možné pripojiť sa k sieti</string>
   <string name="track_frame_time">Profile GPU rendering</string>
   <string name="transition_animation_scale_title">Transition animation scale</string>
   <string name="trust_switch_dialog_msg">"MIUI si nebude pýtať potvrdenie operácií tejto aplikácie ktoré môžu ohroziť Vašu bezpečnosť. \nVeríte tejto aplikácií?"</string>
@@ -560,6 +570,7 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="unknown_apps_dlg_text3">.</string>
   <string name="unknown_apps_dlg_title">Inštalácia bola zablokovaná</string>
   <string name="unknown_installer">Neznámy inštalátor</string>
+  <string name="unlike">Nie ďakujem</string>
   <string name="usb_audio_disable_routing">Disable USB audio routing</string>
   <string name="usb_audio_disable_routing_summary">Disable automatic routing to USB audio peripherals</string>
   <string name="user_guest">Guest</string>
@@ -598,15 +609,4 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="wifi_verbose_logging">Enable Wi‑Fi Verbose Logging</string>
   <string name="wifi_verbose_logging_summary">Increase Wi‑Fi logging level, show per SSID RSSI in Wi‑Fi Picker</string>
   <string name="window_animation_scale_title">Window animation scale</string>
-  <string name="app_version">Verzia: %1$s</string>
-  <string name="miui_installing2">Inštalácia...</string>
-  <string name="miui_message_staging">Kontrola...</string>
-  <string name="miui_uninstall_application_text">Chcete odinštalovať túto aplikáciu?</string>
-  <string name="miui_uninstall_update_text">Nahradiť túto aplikáciu verziou v ROM? Všetky jej dáta budú vymazané.</string>
-  <string name="permission_detail">Povolenia</string>
-  <string name="pref_ads">Odporúčania</string>
-  <string name="pref_key_antivirus">Antivírus</string>
-  <string name="pref_key_antivirus_summary">Skontrolovať vírusy v aplikácií pred inštaláciou</string>
-  <string name="toast_network_eror">Nie je možné pripojiť sa k sieti</string>
-  <string name="unlike">Nie ďakujem</string>
 </resources>

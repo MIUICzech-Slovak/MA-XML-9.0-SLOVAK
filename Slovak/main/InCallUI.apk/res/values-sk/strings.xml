@@ -59,10 +59,16 @@
   <string name="can_not_call_oneself">Nie je možné uskutočniť hovor na toto číslo</string>
   <string name="can_not_use">Nie je možné použiť</string>
   <string name="cancel">Zrušiť</string>
+  <string name="card_title_answering">Prijatie hovoru</string>
+  <string name="card_title_answering_fail">Nebolo možné prijať hovor, skúste to znova.</string>
+  <string name="card_title_answering_time_out">Nebolo možné prijať hovor, skúste to znova.</string>
   <string name="card_title_call_ended">"Hovor ukončený "</string>
   <string name="card_title_conf_call">"Konferenčný hovor "</string>
   <string name="card_title_dialing">Vytáčanie</string>
   <string name="card_title_hanging_up">"Ukončenie hovoru "</string>
+  <string name="card_title_hanging_up_fail">Nebolo možné ukončiť hovor, skúste to znova.</string>
+  <string name="card_title_hanging_up_restart">Nie je možné ukončiť hovor. Reštartujte vaše zariadenie.</string>
+  <string name="card_title_hanging_up_weak_signal">Slabý signál mobilnej siete. Hovor sa ukončí.</string>
   <string name="card_title_in_call">Počas hovoru</string>
   <string name="card_title_in_call_short">Hovor</string>
   <string name="card_title_in_video">Video</string>
@@ -216,15 +222,18 @@
   <string name="onscreen_close_preview_camera">Zatvoriť kameru</string>
   <string name="onscreen_hold_text">Podržať</string>
   <string name="onscreen_merge_calls_text">Spojiť hovory</string>
+  <string name="onscreen_message_text">Správy</string>
   <string name="onscreen_mute_text">Stíšiť</string>
   <string name="onscreen_note_calls_text">Poznámka</string>
   <string name="onscreen_rcs_text">Správy</string>
   <string name="onscreen_swap_calls_text">Prepnúť</string>
+  <string name="package_not_available">\"%s\" nie je dostupné</string>
   <string name="pause_prompt_no">Nie</string>
   <string name="pause_prompt_yes">Áno</string>
   <string name="payphone">Verejný telefón</string>
   <string name="picking_participant">Načítavanie kontaktu...</string>
   <string name="private_num">Súkromné číslo</string>
+  <string name="remind_unlock_message">Vaše zariadenie je uzamknuté. \"%s\" bude dostupné až po odblokovaní vašeho zariadenia. Odblokovať?</string>
   <string name="respond_via_sms_custom_message">Vlastná správa...</string>
   <string name="select_audio_dialog_title">Vyberte režim odpovede</string>
   <string name="select_one_sim_title">Je možné použiť len SIM %1$d</string>
@@ -234,7 +243,9 @@
   <string name="sip_call_not_support_record">SIP hovor nepodporuje nahrávanie</string>
   <string name="suspect_info">Nedôveryhodný hovor</string>
   <string name="unknown">Neznáme</string>
+  <string name="unlock_phone">Odomknúť zariadenie</string>
   <string name="upgrade_vt_prompt">Would you like to upgrade the call to video call?</string>
+  <string name="user_locked_prompt">Pre prístup ku kontaktom, odomknite zariadenie.</string>
   <string name="video_call_not_allowed_if_tty_enabled">Vypnite TTY režim</string>
   <string name="video_conference_caller_info_name">Video konferencia %1$s</string>
   <string name="video_switch_to_voice_call_prompt">Prepnúť na hlasový hovor</string>
@@ -242,15 +253,4 @@
   <string name="wait_prompt_str">"Odoslať nasledujúce tóny?
 "</string>
   <string name="waiting_close_airplane_mode">Čakanie na ukončenie režimu Lietadlo...</string>
-  <string name="remind_unlock_message">Vaše zariadenie je uzamknuté. \"%s\" bude dostupné až po odblokovaní vašeho zariadenia. Odblokovať?</string>
-  <string name="unlock_phone">Odomknúť zariadenie</string>
-  <string name="card_title_hanging_up_restart">Nie je možné ukončiť hovor. Reštartujte vaše zariadenie.</string>
-  <string name="card_title_hanging_up_weak_signal">Slabý signál mobilnej siete. Hovor sa ukončí.</string>  
-  <string name="onscreen_message_text">Správy</string>
-  <string name="user_locked_prompt">Pre prístup ku kontaktom, odomknite zariadenie.</string>
-  <string name="card_title_answering">Prijatie hovoru</string>
-  <string name="card_title_answering_fail">Nebolo možné prijať hovor, skúste to znova.</string>
-  <string name="card_title_hanging_up_fail">Nebolo možné ukončiť hovor, skúste to znova.</string>
-  <string name="package_not_available">\"%s\" nie je dostupné</string>
-  <string name="card_title_answering_time_out">Nebolo možné prijať hovor, skúste to znova.</string>
 </resources>

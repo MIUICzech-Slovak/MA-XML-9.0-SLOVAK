@@ -43,6 +43,7 @@
   <string name="cancel_operation">Zrušiť operáciu</string>
   <string name="cancel_success">Odobrané, všetky súbory boli presunuté do %s</string>
   <string name="cancelled_by_user">Operácia zrušená</string>
+  <string name="cannot_send">Nie je možné odoslať súbor z SD karty</string>
   <string name="category">Kategórie</string>
   <string name="category_all">Všetko</string>
   <string name="category_apk">Aplikácie</string>
@@ -86,6 +87,7 @@
   <string name="connect_network_setting_des">Upozorniť na prístup k sieti</string>
   <string name="connecting">Pripájanie...</string>
   <string name="connection_error">Nebolo možné sa pripojiť</string>
+  <string name="connection_lost">Odpojené</string>
   <string name="copied">Skopírované</string>
   <string name="copy_failed">Kopírovanie zlyhalo</string>
   <string name="copy_failed_retry">Nie je možné skopírovať. Počkajte %1$s a skúste to znova.</string>
@@ -107,6 +109,7 @@
   <string name="data_consumption_title">Internetové pripojenie</string>
   <string name="decompress_cancel">Zrušiť</string>
   <string name="decompress_confirm">Rozbaliť</string>
+  <string name="decompress_corrupt">Nebolo možné rozbaliť súbory. Balíček je poškodený.</string>
   <string name="decompress_destination_error">Rozbaľovanie zlyhalo. Nie je možné rozbaliť súbor do tohto adresára.</string>
   <string name="decompress_encrypted_rar_not_supported">3ífrovaný rar súbor nie je podporovaný.</string>
   <string name="decompress_fail">Rozbaľovanie zlyhalo!</string>
@@ -166,8 +169,14 @@
   <string name="encrypt_success_first_five">Úspešne zašifrované. Potiahnite nadol hlavnú stránku aplikácie Súbory pre ich zobrazenie.</string>
   <string name="encrypting">Šifrovanie...</string>
   <string name="error_contains_sharer_path">Nie je možné dešifrovať súbory v zložke /MIUI/Gallery/cloud/sharer. Presuňte súbory do iného priečinka a skúste to znova.</string>
+  <string name="error_create_dir">Nebolo možné vytvoriť zložku</string>
+  <string name="error_create_file">Nebolo možné vytvoriť súbor</string>
+  <string name="error_delete_failed">Nebolo možné vymazať súbor</string>
   <string name="error_filename_too_long">Názov súboru je príliš dlhý</string>
+  <string name="error_folder_already_exists">Tento súbor už existuje</string>
   <string name="error_info_cant_send_folder">Zložka nemôže byť presunutá</string>
+  <string name="error_invalid_path">Nesprávna cesta</string>
+  <string name="error_not_support">Nie je podporované</string>
   <string name="error_open_file_failed_no_app_found">Nenašla sa aplikácia pre otvorenie tohto súboru</string>
   <string name="expand_all">Všetko</string>
   <string name="extended_storage_file_can_not_open">Nebolo možné otvoriť súbor. Skopírujte súbor na interné úložisko.</string>
@@ -221,6 +230,7 @@
   <string name="has_installed">Nainštalované</string>
   <string name="homepage_tab_category">Kategórie</string>
   <string name="homepage_tab_file_view">Úložisko</string>
+  <string name="homepage_tab_file_view_phone">Úložisko</string>
   <string name="homepage_tab_recent">Nedávne</string>
   <string name="hot_app">Populárne apl</string>
   <string name="if_cancel">Zrušiť túto operáciu?</string>
@@ -229,6 +239,8 @@
   <string name="installing">Inštalácia...</string>
   <string name="instruction">Zadajte v adresnom riadku prehliadača v PC:</string>
   <string name="instruction_pre">Slúži k prenosu súborov medzi telefónom a PC pomocou FTP protokolu.</string>
+  <string name="instruction_pre_pad">Dotykom spustíte FTP server</string>
+  <string name="instruction_pre_phone">Dotykom spustíte FTP server</string>
   <string name="just_now">Teraz</string>
   <string name="kilobyteShort">KB</string>
   <string name="kp_category_all">Kategória</string>
@@ -323,6 +335,8 @@ Server je momentálne nedostupný, skúste to opäť neskôr
   <string name="move_icon_to_desktop_success">Teraz máte odkaz na aplikáciu Súbory na vašej ploche.</string>
   <string name="move_to">Presunúť do...</string>
   <string name="msg_set_password">Najskôr nastavte heslo</string>
+  <string name="mtp_device">Média zariadenie (MTP)</string>
+  <string name="mtp_label">MTP</string>
   <string name="multi_select_title">Vybraných %1$s</string>
   <string name="my_app">Dáta apl.</string>
   <string name="my_app_desc"/>
@@ -454,12 +468,15 @@ and never miss the cool new ones!"</string>
   <string name="operation_unfavorite">Odobrať z obľúbených</string>
   <string name="otg_file_can_not_open">Nie je možné otvoriť súbor na USB. Najskôr skopírujte súbor na interné úložisko.</string>
   <string name="overwrite_msg">\"%s\" už existuje. Dotykom ho prepíšete novým súborom.</string>
+  <string name="pad">Interné úložisko</string>
   <string name="pan_settting">MiDrive nastavenia</string>
   <string name="partial_cancel_successful">Nebolo možné odobrať niektoré súbory. Zvyšné súbory boli presunuté do %s</string>
   <string name="partial_delete_failure">Nebolo možné vymazať niektoré súbory</string>
   <string name="partial_encrypt_success">Nebolo možné zmeniť niektoré súbory na súkromné</string>
   <string name="partial_repair_done">Niektoré súbory boli úspešne obnovené</string>
   <string name="paused">Pozastavené</string>
+  <string name="permission_denial">Nie je možný prístup k súborom. Povoľte aplikácií Súbory prístup k úložisku.</string>
+  <string name="permission_required">Nie je možný prístup k súborom. Povoľte aplikácií Súbory prístup k úložisku.</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Interné úložisko</string>
   <string name="phone_storage">Úložisko</string>
@@ -607,6 +624,7 @@ Získali ste ďalších %1$s"</string>
   <string name="storage_usb_description">USB úložisko</string>
   <string name="storage_warning">SD karta nie je prístupné alebo sa nedá čítať.</string>
   <string name="subtitle_report_video">Od %1$s</string>
+  <string name="support_mtp">MTP bude podporovaná čoskoro</string>
   <string name="sys_size_enable">" Voľné"</string>
   <string name="system_alert">Upozornenie</string>
   <string name="tab_category">Kategórie</string>
@@ -647,6 +665,7 @@ Získali ste ďalších %1$s"</string>
   <string name="ui_main_toast_favorite_added">Označené</string>
   <string name="ui_main_toast_favorite_removed">Odstránené obľúbené</string>
   <string name="ui_main_toast_operation_failed">Odstránenie obľúbených %1$s zlyhalo</string>
+  <string name="unknown_error">Nastala chyba. Počkajte chvíľu a skúste to znova.</string>
   <string name="unlock_pattern_msg">Ochrana súkromia heslom chráni aj vaše fotografie a SMS.</string>
   <string name="unlock_pattern_title">Nové heslo</string>
   <string name="unmount_inform_text">USB úložisko bude odpojené.</string>
@@ -685,23 +704,4 @@ Získali ste ďalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Áno</string>
   <string name="yesterday">Včera</string>
-  <string name="support_mtp">MTP bude podporovaná čoskoro</string>
-  <string name="cannot_send">Nie je možné odoslať súbor z SD karty</string>
-  <string name="connection_lost">Odpojené</string>
-  <string name="decompress_corrupt">Nebolo možné rozbaliť súbory. Balíček je poškodený.</string>
-  <string name="error_create_dir">Nebolo možné vytvoriť zložku</string>
-  <string name="error_create_file">Nebolo možné vytvoriť súbor</string>
-  <string name="error_delete_failed">Nebolo možné vymazať súbor</string>
-  <string name="error_folder_already_exists">Tento súbor už existuje</string>
-  <string name="error_invalid_path">Nesprávna cesta</string>
-  <string name="error_not_support">Nie je podporované</string>
-  <string name="homepage_tab_file_view_phone">Úložisko</string>
-  <string name="instruction_pre_pad">Dotykom spustíte FTP server</string>
-  <string name="instruction_pre_phone">Dotykom spustíte FTP server</string>
-  <string name="mtp_device">Média zariadenie (MTP)</string>
-  <string name="mtp_label">MTP</string>
-  <string name="pad">Interné úložisko</string>
-  <string name="permission_denial">Nie je možný prístup k súborom. Povoľte aplikácií Súbory prístup k úložisku.</string>
-  <string name="permission_required">Nie je možný prístup k súborom. Povoľte aplikácií Súbory prístup k úložisku.</string>
-  <string name="unknown_error">Nastala chyba. Počkajte chvíľu a skúste to znova.</string>
 </resources>

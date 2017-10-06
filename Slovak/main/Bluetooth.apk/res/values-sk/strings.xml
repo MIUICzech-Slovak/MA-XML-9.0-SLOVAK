@@ -140,9 +140,11 @@
   <string name="permdesc_bluetoothAvrcpDataManager">Allows the app to access the BluetoothAvrcpData manager and use it to display on UI.</string>
   <string name="permdesc_bluetoothShareManager">Umožňuje aplikácii pristupovať k Správcovi BluetoothShare a použiť ho na prenos súborov.</string>
   <string name="permdesc_bluetoothWhitelist">Umožňuje aplikácii dočasne povoliť zariadenie Bluetooth, čím sa povolí zariadeniu odosielať súbory do tohto zariadenia bez potvrdenia používateľa.</string>
+  <string name="permdesc_handoverStatus">Umožňuje prijímať informácie o odovzdanom stave prenosu z rozhrania Bluetooth..</string>
   <string name="permlab_bluetoothAvrcpDataManager">Access avrcp metadata.</string>
   <string name="permlab_bluetoothShareManager">Získať prístup k správcovi preberania.</string>
   <string name="permlab_bluetoothWhitelist">Prístup povoleného zariadenia Bluetooth.</string>
+  <string name="permlab_handoverStatus">Prijímať odovzdané vysielania prenosu z rozhrania BT..</string>
   <string name="process"/>
   <string name="progress_scanning">Vyhľadávanie...</string>
   <string name="reset_function_msg">Reopen the function will cause it invalid in %1$s</string>
@@ -187,6 +189,4 @@
   <string name="upload_succ_line5">Súbor bol odoslaný</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s Odosielanie dokončené.</string>
-  <string name="permdesc_handoverStatus">Umožňuje prijímať informácie o odovzdanom stave prenosu z rozhrania Bluetooth..</string>
-  <string name="permlab_handoverStatus">Prijímať odovzdané vysielania prenosu z rozhrania BT..</string>
 </resources>

@@ -15,6 +15,8 @@
   <string name="bugreport_dump_start_notification_title">Vytváranie hlásenia o chybe...</string>
   <string name="bugreport_feedback_from">Od: %s</string>
   <string name="bugreport_tool_log">Vytvoriť záznam o chybe</string>
+  <string name="bugreport_tool_log_dumping_desc">Trvá približne 1 min</string>
+  <string name="bugreport_tool_log_dumping_title">Vytváranie hlásenia</string>
   <string name="bugreport_tool_log_toast">Záznam uložený do %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Vytváranie záznamu o chybe (trvá okolo 1 minúty)</string>
   <string name="close_feedback_main">Skryť</string>
@@ -118,7 +120,16 @@
   <string name="michat_message_error_network">Nebolo možné pripojiť sa k sieti</string>
   <string name="michat_message_send_error_network">Nebolo možné odoslať, skontrolujte nastavenie siete</string>
   <string name="min_error">Vaša %1$s by mala byť dlhšia.</string>
+  <string name="mobile_data_note_dialog_cancel">Čakať na Wi-Fi</string>
+  <string name="mobile_data_note_dialog_confirm">Odoslať</string>
+  <string name="mobile_data_note_dialog_content">Odosielanie záznamov o chybe na mobilných dátach môže navýšiť vaše poplatky.</string>
+  <string name="mobile_data_note_dialog_content_with_file_size">Odosielanie záznamov o chybe na mobilných dátach spotrebuje %sMB.</string>
+  <string name="mobile_data_note_dialog_title">Upozornenie na mobilné dáta</string>
   <string name="modem_tool_log">Vytvoriť záznam modemu</string>
+  <string name="modem_tool_log_dumping_desc">Dotykom zastavíte</string>
+  <string name="modem_tool_log_dumping_title">Vytváranie hlásenia</string>
+  <string name="modem_tool_log_finish_desc">Log uložený do %s</string>
+  <string name="modem_tool_log_finish_title">Hlásenie vytvorené</string>
   <string name="modem_tool_log_start">Spustiť</string>
   <string name="modem_tool_log_start_toast">Záznam o modeme bude uložený do %s</string>
   <string name="modem_tool_log_stop">Zastaviť</string>
@@ -195,6 +206,7 @@
   <string name="time_in_justnow">Práve teraz</string>
   <string name="title_answer_feedback_main">Našli sme odpoveď!</string>
   <string name="title_bbs_feedback_main">Viac o Mi telefónoch</string>
+  <string name="title_customer_service">Užívateľská podpora</string>
   <string name="title_frequent_question_feedback_main">FAQ</string>
   <string name="title_mi_family">Mi Home v blízkosti</string>
   <string name="title_nonsystem_app">Iné apl.</string>
@@ -222,16 +234,4 @@
   <string name="upload_log_failed">Nebolo možné odoslať záznam o chybe</string>
   <string name="warning_field_empty">Zadajte %1$s</string>
   <string name="warning_field_invalid">Vyberte platné %1$s</string>
-  <string name="title_customer_service">Užívateľská podpora</string>
-  <string name="mobile_data_note_dialog_cancel">Čakať na Wi-Fi</string>
-  <string name="mobile_data_note_dialog_confirm">Odoslať</string>
-  <string name="mobile_data_note_dialog_content">Odosielanie záznamov o chybe na mobilných dátach môže navýšiť vaše poplatky.</string>
-  <string name="mobile_data_note_dialog_content_with_file_size">Odosielanie záznamov o chybe na mobilných dátach spotrebuje %sMB.</string>
-  <string name="mobile_data_note_dialog_title">Upozornenie na mobilné dáta</string>
-  <string name="bugreport_tool_log_dumping_desc">Trvá približne 1 min</string>
-  <string name="bugreport_tool_log_dumping_title">Vytváranie hlásenia</string>
-  <string name="modem_tool_log_dumping_desc">Dotykom zastavíte</string>
-  <string name="modem_tool_log_dumping_title">Vytváranie hlásenia</string>
-  <string name="modem_tool_log_finish_desc">Log uložený do %s</string>
-  <string name="modem_tool_log_finish_title">Hlásenie vytvorené</string>
 </resources>

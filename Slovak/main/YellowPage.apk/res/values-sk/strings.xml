@@ -194,6 +194,9 @@ Majte na pamäti, že žiadna banka alebo iné spoločnosti sa Vás nesmú pýta
   <string name="toast_finish_delete_call_log">Zoznam hovorov bol vymazaný</string>
   <string name="toast_text_copied">Text skopírovaný</string>
   <string name="try_again">Skúsiť opäť</string>
+  <string name="turn_on_online_antispam_enable">Povoliť</string>
+  <string name="turn_on_online_antispam_summary">Povoliť Caller ID pre rozpoznanie neznámych čísel.</string>
+  <string name="turn_on_online_antispam_title">Povoliť Caller ID</string>
   <string name="turn_on_smart_antispam_hint">Po povolení, neznáme čísla budú identifikované. Ak sa číslo nenájde, môžete ho priradiť do správnej kategórie alebo si vytvoriť vlastnú.</string>
   <string name="turn_on_smart_antispam_summary_off">Pýtať sa len na čísla s miestnou predvoľbou</string>
   <string name="turn_on_smart_antispam_summary_on">Identifikovať neznáme čísla a odoslať do databázy</string>
@@ -206,7 +209,4 @@ Majte na pamäti, že žiadna banka alebo iné spoločnosti sa Vás nesmú pýta
   <string name="yellow_page_call_log_title">Zoznam hovorov</string>
   <string name="yellow_page_detail_title">Čo je to</string>
   <string name="yellow_page_website">Oficiálna stránka</string>
-  <string name="turn_on_online_antispam_enable">Povoliť</string>
-  <string name="turn_on_online_antispam_summary">Povoliť Caller ID pre rozpoznanie neznámych čísel.</string>
-  <string name="turn_on_online_antispam_title">Povoliť Caller ID</string>
 </resources>

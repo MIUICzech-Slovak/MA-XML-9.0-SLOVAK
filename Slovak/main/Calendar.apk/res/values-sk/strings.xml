@@ -33,6 +33,7 @@
   <string name="add_countdown">Pridať odpočet</string>
   <string name="add_event">Pridať udalosť</string>
   <string name="add_topic_success">Odoberanie "%s" úspešné</string>
+  <string name="agenda_month_empty_hint">Žiadne udalosti na dnes</string>
   <string name="agenda_today">Dnes, %1$s</string>
   <string name="agenda_tomorrow">ZAJTRA, %1$s</string>
   <string name="agenda_view">Agenda</string>
@@ -130,6 +131,7 @@
   <string name="dismiss_all_label">Zavrieť všetko</string>
   <string name="do_not_check">Nekontrolovať -&gt;</string>
   <string name="does_not_repeat">Jednorazová udalosť</string>
+  <string name="done">Naspať</string>
   <string name="download">Stiahnuť</string>
   <string name="edit_date_calculate_days_backward_error_hint">Nemôže byť vypočítané spätne</string>
   <string name="edit_date_calculate_days_empty_hint">Počet dní nesmie byť prázdny</string>
@@ -220,6 +222,7 @@
   <string name="hint_what">Názov udalosti</string>
   <string name="hint_where">Miesto</string>
   <string name="holiday_card_title">Sviatky</string>
+  <string name="homepage_today">D</string>
   <string name="huangli_bad_type"/>
   <string name="huangli_good_type"/>
   <string name="huangli_label">Huang Li</string>
@@ -232,10 +235,13 @@
   <string name="insert_event_dialog_title">Upozornenie</string>
   <string name="insert_event_toast_add_failed">Pridanie zlyhalo</string>
   <string name="insert_event_toast_add_success">Udalosť vytvorená</string>
+  <string name="install_weather_app_error">Nastala chyba.</string>
+  <string name="install_weather_app_loading">Načítavanie...</string>
   <string name="item_num_selected">Vybraných: %1$d</string>
   <string name="jump_date">Skoč</string>
   <string name="jump_date_full">Skoč na dátum</string>
   <string name="label_recent_events">Nedávne udalosti</string>
+  <string name="load_more_hint">Obnoviť udalosti z %1$d</string>
   <string name="loading">Načítanie...</string>
   <string name="local_calendar_display_name">Lokálny kalendár</string>
   <string name="local_owner_account_name">Lokálny účet</string>
@@ -246,6 +252,7 @@
   <string name="menu_reminder_preferences">Nastavenie upozornenia</string>
   <string name="menu_select_visible_calendars">Zobrazené kalendáre</string>
   <string name="missing_name">(Žiadne meno)</string>
+  <string name="missing_required_permission">Deaktivovali ste požadované oprávnenia.</string>
   <string name="miui_chinese_week_range_double"/>
   <string name="miui_chinese_week_range_single"/>
   <string name="miui_menu_create_event">Nová</string>
@@ -274,6 +281,7 @@
   <string name="new_event_dialog_option">Nová udalosť</string>
   <string name="no_calendars_found">Pred pridaním udalosti je nutné pridať do zariadenia aspoň jeden účet s kalendárom a zobraziť ho. Ak chcete pridať účet, stlačte tlačidlo Pridať účet (ak ste účet práve pridali, počkajte na dokončenie synchronizácie a skúste to znova). Alebo sa dotknite tlačidla Zrušiť a skontrolujte, či je zobrazený aspoň jeden kalendár.</string>
   <string name="no_contact_birthday_hint">Žiadne narodeniny kontaktov sa nenašli</string>
+  <string name="no_events_hint">Žiadne udalosti</string>
   <string name="no_local_calendar">Žiaden lokálny kalendár</string>
   <string name="no_network">Nie je dostupné internetové pripojenie</string>
   <string name="no_network_btn">Skúsiť znova</string>
@@ -325,6 +333,7 @@
   <string name="preferences_week_start_day_title">Začiatok týždňa</string>
   <string name="presence_label">Môj stav</string>
   <string name="privacy_label">Súkromná/Verejná</string>
+  <string name="pull_to_refresh_hint">Potiahnutím obnovíte udalosti z %1$d</string>
   <string name="quick_response_custom_msg">Vlastná odpoveď...</string>
   <string name="quick_response_dialog_title">Vyber vlastnú odpoveď</string>
   <string name="quick_response_email_failed">Nieje možné najsť aplikáciu Email</string>
@@ -333,6 +342,7 @@
   <string name="quick_response_settings_summary">Upraviť vlastnú odpoveď pri odoslaní emailu</string>
   <string name="quick_response_settings_title">Upraviť rýchle odpovede</string>
   <string name="refresh">Obnoviť</string>
+  <string name="refreshing_hint">Obnovenie...</string>
   <string name="reminders_label">Pridať pripomienku</string>
   <string name="repeat_activity_label">Opakovať</string>
   <string name="repeat_custom_activity_label">Vlastné</string>
@@ -422,6 +432,10 @@
   <string name="today_no_events">Žiadne udalosti</string>
   <string name="tomorrow">Zajtra</string>
   <string name="tomorrow_at_time_fmt">Zajtra o %s</string>
+  <string name="too_long_content">Príliš dlhý popis</string>
+  <string name="too_long_description">Popis udalosti je príliš dlhý</string>
+  <string name="too_long_location">Popis polohy je príliš dlhý</string>
+  <string name="too_long_name">Názov je príliš dlhý</string>
   <string name="travel_airport">Airport</string>
   <string name="travel_carriage_number_text">Car</string>
   <string name="travel_eta_advice">%2$s minute drive to %1$s.</string>
@@ -477,18 +491,4 @@
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
-  <string name="missing_required_permission">Deaktivovali ste požadované oprávnenia.</string>
-  <string name="install_weather_app_error">Nastala chyba.</string>
-  <string name="install_weather_app_loading">Načítavanie...</string>  
-  <string name="done">Naspať</string>
-  <string name="too_long_content">Príliš dlhý popis</string>
-  <string name="too_long_description">Popis udalosti je príliš dlhý</string>
-  <string name="too_long_location">Popis polohy je príliš dlhý</string>
-  <string name="too_long_name">Názov je príliš dlhý</string>  
-  <string name="agenda_month_empty_hint">Žiadne udalosti na dnes</string>
-  <string name="load_more_hint">Obnoviť udalosti z %1$d</string>
-  <string name="no_events_hint">Žiadne udalosti</string>
-  <string name="pull_to_refresh_hint">Potiahnutím obnovíte udalosti z %1$d</string>
-  <string name="refreshing_hint">Obnovenie...</string>
-  <string name="homepage_today">D</string>
 </resources>
