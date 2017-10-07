@@ -345,4 +345,20 @@
         <item quantity="other">Pridané fotografie (%1$d) do tajného albumu</item>
         <item quantity="one">Pridaná fotografia do tajného albumu</item>
     </plurals>	
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">Odstránených %1$d fotografií z \"%2$s\".</item>
+        <item quantity="one">Odstránená %1$d fotografia z \"%2$s\".</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">Odstránených %1$d fotografií z \"%2$s\" a pridané do databázy.</item>
+        <item quantity="one">Odstránená %1$d fotografia z \"%2$s\" a pridaná do databázy.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">Pridaných %1$d fotografií do \"%2$s\".</item>
+        <item quantity="one">Pridaná %1$d fotografia do \"%2$s\".</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">Pridaných %1$d fotografií do \"%2$s\" a pridané do databázy.</item>
+        <item quantity="one">Pridaná %1$d fotografia do \"%2$s\" a pridaná do databázy.</item>
+    </plurals>
 </resources>

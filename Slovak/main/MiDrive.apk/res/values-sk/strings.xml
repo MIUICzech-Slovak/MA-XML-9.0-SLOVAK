@@ -131,4 +131,8 @@
   <string name="wangpan_root_path">MiDrive</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yesterday">Včera</string>
+  <string name="request_permission_msg">Povoľte MiDrive prístup k vášmu účtu.</string>
+  <string name="request_permission_title">Vyžadujú sa povolenia</string>
+  <string name="xiaomi_drive_description_content">MiDrive je online úložisko. Chcete ho prestať využívať?</string>
+  <string name="xiaomi_drive_description_title">Čo je to MiDrive</string>
 </resources>

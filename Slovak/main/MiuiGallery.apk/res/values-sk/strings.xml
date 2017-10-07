@@ -1093,4 +1093,19 @@
   <string name="yes">Áno</string>
   <string name="yesterday">Včera</string>
   <string name="you_are"/>
+  <string name="search_failed_mark_feedback_false_negative">Nebolo možné pridať</string>
+  <string name="search_failed_mark_feedback_false_positive">Nebolo možné odobrať</string>
+  <string name="search_feedback_contribute">Pridať fotografie do AI databázy</string>
+  <string name="search_feedback_false_negative_text">Pridať fotografie do \"%s\"?</string>
+  <string name="search_feedback_false_negative_title">Vybrané položky sú \"%s\"</string>
+  <string name="search_feedback_false_positive_text">Odobrať fotografie z \"%s\"?</string>
+  <string name="search_feedback_false_positive_title">Vyzerá to, že je tam “%s”</string>
+  <string name="search_feedback_likely_check_title">Skontrolovať</string>
+  <string name="search_feedback_likely_title">Tieto fotografie môžu mať \"%s\"</string>
+  <string name="search_feedback_task_finish_title">Dotykom získate ocenenie!</string>
+  <string name="search_feedback_task_request_award_failed">Nebolo možné získať ocenenie. Skúste to znova.</string>
+  <string name="search_feedback_task_requesting_award">Získavanie ocenenia​…</string>
+  <string name="search_mark_feedback_all_false_negative_title">Všetky sú \"%s\"</string>
+  <string name="search_mark_feedback_false_negative_title">OK</string>
+  <string name="search_mark_feedback_false_positive_title">Opraviť</string>
 </resources>
