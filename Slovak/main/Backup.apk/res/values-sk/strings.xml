@@ -381,7 +381,6 @@ Delta update size: %2$s"</string>
   <string name="trans_intro_question_4">4. Prečo Prenos hlási málo voľneho miesta na úložisku?</string>
   <string name="trans_intro_question_5">5. Prečo niektoré aplikácie nie je možné presunúť?</string>
   <string name="trans_intro_question_6">6. Prečo sa niektoré prenesené aplikácie nespustia správne?</string>
-  <string name="trans_intro_question_7">7. Why isn't WeChat history fully transferred?"</string>
   <string name="trans_intro_question_8">8. Prečo niektoré položky nie je možné preniesť?</string>
   <string name="trans_intro_title">FAQ</string>
   <string name="trans_intro_title_account">Účty a heslá:</string>
