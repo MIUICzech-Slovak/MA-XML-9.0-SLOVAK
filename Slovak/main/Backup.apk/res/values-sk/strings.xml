@@ -368,7 +368,6 @@ Delta update size: %2$s"</string>
   <string name="trans_intro_desc_4">Úložisko na starom zariadení sa využíva na zbalenie súborov. Uistite sa, že máte aspoň 500MB - 1GB voľného miesta.</string>
   <string name="trans_intro_desc_5">Je niekoľko dôvodov prečo sa to mohlo stať: problém s kompatibilitou systému alebo aplikácie, problém so sieťou, atď.</string>
   <string name="trans_intro_desc_6">Profily niektorých aplikácií (bankové a platobné aplikácie, atď.) sú prepojené so zariadením kvôli bezpečnosti. Skúste vymazať dáta aplikácie alebo ju preinštalovať.</string>
-  <string name="trans_intro_desc_7">"WeChat app data and chat history might not be fully transferred using Mi Mover. Go to WeChat's settings and sign out of your account to get more chances for a successful transfer."</string>
   <string name="trans_intro_desc_account">Musíte sa znova prihlásiť k svojim účtom (e.g., Mi Účet, Exchange, Google, atď.) v zariadení z bezpečnostných dôvodov.</string>
   <string name="trans_intro_desc_multiapp">Prenos nepresúva dáta klonovaných aplikácií kvôli možným konfliktom súborov.</string>
   <string name="trans_intro_desc_multiuser">Prenos nemá prístup k dátam v Druhom profile. Najskôr presuňte súbory z Druhého profilu do hlavného profilu.</string>
