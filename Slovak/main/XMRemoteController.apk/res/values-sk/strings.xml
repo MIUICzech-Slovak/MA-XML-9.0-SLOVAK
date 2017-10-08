@@ -90,7 +90,6 @@
   <string name="bind_stb">Pokračovať v párovaní set-top boxu</string>
   <string name="bind_stb_dlg">Pár set-top boxov na prepínanie kanálov</string>
   <string name="bind_stb_dlg_agree">Pripojiť</string>
-  <string name="brand_device">%1$s %2$s</string>
   <string name="brand_search_box_hint">Zadajte zariadenie ktoré chcete pridať</string>
   <string name="brand_title_all">Všetky</string>
   <string name="brand_title_hot">Bežné</string>
@@ -281,7 +280,6 @@
   <string name="hot_videos">Novinky</string>
   <string name="hour">h</string>
   <string name="humidity">Vlhkosť:</string>
-  <string name="humidity_frame">%1$d%%</string>
   <string name="increase">Hore</string>
   <string name="input_complete">Hotovo</string>
   <string name="input_source">﻿Zdroj</string>
@@ -337,7 +335,6 @@
   <string name="loading_ir_data">Načítavanie...</string>
   <string name="locate_current_place">Vyhľadať toto miesto</string>
   <string name="location_select">Umiestnenie</string>
-  <string name="lock_screen_device_sum">%1$d</string>
   <string name="login">Prihlásiť sa</string>
   <string name="login_directly">Prihlásiť sa</string>
   <string name="login_done">Prihlásený</string>
@@ -363,7 +360,6 @@
   <string name="match_data">Kontrola dát</string>
   <string name="match_data_error_tips">"Nebolo možné získať informácie
 Prejdite späť a pokračujte"</string>
-  <string name="match_dataset_frame">%1$d/%2$d</string>
   <string name="match_direction_default">Zariadenie reagovalo?</string>
   <string name="match_dvd_intro_pause">Pause to launch DVD</string>
   <string name="match_dvd_intro_play">DVD player launch key</string>
@@ -565,8 +561,6 @@ priamo z vašej zamknutej obrazovky"</string>
   <string name="scaning">Vyhľadávanie</string>
   <string name="scanning_milink">Vyhľadávanie zariadení</string>
   <string name="scene_default">Predvolené</string>
-  <string name="scene_name_frame">%1$s %2$s%3$s</string>
-  <string name="scene_name_frame_short">%1$s%2$s</string>
   <string name="screenshot">Screenshot</string>
   <string name="screenshot_failed">截取电视屏幕失败</string>
   <string name="screenshot_failed_and_check_connection">截取电视屏幕失败，请检查设备连接设备</string>
@@ -666,7 +660,6 @@ priamo z vašej zamknutej obrazovky"</string>
   <string name="start_match">Párovať</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stb">STB</string>
-  <string name="stb_detail_title_frame">%1$s - %2$d</string>
   <string name="stb_power">STB zap./vyp.</string>
   <string name="steps">Pokus #%d</string>
   <string name="stop_diagnosis">Zastaviť</string>

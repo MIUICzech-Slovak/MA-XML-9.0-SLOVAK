@@ -969,7 +969,6 @@ Toto nastavenie ovplyvní všetkých používateľov tohto zariadenia."</string>
   <string name="dndm_auto_button_title">Naplánovať</string>
   <string name="dndm_auto_setting_group">Naplánovať aktiváciu</string>
   <string name="dndm_auto_time_setting">Nastavenie času</string>
-  <string name="dndm_auto_time_setting_summary">Od %1$s do %2$s</string>
   <string name="dndm_auto_time_turn_off">Do</string>
   <string name="dndm_auto_time_turn_off_title">Automaticky deaktivovať režim Nerušiť</string>
   <string name="dndm_auto_time_turn_on">Od</string>
@@ -1185,7 +1184,6 @@ Pri niektorých aplikáciách platí, že budú fungovať až vtedy, keď ich v�
   <string name="gadget_picker_title">Vyberte modul gadget</string>
   <string name="gadget_state_off">vypnuté</string>
   <string name="gadget_state_on">zapnuté</string>
-  <string name="gadget_state_template">%1$s %2$s</string>
   <string name="gadget_state_turning_off">vypínanie</string>
   <string name="gadget_state_turning_on">zapínanie</string>
   <string name="gadget_sync">Synchronizácia</string>
@@ -1732,7 +1730,6 @@ Aktuálne ste prihlásení do nasledujúcich účtov:
   <string name="miracast_wps_setup_msg">Spúšťanie WPS…</string>
   <string name="misc_files">Rôzne súbory</string>
   <string name="misc_files_selected_count">vybraných: %1$d z %2$d</string>
-  <string name="misc_files_selected_count_bytes">%1$s z %2$s</string>
   <string name="miui_screensaver_show_time">Trvanie</string>
   <string name="miui_screensaver_show_time_select_title">Nastaviť trvanie prezentácie</string>
   <string name="miui_screensaver_state_off">Vyp.</string>
@@ -2490,11 +2487,9 @@ Toto nastavenie ovplyvní všetkých používateľov tohto zariadenia."</string>
   <string name="selinux_status_enforcing">Prísne</string>
   <string name="selinux_status_permissive">Mierne</string>
   <string name="service_background_processes">%1$s voľnej</string>
-  <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">Využité: %1$s</string>
   <string name="service_manage">Nastavenia</string>
   <string name="service_manage_description">%1$s: práve sa používa. Ovládacie prvky zobrazte dotykom na Nastavenia.</string>
-  <string name="service_process_name">%1$s</string>
   <string name="service_restarting">Prebieha reštartovanie</string>
   <string name="service_started_by_app">Spustené aplikáciou.</string>
   <string name="service_stop">Zastaviť</string>
@@ -2693,7 +2688,6 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="summary_err_backup_no_network">Nebolo možné sa pripojiť k sieti</string>
   <string name="summary_err_restore_encrypting">Nebolo možné obnoviť. Uistite sa, že táto záloha bola vytvorená s vašim Mi účtom.</string>
   <string name="summary_err_restore_no_network">Nebolo možné sa pripojiť k sieti</string>
-  <string name="summary_font_size">%1$s</string>
   <string name="summary_install_virus">Kontrolovať prítomnosť vírusov v aplikáciách pred inštaláciou</string>
   <string name="summary_mms">Filtrovať otravné správy (predajcovia, reklama, atď.)</string>
   <string name="summary_permission">Chrániť moje súkromie pred aplikáciami</string>
@@ -2713,7 +2707,6 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">Prebieha synchronizácia...</string>
   <string name="sync_is_failing">Vyskytli sa problémy so synchronizáciou. Služba bude čoskoro obnovená.</string>
-  <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Zrušiť synchronizáciu</string>
   <string name="sync_menu_sync_now">Synchronizovať</string>
   <string name="sync_one_time_sync">"Dotykom vykonáte synchronizáciu

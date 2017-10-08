@@ -4,7 +4,6 @@
   <string name="add_vm_number_str">Pridať číslo</string>
   <string name="antispam_local_marked">Lokálne označené</string>
   <string name="antispam_marked_count">Nahlásilo %1$d ľudí</string>
-  <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Neznáme číslo</string>
   <string name="antispam_provider">Označené %s</string>
   <string name="areacode_set_default">Nastaviť ako predvolené</string>
