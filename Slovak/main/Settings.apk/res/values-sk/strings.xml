@@ -5038,4 +5038,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
   <string name="launch_recents">Zobraziť nedávné</string>
+  <string name="thememanager_not_found">Nebolo možné otvoriť Témy. Uistite sa, že aplikácia je nainštalovaná.</string>
 </resources>

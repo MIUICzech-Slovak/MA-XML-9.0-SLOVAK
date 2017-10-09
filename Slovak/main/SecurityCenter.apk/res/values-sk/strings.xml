@@ -2606,4 +2606,29 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wlan_change_protection_detail">Neprepínať automaticky na Wi-Fi po pripojení na mobilné dáta</string>
   <string name="wlan_change_protection_title">Zamedziť zmene siete</string>
   <string name="xunyou_server_expired">Relácia vypršala.</string>
+  <string name="app_manager_clear_cache">Vyčistiť cache</string>
+  <string name="app_manager_defaults_setting">Predvolené</string>
+  <string name="app_manager_disable_dlg_text">Ak deaktivujete túto aplikáciu, ostatné aplikácie nemusia fungovať správne.</string>
+  <string name="app_manager_disable_dlg_title">Deaktivovať vstavanú aplikáciu?</string>
+  <string name="app_manager_disable_text">Deaktivovať</string>
+  <string name="app_manager_disabled">Deaktivované</string>
+  <string name="app_manager_enable_text">Povoliť</string>
+  <string name="app_manager_enabled">Povolené</string>
+  <string name="app_manager_globel_other_perm_title">Ostatné povolenia</string>
+  <string name="app_manager_globel_perm_summary">Spravovať povolenia ako poloha, úložisko, telefón, SMS, a kontakty.</string>
+  <string name="app_manager_globel_perm_title">Povolenia aplikácie</string>
+  <string name="app_manager_reset_app_preferences">Obnoviť nastavenia aplikácie</string>
+  <string name="app_manager_reset_app_preferences_button">Obnoviť aplikácie</string>
+  <string name="app_manager_reset_app_preferences_desc">"Budú obnovené tieto nastavenia:
+
+ "- Deaktivované aplikácie"
+ "- Deaktivované upozornenia aplikície"
+ "- Predvolené aplikácie"
+ "- Zakázané mobilné dáta aplikácií"
+
+ Nestratíte žiadne dáta aplikácií."</string>
+  <string name="app_manager_reset_app_preferences_title">Obnoviť nastavenia aplikácie?</string>
+  <string name="app_manager_uninstall_protected_dlg_msg">Odinštalovanie systémovej aplikácie môže spúsobiť nesprávne fungovanie MIUI. Aj tak odinštalovať?</string>
+  <string name="app_manager_uninstall_protected_dlg_title">Odinštalovanie systémovej aplikácie</string>
+  <string name="sc_system_risk_fix_info_xspace">Riziko nemôže byť opravené v Druhom profile.</string>
 </resources>
