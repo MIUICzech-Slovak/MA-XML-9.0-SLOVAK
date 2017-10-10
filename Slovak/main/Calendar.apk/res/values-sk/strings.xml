@@ -491,4 +491,5 @@
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
+  <string name="email_install_hint">Aplikácia Email bola odinštalovaná. Nainštalujte ju znova pre obnovenie dát kelendára a vašich účtov.</string>
 </resources>

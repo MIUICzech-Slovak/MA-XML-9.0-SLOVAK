@@ -919,4 +919,31 @@ Chcete opustiť túto web stránku?"</string>
   <string name="webview_find_on_page">Nájsť na stránke</string>
   <string name="webviewchromium_private_browsing_warning">Táto funkcia nie je podporovaná vašou verziou Androidu.</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
+  <string name="action_menu_request_desktop_site">Rozloženie stránky ako na PC</string>
+  <string name="action_menu_request_desktop_site_off">Vyp</string>
+  <string name="action_menu_request_desktop_site_on">Zap</string>
+  <string name="action_menu_text_bookmark_add_off">Nie je možné pridať žiadnu stránku.</string>
+  <string name="add_pwa_to_homescreen">Pridať túto stránku na domácu plochu?</string>
+  <string name="agree_permissions_request">Súhlasím</string>
+  <string name="cancle_sync_cloud_tabs">Zrušiť synchr.</string>
+  <string name="contextmenu_openlink_in_browser">Otvoriť v Prehliadači</string>
+  <string name="empty_cloud_tab_login_hint">Žiadne cloudové karty</string>
+  <string name="empty_cloud_tab_logout_hint">"Prihláste sa k Mi účtu
+ a karty otvorené na inom zariadení sa zobrazia tu"</string>
+  <string name="finish_sync_cloud_tabs">Synchr. dokončená</string>
+  <string name="ignore_add_pwa_dialog_today">Dnes už nezobrazovať</string>
+  <string name="permission_notification">odoslať upozornenia</string>
+  <string name="permissions_prompt_message">"%s chce "</string>
+  <string name="pref_accept_quicklink_push">Start page push</string>
+  <string name="pwa_app_name">Web App</string>
+  <string name="quicklink_push_confirm_message">Turning this feature off will affect start page push.</string>
+  <string name="refuse_permissions_request">Odmietnuť</string>
+  <string name="suggest_access_item_app_mark">APP</string>
+  <string name="suggest_access_item_book_mark">BOOK</string>
+  <string name="suggest_access_item_mina_mark">DIRECT SERVICE</string>
+  <string name="suggest_access_item_music_mark">MUSIC</string>
+  <string name="suggest_access_item_site_mark">SITES</string>
+  <string name="suggest_access_item_video_mark">VIDEO</string>
+  <string name="suggest_access_item_website_mark">WEBSITE</string>
+  <string name="sync_cloud_tabs">Synchr.</string>
 </resources>
