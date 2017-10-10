@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Kalkulačka</string>
-  <string name="app_name_danfa">Mi Kalkulačka</string>
+  <string name="app_name_danfa">Kalkulačka</string>
   <string name="cal_convert_to_word_figure">Convert to financial characters</string>
   <string name="cal_copy">Kopírovať</string>
   <string name="cal_edit_mode">Režim úpravy</string>
