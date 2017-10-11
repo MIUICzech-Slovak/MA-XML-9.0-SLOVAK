@@ -501,7 +501,7 @@
   <string name="gsm_umts_options">Možnosti GSM/UMTS</string>
   <string name="hac_mode_summary">Zapne podporu pre načúvací prístroj</string>
   <string name="hac_mode_title">Načúvací prístroj</string>
-  <string name="handon_ringer_summary">Nefunguje pokiaľ sú zapnuté vibrácie pre prichádzajúce hovory</string>
+  <string name="handon_ringer_summary">Stíšiť zvonenie ak zdvihnete telefón zo stola.</string>
   <string name="handon_ringer_title">Zdvihnutím stíšiť</string>
   <string name="hintName">Meno</string>
   <string name="hintPhonenumber">Telefónne číslo</string>

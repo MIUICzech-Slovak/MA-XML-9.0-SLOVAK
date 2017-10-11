@@ -955,4 +955,10 @@ Postupujte podľa pokynov"</item>
         <item>Iba od obľúbených kontaktov</item>
         <item>Žiaden</item>
     </string-array>
+    <string-array name="privacy_password_function_specfication_names">
+        <item>SMS</item>
+        <item>Fotografie</item>
+        <item>Súbory</item>
+        <item>Poznámky</item>
+    </string-array>	
 </resources>
