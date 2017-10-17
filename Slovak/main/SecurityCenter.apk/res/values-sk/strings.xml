@@ -928,7 +928,7 @@ For more info check the message you received from your service provider"</string
   <string name="game_net_text2">Zrýchliť internetové pripojenie hry obmedzením rýchlosti sťahovania na pozadí</string>
   <string name="game_net_title">Optimalizovať rýchlosť pripojenia</string>
   <string name="game_setting">Nastavenie hier</string>
-  <string name="gamebooster_main_activity_back">Naspäť k Zrýchleniu hier</string>
+  <string name="gamebooster_main_activity_back">Naspäť</string>
   <string name="gamebooster_network_dialog_message">Povoliť aplikícií Optimalizácia pripojenie k sieti pre plné využívanie Zrýchlenia hier?</string>
   <string name="gamebooster_network_dialog_title">Niektoré funkcie nie sú dostupné</string>
   <string name="garbage_clean_detail">Podrobnosti</string>
@@ -2631,4 +2631,18 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="app_manager_uninstall_protected_dlg_msg">Odinštalovanie systémovej aplikácie môže spúsobiť nesprávne fungovanie MIUI. Aj tak odinštalovať?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Odinštalovanie systémovej aplikácie</string>
   <string name="sc_system_risk_fix_info_xspace">Riziko nemôže byť opravené v Druhom profile.</string>
+  <string name="forbid_autobright_title">Nemeniť jas displeja</string>
+  <string name="game_booster_jump_webview">Načítavanie...</string>
+  <string name="game_booster_tab_top">Top</string>
+  <string name="game_bootser_tab_settings">Nastavenia</string>
+  <string name="gamebooster_lowbattery_notification_summary">Pripojte nabíjačku kým sa telefón nevypne.</string>
+  <string name="gamebooster_lowbattery_notification_title">Batéria má menej ako 5%%</string>
+  <string name="gs_call_handsfree">Prijať hovor cez hands-free</string>
+  <string name="gs_call_handsfree_mute">Režim Nerušiť</string>
+  <string name="gs_forbid_autosync">Zakázať synchr. na pozadí</string>
+  <string name="international_Ad">Reklama</string>
+  <string name="net_booster_expire_notification_tip">%d d remaining before Network speed boost session ends. Renew the session to avoid network speed problems.</string>
+  <string name="resource_gamebooster">Zrýchlenie hier</string>
+  <string name="thermal_tips_message">Hranie hier vo výkonnom režime môže spúsobiť prehrievanie zariadenia.</string>
+  <string name="thermal_tips_title">Upozornenie</string>
 </resources>

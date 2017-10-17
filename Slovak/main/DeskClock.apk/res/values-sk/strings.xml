@@ -140,7 +140,7 @@
   <string name="tomorrow">Zajtra</string>
   <string name="turn_off_a_repeat_alarm">Vypnúť opakovanie budíka</string>
   <string name="turn_off_this_repeat_alarm">Vypnúť opakovanie tohto budíka</string>
-  <string name="upcoming_alarm">" bude zvoniť budík"</string>
+  <string name="upcoming_alarm">"%s bude zvoniť budík"</string>
   <string name="upcoming_alarm_hint">Môžete ho zrušiť</string>
   <string name="vibrate_pref_summary">Vibrovať počas budenia</string>
   <string name="vibrate_when_ringing">Vibrovať počas zvonenia</string>
