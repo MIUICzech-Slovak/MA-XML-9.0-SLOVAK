@@ -2641,7 +2641,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="gs_call_handsfree_mute">Režim Nerušiť</string>
   <string name="gs_forbid_autosync">Zakázať synchr. na pozadí</string>
   <string name="international_Ad">Reklama</string>
-  <string name="net_booster_expire_notification_tip">%d days remaining before Network speed boost session ends. Renew the session to avoid network speed problems.</string>
   <string name="resource_gamebooster">Zrýchlenie hier</string>
   <string name="thermal_tips_message">Hranie hier vo výkonnom režime môže spúsobiť prehrievanie zariadenia.</string>
   <string name="thermal_tips_title">Upozornenie</string>
