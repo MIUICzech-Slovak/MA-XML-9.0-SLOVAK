@@ -577,4 +577,7 @@
   <string name="vip_expiration_title">VIP členstvo čoskoro vyprší</string>
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
   <string name="vip_required">Prepáčte, vyžadované VIP členstvo</string>
+  <string name="nowplaying_circle_style">Štýl zobrazenia hudby</string>
+  <string name="nowplaying_circle_style_rainbow">Dúha</string>
+  <string name="nowplaying_circle_style_wave">Vlna</string>  
 </resources>

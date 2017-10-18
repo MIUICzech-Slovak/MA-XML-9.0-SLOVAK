@@ -361,4 +361,8 @@
         <item quantity="other">Pridaných %1$d fotografií do \"%2$s\" a pridané do databázy.</item>
         <item quantity="one">Pridaná %1$d fotografia do \"%2$s\" a pridaná do databázy.</item>
     </plurals>
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">Skryť tieto súbory?</item>
+        <item quantity="one">Skryť tento súbor?</item>
+    </plurals>	
 </resources>
