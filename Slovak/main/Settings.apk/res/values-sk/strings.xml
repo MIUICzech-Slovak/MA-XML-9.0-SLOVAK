@@ -2233,7 +2233,7 @@ Na tomto zariadení sú prítomní ďalší používatelia.
   <string name="memory_media_usage">Médiá</string>
   <string name="memory_music_usage">Audio súbory</string>
   <string name="memory_performance">Výkonnosť</string>
-  <string name="memory_rightvalue">Dostupné: %s</string>
+  <string name="memory_rightvalue">Kapacita: %s</string>
   <string name="memory_settings_title">Pamäť</string>
   <string name="memory_size">Celková pamäť</string>
   <string name="memory_title">Dostupné: %1$s\u0009\u0009Celkom: %2$s</string>
