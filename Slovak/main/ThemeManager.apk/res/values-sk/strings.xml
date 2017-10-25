@@ -447,4 +447,7 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="current_version_incompatible">Nekompatibilná verzia</string>
   <string name="hide_free">"Skryť neplatené "</string>
   <string name="hide_incompatible">"Skryť nekompatibilné "</string>
+  <string name="find_more_theme">Find more</string>
+  <string name="online_precust_abstract">Abstrakt</string>
+  <string name="present_official_themes">Oficiálny výber</string>
 </resources>

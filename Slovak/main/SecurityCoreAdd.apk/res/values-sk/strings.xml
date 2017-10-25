@@ -306,4 +306,5 @@ Môžete ich aj znova stiahnuť."</string>
   <string name="xspace_uninstall_dialog_content">Odinštalovanie klonovanej aplikácie vymaže všetky jej dáta.</string>
   <string name="xspace_uninstall_dialog_title">Odinštalovať klonovanú apl.</string>
   <string name="xspace_uninstalling">Odinštalovanie...</string>
+  <string name="fingerprint_number_upper_limit">Príliš mnoho neúspešných pokusov</string>  
 </resources>

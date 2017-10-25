@@ -72,4 +72,7 @@
   <string name="user_agreement">Podmienky používania</string>
   <string name="user_strayed_warning">Táto stránka je len pre testovanie, vráťte sa naspäť.</string>
   <string name="welcome">Vitajte</string>
+  <string name="accessibility_enabled">Zjednodušenie je zapnuté.</string>
+  <string name="continue_to_enable_accessibility">Podržte dva prsty na displeji pre povolenie režimu zjednodušenia.</string>
+  <string name="enable_accessibility_canceled">Zjednodušenie je vypnuté.</string>
 </resources>
