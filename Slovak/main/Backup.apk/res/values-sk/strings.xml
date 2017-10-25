@@ -360,11 +360,6 @@ Size: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
 Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Dostupná nová verzia!</string>
-  <string name="trans_intro_desc_2">Zrušte prenos a skúste to znova. Súbory budú prepísané.</string>
-  <string name="trans_intro_desc_3">Presun používa Wi-Fi pripojenie pre prenos súborov. Preto nie je možné používať internetové pripojenie cez Wi-Fi počas prenosu súborov. Stále môžete využívať pripojenie cez mobilné dáta. Mi6 môže stále využívať aj pripojenie cez Wi-Fi vďaka dvom Wi-Fi anténam.</string>
-  <string name="trans_intro_desc_4">Úložisko na starom zariadení sa využíva na zbalenie súborov. Uistite sa, že máte aspoň 500MB - 1GB voľného miesta.</string>
-  <string name="trans_intro_desc_5">Je niekoľko dôvodov prečo sa to mohlo stať: problém s kompatibilitou systému alebo aplikácie, problém so sieťou, atď.</string>
-  <string name="trans_intro_desc_6">Profily niektorých aplikácií (bankové a platobné aplikácie, atď.) sú prepojené so zariadením kvôli bezpečnosti. Skúste vymazať dáta aplikácie alebo ju preinštalovať.</string>
   <string name="trans_intro_desc_account">Musíte sa znova prihlásiť k svojim účtom (e.g., Mi Účet, Exchange, Google, atď.) v zariadení z bezpečnostných dôvodov.</string>
   <string name="trans_intro_desc_multiapp">Prenos nepresúva dáta klonovaných aplikácií kvôli možným konfliktom súborov.</string>
   <string name="trans_intro_desc_multiuser">Prenos nemá prístup k dátam v Druhom profile. Najskôr presuňte súbory z Druhého profilu do hlavného profilu.</string>
@@ -385,4 +380,107 @@ Delta update size: %2$s"</string>
   <string name="trans_intro_title_new">Na novom zariadení:</string>
   <string name="trans_intro_title_old">Na starom zariadení:</string>
   <string name="trans_intro_title_private">Tajný album:</string>
+  
+  <string name="button_import">Import</string>
+  <string name="cancel_moving_dialog_message">Chcete ukončiť importovanie?</string>
+  <string name="cancel_moving_dialog_title">Zastaviť importovanie</string>
+  <string name="close_twice_auth_btn">Zatvoriť 2-fázové prihlasovanie</string>
+  <string name="close_twice_auth_note">"Poznámka:
+After creating a new security question and confirming your date of birth, the dual authentication function will be turned off. If you do not see the option to turn off dual authentication on the Apple ID account page, you can not turn it off."</string>
+  <string name="close_twice_auth_operation">"Computer-side access:
+https://appleid.apple.com/#!&amp;page=signin to close"</string>
+  <string name="close_twice_auth_step_1">1. login Apple ID account page</string>
+  <string name="close_twice_auth_step_2">2. In the Security section, click Edit</string>
+  <string name="close_twice_auth_step_3">3. Click Turn off dual / two-step authorication. Click again to confirm</string>
+  <string name="close_twice_auth_steps">Close two factor authorication, as follow steps:</string>
+  <string name="close_twice_auth_tutor">Close appleID two factor authorication</string>
+  <string name="connect_wifi">Connect WLAN</string>
+  <string name="connect_wifi_tip">Network is disconnected. Importing data from iCloud needs WLAN.</string>
+  <string name="disable_encrypt_description">Not encrypt</string>
+  <string name="enable_encrypt_description">Encrypt</string>
+  <string name="hsa_code_null">Verification code cannot be empty</string>
+  <string name="hsa_input_hint">Enter verification code</string>
+  <string name="hsa_input_tip">Your iCloud ID enables two-factor authentication. Please enter verification code.</string>
+  <string name="hsa_send_again">Send again</string>
+  <string name="hsa_send_again_countdown">Send again(%ds)</string>
+  <string name="hsa_send_failed">Failed to send verification code. Please retry later.</string>
+  <string name="hsa_sending">Sending…</string>
+  <string name="hsa_tip_message">"1.A message containing verification code will be sended to the phone bounded to iCloud
+2.Turn off two-factor authentication if failing to verify."</string>
+  <string name="hsa_tip_message_shutdown_hsa">how to turn off two-factor authentication</string>
+  <string name="hsa_tip_message_with_device">"1.A message containing verification code has been sended to the phone %s bounded to iCloud
+2.Turn off two-factor authentication if failing to verify."</string>
+  <string name="hsa_tip_title">Tips:</string>
+  <string name="hsa_title">Two-factor authentication</string>
+  <string name="hsa_verify_failed">Two-factor authentication failed</string>
+  <string name="hsa_verify_failed_message">Two-factor authentication failed. You can retry or turn off two-factor authentication.</string>
+  <string name="hsa_verify_retry">Retry</string>
+  <string name="hsa_verify_shutdown">Turn off</string>
+  <string name="icloud_backup_tip">Login iCloud id of old Apple device</string>
+  <string name="icloud_how_to_backup_tip_steps">"1.Enter Settings in you iOS device, and then choose iCloud.
+2.Turn on Contacts.
+3.Select Photos and turn on iCloud Photo Library."</string>
+  <string name="icloud_how_to_backup_tip_summary">To import data from iOS, you need to upload data in old devices to iCloud.</string>
+  <string name="icloud_how_to_backup_tip_title">Tips:</string>
+  <string name="icloud_login_title">Login iCloud</string>
+  <string name="icloud_need_sync">"To import data from iOS
+you need to upload data in old devices to iCloud"</string>
+  <string name="icloud_need_wifi_message">WLAN is not conneced currently. To import data from iCloud, WLAN is needed to login and ownload data.</string>
+  <string name="icloud_need_wifi_title">WLAN needed</string>
+  <string name="import_again">Import again</string>
+  <string name="import_data_from_icloud">Import data from iCloud</string>
+  <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
+  <string name="import_tip_summary">Because of compatibility, contacts and photos are supported only. You need to upload data in old devices to iCloud first.</string>
+  <string name="import_tip_title">Tips:</string>
+  <string name="loading_data">Loading data</string>
+  <string name="login">Login</string>
+  <string name="login_failed">Failed to login. Please retry.</string>
+  <string name="logining">logining…</string>
+  <string name="name_password_not_consistent">User name or password is wrong</string>
+  <string name="notif_icloud_canceled_summary">Canceled</string>
+  <string name="notif_icloud_canceling_summary">Canceling…</string>
+  <string name="notif_icloud_import_title">Import data from iCloud</string>
+  <string name="notif_icloud_loaded_summary">Waiting to download data</string>
+  <string name="notif_icloud_loading_summary">Loading data…</string>
+  <string name="notif_icloud_logining">Logining iCloud id of old Apple device…</string>
+  <string name="notif_icloud_need_wifi_summary">Wait for WLAN</string>
+  <string name="notif_icloud_saved_summary">Importing finished</string>
+  <string name="notif_icloud_saving_summary">Restoring data…</string>
+  <string name="notif_trans_auto_reconnecting_content">You can cancel current task if needed.</string>
+  <string name="notif_trans_auto_reconnecting_title">Connection was interrupted. Reconnecting automatically…</string>
+  <string name="password">password</string>
+  <string name="password_null">Password cannot be empty</string>
+  <string name="pause">Pause</string>
+  <string name="platform_chooser_item_android">Import from Android</string>
+  <string name="platform_chooser_item_ios">Import from Apple device</string>
+  <string name="platform_chooser_title">Choose old device</string>
+  <string name="save_finish_with_failing_items">"Importing is interrupted. Some data has been imported
+The data left needs to import again"</string>
+  <string name="saving_data">"Importing data from iCloud
+Please don't turn off or switch WLAN"</string>
+  <string name="saving_data_no_time">Restoring data</string>
+  <string name="saving_data_space_low">"No enough space
+Please release at least %s"</string>
+  <string name="select_empty">Select items to import</string>
+  <string name="select_item_contacts">Contacts</string>
+  <string name="select_item_empty_summary">No contents</string>
+  <string name="select_item_photos">Photos</string>
+  <string name="select_item_summary_loading">Loading data…</string>
+  <string name="select_item_summary_wait">Wait to load data</string>
+  <string name="trans_button_cancel">Cancel</string>
+  <string name="trans_device_auto_reconnecting">Device disconnected. Reconnecting automatically…</string>
+  <string name="trans_disconnected_tips_message">Remote device is disconnected. Please reconnect by hand. You can cancel current task if needed.</string>
+  <string name="trans_disconnected_tips_title">Remote device is disconnected</string>
+  <string name="trans_intro_desc_1">"On Xiaomi device, connect to WLAN. Tap \"I'm a recipient\", and then select \"Apple device\". Login iCloud and import data."</string>
+  <string name="trans_intro_desc_3">Cancel the transfer, exit Mi Mover, and start over. Duplicate files will be overwritten during the ew transfer.</string>
+  <string name="trans_intro_desc_4">"Mi Mover uses WLAN to transfer files. That's why you can't connect to the internet using WLAN on either device during a transfer. You can still use mobile data, though. However, some newer devices (for example, Mi 6) would still be able to connect to the internet using WLAN during transfers."</string>
+  <string name="trans_intro_desc_5">Storage space on old devices is used for creating transfer packages. Make sure you have at least 500MB - 1GB of available storage on your old phone before you start a transfer.</string>
+  <string name="trans_intro_desc_6">There are several reasons why that may happen: system and app version compatibility issues, etwork problems, compatibility issues specific to a particular device, etc.</string>
+  <string name="trans_intro_desc_7">Some app profiles (e-banking, finance, etc.) are associated with specific device due to security reasons. Try clearing the app data or re-installing the app on a new device.</string>
+  <string name="trans_intro_desc_8">"WeChat app data and chat history might not be fully transferred using Mi Mover. Go to WeChat's settings and sign out of your account to get more chances for a successful transfer."</string>
+  <string name="trans_intro_question_9">"9. Which items can't be transferred?"</string>
+  <string name="trans_wlan_tips_message">"Please don't turn off or switch WLAN while transfering data. Otherwise the mover may fail."</string>
+  <string name="trans_wlan_tips_title">"Please don't turn off or switch WLAN"</string>
+  <string name="user_name">Apple ID or email</string>
+  <string name="user_name_null">User name cannot be empty</string>
 </resources>
