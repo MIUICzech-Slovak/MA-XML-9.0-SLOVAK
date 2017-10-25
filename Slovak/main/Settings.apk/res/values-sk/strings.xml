@@ -3153,7 +3153,7 @@ Vyberte váš operačný systém:"</string>
   <string name="restrict_background_data_dialog_summary">"Aplikácie ktoré sú spustené na pozadí nebudú môcť načítať nové správy. Skutočne chcete zakázať dáta na pozadí?"</string>
   <string name="restrict_background_data_notification_summary">"Aplikácie sa nemôžu pripojiť k internetu ak sú dáta na pozadí obmedzené"</string>
   <string name="restrict_background_data_title">Obmedzené dáta na pozadí</string>
-  <string name="restrict_max_aspect_ratio_title">Odporučiť deaktivovanie max. pomeru strán</string>
+  <string name="restrict_max_aspect_ratio_title">Neodporúčané aplikácie</string>
   <string name="restriction_bluetooth_config_summary">Povoliť úpravy párovania a nastavení rozhrania Bluetooth</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
   <string name="restriction_location_enable_summary">Povoliť aplikáciám používať informácie o polohe</string>
@@ -3232,7 +3232,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="screen_key_press">Stlačenie tlačidiel</string>
   <string name="screen_key_press_action">Spustiť akciu</string>
   <string name="screen_locking_sounds_title">Zvuky zámku obrazovky</string>
-  <string name="screen_max_aspect_ratio_desc">Či sa aplikácia môže zobrazovať na celej obrazovke</string>
+  <string name="screen_max_aspect_ratio_desc">Aplikácie ktoré sa môžu zobraziť na celej obrazovke</string>
   <string name="screen_max_aspect_ratio_title">Nastavenie maximálneho pomeru strán</string>
   <string name="screen_monochrome_mode_apps_loading">Načítavanie...</string>
   <string name="screen_monochrome_mode_apps_title">Použiť Čiernobiely režim</string>
@@ -3922,7 +3922,7 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
   <string name="sub_deactivate_not_supported">Deaktivácia nie je podporovaná</string>
   <string name="sub_deactivate_success">Deaktivované.</string>
   <string name="subs_settings">Stav SUBS</string>
-  <string name="suggest_unrestrict_max_aspect_ratio_title">Odporučiť aktivovanie max. pomeru strán</string>
+  <string name="suggest_unrestrict_max_aspect_ratio_title">Odporúčané aplikácie</string>
   <string name="sum_carrier_select">Vybrať sieťového operátora</string>
   <string name="summary_divider_text">", "</string>
   <string name="summary_range_verbal_combination">Od %1$s do %2$s</string>
@@ -4188,7 +4188,7 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
   <string name="unlock_set_unlock_summary">Prosím povoľte heslo displeja na nastavenie ochrany heslom</string>
   <string name="unlock_setup_wizard_fingerprint_details">Po nastavení zámky obrazovky si môžete nastaviť aj svoj odtlačok prsta v časti Nastavenia &gt; Zabezpečenie.</string>
   <string name="unmount_inform_text">SD karta bude odpojená.</string>
-  <string name="unrestrict_max_aspect_ratio_title">Podporovať max. pomer strán</string>
+  <string name="unrestrict_max_aspect_ratio_title">Podporovaný max. pomer strán</string>
   <string name="untitled_apn">Bez názvu</string>
   <string name="update_new_version">Dostupná aktualizácia</string>
   <string name="update_progress_for_updates">Aktualizácia (%s)</string>
