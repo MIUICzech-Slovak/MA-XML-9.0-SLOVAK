@@ -194,7 +194,7 @@ Môžete ich aj znova stiahnuť."</string>
   <string name="scanner_fingerprint_tips_desc">Vybrať existujúci odtlačok pre vstup do Druhého profilu. Nebude možné ho použiť v Prvom profile.</string>
   <string name="scanner_fingerprint_tips_title">Otvoriť Druhý profil použitím odtlačku prsta</string>
   <string name="scanner_second_space_fingerprint">Naskenovať odtlačok pre Druhý profil</string>
-  <string name="sdcardfs_dialog_message">Vypnite Optimalizáciu emulovanej SD karty v Nastaveniach pre vývojárov.</string>
+  <string name="sdcardfs_dialog_message">Vaše staré dáta nemusia byť kompatibilné s novým súborovým systémom. Optimalizujte svoje dáta pred prepnutím do Druhého profilu a reštartujte vaše zariadenie.</string>
   <string name="search_result_text">Nenašla sa žiadna apl.</string>
   <string name="secondSpace">Druhý profil</string>
   <string name="second_owner_finger_print">Odtlačok pre Druhý profil</string>
@@ -307,4 +307,6 @@ Môžete ich aj znova stiahnuť."</string>
   <string name="xspace_uninstall_dialog_title">Odinštalovať klonovanú apl.</string>
   <string name="xspace_uninstalling">Odinštalovanie...</string>
   <string name="fingerprint_number_upper_limit">Príliš mnoho neúspešných pokusov</string>  
+  <string name="dialog_title">Upozornenie</string>
+  <string name="optimize_now">Optimalizovať</string>
 </resources>

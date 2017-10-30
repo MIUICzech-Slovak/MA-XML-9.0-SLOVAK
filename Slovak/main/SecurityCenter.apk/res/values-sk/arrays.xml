@@ -180,8 +180,6 @@
         <item>Názvu aplikácie</item>
         <item>Frekvencia používania</item>
         <item>Využitie úložiska</item>
-        <item>Spotreby dát</item>
-        <item>Využitie batérie</item>
         <item>Čas inštalácie</item>
     </string-array>
     <string-array name="sort_title">
@@ -189,8 +187,6 @@
         <item>Zoradiť podľa názvu</item>
         <item>Zoradiť podľa používania</item>
         <item>Zoradiť podľa využitého úložiska</item>
-        <item>Zoradiť podľa spotreby dát</item>
-        <item>Zoradiť podľa spotreby batérie</item>
 	<item>Zoradiť podľa času inštalácie</item>
     </string-array>	 
     <string-array name="title_app_info">

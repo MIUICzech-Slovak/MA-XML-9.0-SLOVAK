@@ -289,4 +289,5 @@
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
   <string name="widget_quick_function">Skratky</string>
+  <string name="action_add_to_workspace">Pridať do pracovného priestoru</string>
 </resources>

@@ -386,4 +386,16 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Vyčistených vírusov: %d</item>
         <item quantity="one">Vyčistených vírusov: %d</item>
     </plurals>	
+    <plurals name="number_masked">
+        <item quantity="other">%d apl.</item>
+        <item quantity="one">%d apl.</item>
+    </plurals>
+    <plurals name="number_masked_text">
+        <item quantity="other">%d upozornení bolo skrytých</item>
+        <item quantity="one">%d upozornenie bolo skryté</item>
+    </plurals>
+    <plurals name="number_to_mask_text">
+        <item quantity="other">%d upozornení je viditeľných</item>
+        <item quantity="one">%d upozornenie je viditeľné</item>
+    </plurals>
 </resources>
