@@ -365,4 +365,40 @@
         <item quantity="other">Skryť tieto súbory?</item>
         <item quantity="one">Skryť tento súbor?</item>
     </plurals>	
+    <plurals name="delete_photo_from_local">
+        <item quantity="other">Vymazať %d fotografií?</item>
+        <item quantity="one">Vymazať túto fotografiu?</item>
+     </plurals>
+    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Vymazať %d fotografií zo všetkých zariadení a MiCloud?</item>
+        <item quantity="one">Vymazať túto fotografiu zo všetkých zariadení a MiCloud?</item>
+     </plurals>
+    <plurals name="delete_photo_from_this_album_and_cloud_msg">
+        <item quantity="other">Vymazať %d fotografií z tohto albumu a MiCloud?</item>
+        <item quantity="one">Vymazať túto fotografiu z tohto albumu a MiCloud?</item>
+    </plurals>
+    <plurals name="delete_video_from_local">
+        <item quantity="other">Vymazať %d videá?</item>
+        <item quantity="one">Vymazať toto video?</item>
+    </plurals>
+    <plurals name="delete_video_from_all_devices_and_cloud_msg">
+        <item quantity="other">Vymazať %d videá zo všetkých zariadení a MiCloud?</item>
+        <item quantity="one">Vymazať toto video zo všetkých zariadení a MiCloud?</item>
+    </plurals>
+    <plurals name="delete_video_from_this_album_and_cloud_msg">
+        <item quantity="other">Vymazať %d videá z tohto albumu a MiCloud?</item>
+        <item quantity="one">Vymazať toto video z tohto albumu a MiCloud?</item>
+    </plurals>
+    <plurals name="delete_media_from_local">
+        <item quantity="other">Vymazať položky (%d)?</item>
+        <item quantity="one">Vymazať %d položku?</item>
+    </plurals>
+    <plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">Vymazať %d položky zo všetkých zariadení a MiCloud?</item>
+        <item quantity="one">Vymazať %d položku zo všetkých zariadení a MiCloud?</item>
+    </plurals>
+    <plurals name="delete_media_from_this_album_and_cloud_msg">
+        <item quantity="other">Vymazať %d položky z tohto albumu a MiCloud?</item>
+        <item quantity="one">Vymazať %d položku z tohto albumu a MiCloud?</item>
+      </plurals>
 </resources>

@@ -381,7 +381,7 @@ Delta update size: %2$s"</string>
   <string name="trans_intro_title_old">Na starom zariadení:</string>
   <string name="trans_intro_title_private">Tajný album:</string>
   
-  <string name="button_import">Import</string>
+  <string name="button_import">Importovať</string>
   <string name="cancel_moving_dialog_message">Chcete ukončiť importovanie?</string>
   <string name="cancel_moving_dialog_title">Zastaviť importovanie</string>
   <string name="close_twice_auth_btn">Zatvoriť 2-fázové prihlasovanie</string>
@@ -429,7 +429,6 @@ you need to upload data in old devices to iCloud"</string>
   <string name="icloud_need_wifi_title">WLAN needed</string>
   <string name="import_again">Import again</string>
   <string name="import_data_from_icloud">Import data from iCloud</string>
-  <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
   <string name="import_tip_summary">Because of compatibility, contacts and photos are supported only. You need to upload data in old devices to iCloud first.</string>
   <string name="import_tip_title">Tips:</string>
   <string name="loading_data">Loading data</string>
