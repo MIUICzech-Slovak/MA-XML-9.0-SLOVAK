@@ -52,8 +52,8 @@
   <string name="corpus_label_apps">Aplikácie</string>
   <string name="cta_negative">Zatvoriť</string>
   <string name="cta_positive">Podrobnosti</string>
-  <string name="cta_text5">The service also requires internet connection and access to the location services. Agree?</string>
-  <string name="cta_title">Let Smart assistant help you</string>
+  <string name="cta_text5">Služba vyžaduje prístup na internet a prístup k vašej polohe. Súhlasíte?</string>
+  <string name="cta_title">Vyžadujú sa povolenia</string>
   <string name="empty_card_btn">Otvoriť</string>
   <string name="empty_card_tip">"Looks like you aren't signed in or haven't set up this card yet."</string>
   <string name="empty_card_title">žiadne dáta</string>
@@ -167,4 +167,13 @@
   <string name="year_month_day_all_format_en">dd.MM.yyyy HH:mm:ss</string>
   <string name="year_month_day_format">dd.MM.yyyy</string>
   <string name="yesterday">Včera</string>
+  <string name="Clock_main">Budík</string>
+  <string name="Clock_parent">Hodiny</string>
+  <string name="MiDrop_parent">MiDrop</string>
+  <string name="MiDrop_main">Odoslať</string>
+  <string name="paycode_sdk_parent">Platenie</string>
+  <string name="wx_paycode">Platby</string>
+  <string name="Paytm_parent">Platby</string>
+  <string name="Paytm_main">Načítať</string>
+  <string name="apps_label">Aplikácie</string>
 </resources>
