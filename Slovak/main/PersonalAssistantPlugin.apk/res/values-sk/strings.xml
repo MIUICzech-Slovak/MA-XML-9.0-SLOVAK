@@ -160,7 +160,6 @@
   <string name="wx_collectioncode">Receive payment</string>
   <string name="wx_name">My card</string>
   <string name="wx_parent">WeChat</string>
-  <string name="wx_paycode">Payment</string>
   <string name="wx_scan">Scanner</string>
   <string name="wx_timeline">Batéria</string>
   <string name="xiaomi_search_label">Vyhľadať</string>
@@ -175,5 +174,4 @@
   <string name="wx_paycode">Platby</string>
   <string name="Paytm_parent">Platby</string>
   <string name="Paytm_main">Načítať</string>
-  <string name="apps_label">Aplikácie</string>
 </resources>
