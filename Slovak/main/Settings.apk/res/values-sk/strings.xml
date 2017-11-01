@@ -5040,4 +5040,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="launch_recents">Zobraziť nedávné</string>
   <string name="thememanager_not_found">Nebolo možné otvoriť Témy. Uistite sa, že aplikácia je nainštalovaná.</string>
   <string name="miui_updater">Aktualizácia</string>
+  <string name="lockscreen_magazine">Denná tapeta</string>
+  <string name="lockscreen_magazine_title">Denná tapeta</string>
 </resources>

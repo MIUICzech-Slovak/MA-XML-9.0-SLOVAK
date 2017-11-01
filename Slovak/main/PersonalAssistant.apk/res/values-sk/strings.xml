@@ -355,9 +355,16 @@
   <string name="wx_collectioncode">Receive payment</string>
   <string name="wx_name">My card</string>
   <string name="wx_parent">WeChat</string>
-  <string name="wx_paycode">Payment</string>
-  <string name="wx_scan">Scanner</string>
-  <string name="wx_timeline">Battery</string>
-  <string name="xspace_resolver_activity_title">Select app</string>
+  <string name="wx_scan">Skener</string>
+  <string name="wx_timeline">Batéria</string>
+  <string name="xspace_resolver_activity_title">vyberte aplikáciu</string>
   <string name="year_month_day_all_format_en">MM/dd/yyyy HH:mm:ss</string>
+  <string name="Clock_main">Budík</string>
+  <string name="Clock_parent">Hodiny</string>
+  <string name="MiDrop_parent">MiDrop</string>
+  <string name="MiDrop_main">Odoslať</string>
+  <string name="paycode_sdk_parent">Platenie</string>
+  <string name="wx_paycode">Platby</string>
+  <string name="Paytm_parent">Platby</string>
+  <string name="Paytm_main">Načítať</string>
 </resources>
