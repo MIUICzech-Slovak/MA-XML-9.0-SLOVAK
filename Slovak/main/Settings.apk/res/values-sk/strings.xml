@@ -2584,7 +2584,7 @@ Vyberte váš operačný systém:"</string>
   <string name="open_miui_optimization_title">Aktivovať optimalizáciu MIUI</string>
   <string name="open_miui_optimization_warning_message">Vaše zariadenie sa reštartuje pre aplikovanie týchto zmien</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Zrušiť</string>
-  <string name="open_personal_assistant_dialog_btn_confirm">Zatvoriť</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Deaktivovať</string>
   <string name="open_personal_assistant_dialog_desc">Nebude možné používať Asistenta. Chcete ho vypnúť?</string>
   <string name="open_personal_assistant_dialog_title">Deaktivovať Asistenta</string>
   <string name="open_personal_assistant_title">Aktivovať Asistenta</string>
