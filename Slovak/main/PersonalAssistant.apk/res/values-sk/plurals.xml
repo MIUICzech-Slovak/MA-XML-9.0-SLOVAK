@@ -48,4 +48,9 @@
         <item quantity="other">%d minutes</item>
         <item quantity="one">%d minute</item>
     </plurals>
+    <plurals name="steps">
+        <item quantity="other">%d|krokov</item>
+        <item quantity="zero">%d|krokov</item>
+        <item quantity="one">%d|krok</item>
+    </plurals>
 </resources>
