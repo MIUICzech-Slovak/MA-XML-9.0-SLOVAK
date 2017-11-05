@@ -281,7 +281,7 @@
   <string name="setting_launch_all_added">Nie je možné pridať viac</string>
   <string name="setting_launch_change">Change</string>
   <string name="setting_launch_select_other_app">Vybrať ostatné aplikácie</string>
-  <string name="setting_list_guide">Návod</string>
+  <string name="setting_list_guide">Asistent</string>
   <string name="setting_list_guide_desc">Pridajte často používané funkcie.</string>
   <string name="setting_map">Traffic info</string>
   <string name="setting_map_brief">Estimate routes and time required for a trip</string>
@@ -297,7 +297,7 @@
   <string name="setting_stock_brief_list">Daily briefing</string>
   <string name="setting_switch_toast_close">"Payments aren't recorded"</string>
   <string name="setting_switch_toast_open">Payments are recorded</string>
-  <string name="settings">Settings</string>
+  <string name="settings">Nastavenia</string>
   <string name="settings_subtitle">Receive notifications after you add something to favorites</string>
   <string name="settings_title">Notify about adding to favorites</string>
   <string name="share_title">Share URL using</string>
@@ -315,9 +315,9 @@
   <string name="steps_misport_ok">Rozumiem</string>
   <string name="steps_misport_tip">Prihláste sa do MiFit vašim Mi účtom a povoľte autoštart pre aplikáciu v Optimalizácia - Povolenia.</string>
   <string name="steps_sport">MiFit</string>
-  <string name="steps_sport_des">Získať presnejšie info o krokoch z MiFit.</string>
+  <string name="steps_sport_des">Získať presnejšie info o krokoch z MiFit</string>
   <string name="steps_vip">Krokomer</string>
-  <string name="steps_vip_des">Počítať kroky pomocou senzoru v telefóne.</string>
+  <string name="steps_vip_des">Počítať kroky pomocou senzoru v telefóne</string>
   <string name="system_favorite_dialog_link">Security &amp; privacy</string>
   <string name="system_favorite_dialog_message">Add your favorites from other apps here.</string>
   <string name="system_favorite_dialog_negative">Cancel</string>
@@ -367,4 +367,27 @@
   <string name="wx_paycode">Platby</string>
   <string name="Paytm_parent">Platby</string>
   <string name="Paytm_main">Načítať</string>
+  <string name="card_title_funclaunch">Skratky</string>
+  <string name="card_title_noteboard">Poznámky</string>
+  <string name="card_title_sport">Počítanie krokov</string>
+  <string name="agenda_assistant">Udalosti kalendára</string>
+  <string name="agenda_assistant_finish">Žiadne udalosti na dnes</string>
+  <string name="agenda_assistant_more">Všetky udalosti</string>
+  <string name="agenda_no_title">Bez názvu</string>
+  <string name="agenda_assistant_add">Pridať</string>
+  <string name="card_hint_noteboard">Pridať poznámku</string>
+  <string name="card_menu_setting">Nastavenia</string>
+  <string name="card_menu_edit">Upravit</string>
+  <string name="card_setting_btn">Ďalšie karty</string>
+  <string name="empty_health_card_btn">Spárujte MiBand</string>
+  <string name="empty_health_card_btn_get">Stiahnite MiFit</string>
+  <string name="empty_health_card_btn_login">Prihlásiť sa</string>
+  <string name="empty_health_card_login_tip">Prihláste sa k MiFit a spárujte MiBand</string>
+  <string name="empty_health_card_login_tip_vip">Prihláste sa k MiFit</string>
+  <string name="empty_health_card_tip">Nainštalujte MiFit a spárujte MiBand</string>
+  <string name="empty_health_card_tip_vip">Nainštalujte MiFit</string>
+  <string name="scan_app">Skener</string>
+  <string name="study_parent">Rozpoznať</string>
+  <string name="function_tools_parent">Nástroje</string>
+  <string name="launch_else">Ostatné</string>
 </resources>
