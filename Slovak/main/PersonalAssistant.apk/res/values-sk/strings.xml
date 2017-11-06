@@ -409,4 +409,7 @@
   <string name="quickstart_accessibility_dialog_title">Smart asistent</string>
   <string name="quickstart_accessibility_service">Smart asistent</string>
   <string name="agenda_assistant_empty">Žiadne udalosti na dnes</string>
+  <string name="step_cal_unit">kcal</string>
+  <string name="card_note_finish">Hotovo</string>
+
 </resources>
