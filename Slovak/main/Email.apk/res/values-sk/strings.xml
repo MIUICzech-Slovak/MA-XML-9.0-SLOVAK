@@ -919,4 +919,18 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="youfuli">Reklama</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
   <string name="meeting_responded_failed">Chyba odpovede</string>
+  <string name="account_settings_mail_check_frequency_dialog_title">Musíte manuálne obnoviť pre synchr. správ</string>
+  <string name="account_settings_mail_check_frequency_dialog_title_eas">Ak zmeníte na manuálnu synchr., musíte manuálne obnoviť zoznam správ.</string>
+  <string name="account_settings_preference_att_save_path">Predvolené úložisko príloh</string>
+  <string name="back">Späť</string>
+  <string name="eml_parse_message">Slow resolving eml files, please wait…</string>
+  <string name="failed_parse_eml_file">Email resolution failed, please try again</string>
+  <string name="file_defailt_save_path">Prílohy sú uložené do %s zložky. Môžete zmeniť zložku v nastaveniach.</string>
+  <string name="file_default_save_path_title">Predvolené umiestnenie príloh</string>
+  <string name="file_save_path_dialog_cancel">Rozumiem</string>
+  <string name="file_save_path_dialog_ok">Zmeniť</string>
+  <string name="hide_password">Skryť heslo</string>
+  <string name="show_password">Zobraziť heslo</string>
+  <string name="system_root_path">Nastavenia interného úložiska</string>
+  <string name="toast_bar_send_fail_remind">Nie je možné odoslať správu. Uložené do zložky \"Odchádzajúce\".</string>
 </resources>

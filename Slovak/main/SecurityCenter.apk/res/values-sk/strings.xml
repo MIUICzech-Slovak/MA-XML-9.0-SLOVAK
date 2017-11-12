@@ -2661,4 +2661,13 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="status_bar_network_flow_today">Dnes: %1$s</string>
   <string name="suggest_app_tolock_masked">Skryté</string>
   <string name="suggest_app_tolock_unmasked">Viditeľné upozornenia</string>
+  <string name="app_manager_advanced_setting">Ďalšie nastavenia</string>
+  <string name="app_manager_allow">Áno</string>
+  <string name="app_manager_disabled_by_admin">Deaktivované administrátorom</string>
+  <string name="app_manager_install_other_app">Inštalovať apl. z neznámych zdrojov</string>
+  <string name="app_manager_not_allow">Nie</string>
+  <string name="dialog_no_longer_alert">Viac nezobrazovať</string>
+  <string name="safepay_alert_dialog_button_fix">Opraviť</string>
+  <string name="sp_background_risk_dialog_summary_wifi_approve">Ste pripojený na verejnú Wi-Fi sieť ktorá nemusí byť bezpečná.</string>
+  <string name="sp_background_risk_dialog_title_wifi_approve">Upozornenie na verejnú Wi-Fi</string>
 </resources>

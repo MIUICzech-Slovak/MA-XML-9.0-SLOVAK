@@ -5041,4 +5041,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="miui_updater">Aktualizácia</string>
   <string name="lockscreen_magazine">Denná tapeta</string>
   <string name="lockscreen_magazine_title">Denná tapeta</string>
+  <string name="lock_screen_secure_after_timeout_immediately_never">Nikdy nevyžadovať heslo.</string>
+  <string name="pick_up_gesture_wakeup_title">Gesto na prebudenie</string>
 </resources>
