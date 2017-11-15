@@ -163,4 +163,5 @@
   <string name="unknown_caller">Neznáme číslo</string>
   <string name="user_switching_dialog_text">Prepínanie...</string>
   <string name="xspace_resolver_activity_title">Vybrať apl.</string>
+  <string name="autofill">Auto. vyplniť</string>
 </resources>
