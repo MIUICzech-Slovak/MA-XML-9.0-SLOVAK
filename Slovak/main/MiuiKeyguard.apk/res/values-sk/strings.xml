@@ -113,8 +113,10 @@
   <string name="keyguard_charging_info_tip_text4">Nevyťažujte vaše zariadenie ak je pripojené k nabíjačke aby ste predišli jeho prehrievaniu.</string>
   <string name="keyguard_charging_info_tip_text5">Batérie sa nabíjajú dlhšie ak sa prehrejú.</string>
   <string name="keyguard_charging_info_tip_text6">Vypnite displej a nechajte vaše zariadenie vychladnúť.</string>
-  <string name="keyguard_left_remotecentral">MiRemote</string>
-  <string name="keyguard_left_smarthome">MiHome</string>
+  <string name="keyguard_left_remotecentral">Kalendár</string>
+  <string name="keyguard_left_smarthome">Kontakty</string>
+  <string name="keyguard_left_bankcard">Kalkulačka</string>
+  <string name="keyguard_left_buscard">Poznámky</string>  
   <string name="keyguard_quick_charging_info_click_to_detail">Zobraziť podrobnosti</string>
   <string name="keyguard_quickly_charging_info_charging_text">Rýchlonabíjanie</string>
   <string name="keyguard_torch_cover_text">Pre dlhšie svietenie stlačte tlačidlo zapínania.</string>
