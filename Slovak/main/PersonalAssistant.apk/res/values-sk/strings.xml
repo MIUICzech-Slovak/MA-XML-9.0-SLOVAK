@@ -34,7 +34,6 @@
   <string name="calc_parent">Kalkulačka</string>
   <string name="calendar_name">Pridať udalosť</string>
   <string name="calendar_parent">Kalendár</string>
-  <string name="cannot_get_download_url">获取不到安全服务下载地址</string>
   <string name="card_agenda_settings">Nastavenia</string>
   <string name="card_detail">Guide</string>
   <string name="card_example">Card</string>
@@ -97,7 +96,6 @@
   <string name="dialog_report_desc">You can report page format errors to us. Report now?</string>
   <string name="dialog_report_title">The format is invalid</string>
   <string name="dialog_report_toast">Reported successfully</string>
-  <string name="dummy_tip">请将银行卡片正面置于此区域尝试对齐边缘。</string>
   <string name="edit_amount_hint">Enter amount</string>
   <string name="edit_category_dialog_title">Select payment category</string>
   <string name="edit_comment_hint">Remark</string>
@@ -133,7 +131,6 @@
   <string name="favorite_mark_important">Marked as important</string>
   <string name="focus">Follow status</string>
   <string name="focus_stocks">My companies</string>
-  <string name="generate_view_failed">全国人民都来了? 稍候再试试</string>
   <string name="go_to_school">To and from work or school</string>
   <string name="groupon_setting_brief">Show info about purchased tickets and coupons.</string>
   <string name="help_quick_start_wechat_video">Get access to specific app features using shortcuts</string>
@@ -152,7 +149,6 @@
   <string name="launch_no_dapp_dialog_reset">Dual apps settings</string>
   <string name="launch_noapp_dialog_cancel">Cancel</string>
   <string name="launch_noapp_dialog_redownload">Download again</string>
-  <string name="launch_noapp_dialog_replace">编辑快捷功能</string>
   <string name="launch_noapp_dialog_title">The app was deleted</string>
   <string name="launch_order_change">Change order</string>
   <string name="launch_order_finish">Done</string>
@@ -192,10 +188,8 @@
   <string name="music_setting_brief">Connect earphones to continue listening to music or radio from the place you left off.</string>
   <string name="network_access_denied">"Can't connect to the network, agree with Terms and Conditions first"</string>
   <string name="network_error">Network error</string>
-  <string name="network_exception">人气太旺啦, 稍候再试试</string>
   <string name="network_tip">Couldnt connect to the network.</string>
   <string name="network_unavaliable">"Can't get info, check network connection"</string>
-  <string name="no_connect">未配对</string>
   <string name="no_install">Nenainštalované</string>
   <string name="no_more_result">Nie je viac položiek</string>
   <string name="no_settings">Nenastavené</string>
@@ -208,9 +202,6 @@
   <string name="notification_title">Added to favorites</string>
   <string name="notification_title_fail">"Couldn't add payment"</string>
   <string name="notification_title_success">Added payment successfully</string>
-  <string name="open_bluetooth">开启</string>
-  <string name="open_bluetooth_now">蓝牙开启中...</string>
-  <string name="open_bluetooth_tips">请开启蓝牙来允许\"手环\"连接到配件</string>
   <string name="opened">Zap</string>
   <string name="place_label">Frequent places</string>
   <string name="preferences">Nastavenia</string>
@@ -303,7 +294,6 @@
   <string name="share_title">Share URL using</string>
   <string name="shortcut">Shortcuts</string>
   <string name="sport_open">Show Mi Fit card</string>
-  <string name="start_download">开始下载...</string>
   <string name="step_setting_tip">Zdroj počítania krokov</string>
   <string name="steps_auto_misport">Povoliť autoštart</string>
   <string name="steps_get_misport">Nainštalujte MiFit</string>
@@ -358,7 +348,7 @@
   <string name="wx_scan">Skener</string>
   <string name="wx_timeline">Batéria</string>
   <string name="xspace_resolver_activity_title">vyberte aplikáciu</string>
-  <string name="year_month_day_all_format_en">MM/dd/yyyy HH:mm:ss</string>
+  <string name="year_month_day_all_format_en">MM.dd.yyyy HH:mm:ss</string>
   <string name="Clock_main">Budík</string>
   <string name="Clock_parent">Hodiny</string>
   <string name="MiDrop_parent">MiDrop</string>
@@ -411,5 +401,5 @@
   <string name="agenda_assistant_empty">Žiadne udalosti na dnes</string>
   <string name="step_cal_unit">kcal</string>
   <string name="card_note_finish">Hotovo</string>
-
+  <string name="agenda_assistant_allday">Celý deň</string>
 </resources>
