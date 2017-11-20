@@ -226,7 +226,7 @@ Použite sieťovú nabíjačku."</string>
   <string name="no_weather_description">Získať info o počasí &gt;</string>
   <string name="not_support_multi_window">Súčasná aplikácia nepodporuje Multi-Window</string>
   <string name="notification_header_title">Upozornenia</string>
-  <string name="notification_hidden_text">Obsah je skrytý</string>
+  <string name="notification_hidden_text">Máte novú správu</string>
   <string name="notification_low_battery_action_btn">Povoliť</string>
   <string name="notification_low_battery_need_charge">Batéria je takmer vybitá.</string>
   <string name="notification_low_battery_open_save_mode">Povoliť Šetrenie batérie</string>
@@ -411,4 +411,17 @@ posunutím nadol uzamknete"</string>
   <string name="search_hint">Vyhľadať webstránky, aplikácie, kontakty, videá...</string>
   <string name="description_image_button_answer">Prijať</string>
   <string name="description_image_button_reject">Odmietnuť</string>
+  <string name="accessibility_desc_app_allow_block">Upozornenia %1$s môžu byť skryté.</string>
+  <string name="accessibility_desc_app_unallow_block">Upozornenia %1$s nemôžu byť skryté.</string>
+  <string name="accessibility_desc_block_notification">Skryť upozornenia.</string>
+  <string name="accessibility_desc_cancel_block">Neskrývať.</string>
+  <string name="accessibility_desc_check_block_notification">Vybranú upozornenia %1$s.</string>
+  <string name="accessibility_desc_confirm_block">Skryť.</string>
+  <string name="accessibility_desc_details_page">%1$s podrobnosti.</string>
+  <string name="accessibility_desc_notification_shade">Roletka.</string>
+  <string name="accessibility_desc_quick_settings">Rýchle nastavenia.</string>
+  <string name="accessibility_desc_reconfirm_block">Skryť teraz?</string>
+  <string name="accessibility_desc_select_block_notification">Vyberte upozornenia ktoré chcete skryť.</string>
+  <string name="accessibility_desc_uncheck_block_notification">Odznačiť %1$s upozornení.</string>
+  <string name="accessibility_desc_weather_temperature">Počasie %1s stupňov.</string>
 </resources>

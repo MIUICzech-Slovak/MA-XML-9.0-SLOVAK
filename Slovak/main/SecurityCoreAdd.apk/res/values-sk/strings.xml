@@ -319,4 +319,9 @@ Ak neaktualizujete, aplikácie v Druhom profile nemusia fungovať správne."</st
 Ak neaktualizujete, aplikácie v Druhom profile nemusia fungovať správne."</string>
   <string name="sdcradfs_dialog_in_sec_title">Dôležitá aktualizácia</string>
   <string name="space_created_success">Druhý profil vytvorený</string>
+  <string name="close_second_space">Vymazaný Druhý profil</string>
+  <string name="xspace_default_app_summary">Nastavte predvolenú aplikáciu pre platby, zdieľanie atď.</string>
+  <string name="xspace_default_app_title">Predvolená aplikácia</string>
+  <string name="xspace_default_setting_dialog_title">Predvolená</string>
+  <string name="xspace_default_setting_label">Predvolená aplikácia</string>
 </resources>

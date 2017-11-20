@@ -237,4 +237,8 @@
   <string name="customer_service_apply">Request customer service</string>
   <string name="customer_service_complain">Report customer service</string>
   <string name="customer_service_station">Service locations</string>
+  <string name="feedback_choose_third_app_name">Vyberte názov aplikácie</string>
+  <string name="feedback_description_hint">Popíšte chybu</string>
+  <string name="feedback_status_submit_attachment">Nahraná príloha</string>
+  <string name="select_system_app_tag">Vyberte štítky</string>
 </resources>
