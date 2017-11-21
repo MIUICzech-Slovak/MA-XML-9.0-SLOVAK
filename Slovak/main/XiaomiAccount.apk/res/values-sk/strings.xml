@@ -493,4 +493,13 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="wipe_data_dialog_msg">%s nebolo synchronizované (tieto dáta sa vymažú ak budete pokračovať).</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>
+  <string name="action_add_phone">Pripojiť telefónné číslo</string>
+  <string name="action_update_phone">zmeniť telefónné číslo</string>
+  <string name="get_back_pwd">Obnoviť heslo</string>
+  <string name="identity">Identita</string>
+  <string name="no_phone">Žiadne číslo</string>
+  <string name="phone_num_use_for">Telefónné číslo použité pre:</string>
+  <string name="set_success">Hotovo</string>
+  <string name="sign_in">Prihlásiť sa</string>
+  <string name="update_phone_notice">Zmeniť bezpečnostné nastavenia</string>
 </resources>
