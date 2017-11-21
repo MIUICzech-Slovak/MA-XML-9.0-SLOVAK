@@ -57,7 +57,7 @@
   <string name="progress_set_owner">Nastavuje sa vlastník zariadenia…</string>
   <string name="provisioning">Prebieha poskytovanie</string>
   <string name="provisioning_error_title">Ojoj!</string>
-  <string name="read_more_delete_profile">Skôr ako budete pokračovať, &lt;a href="#read_this_link"&gt;pre&amp;#269;&amp;#237;tajte si tieto inform&amp;#225;cie&lt;/a&gt;.</string>
+  <string name="read_more_delete_profile">Skôr ako budete pokračovať, prečítajte si tieto informácie.</string>
   <string name="set_up">Nastaviť</string>
   <string name="setting_up_workspace">Nastavuje sa pracovný profil…</string>
   <string name="setup_device_encryption">Nastavenie zariadenia. Šifrovanie</string>

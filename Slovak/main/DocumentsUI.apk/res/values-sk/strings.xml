@@ -83,9 +83,9 @@
   <string name="not_sorted">Nezoradené</string>
   <string name="notification_copy_files_converted_title">Niektoré súbory boli konvertované</string>
   <string name="notification_touch_for_details">Klepnutím zobrazíte podrobnosti</string>
-  <string name="open_external_dialog_request">Udeliť aplikácii &lt;b&gt;^1&lt;/b&gt; pr&amp;#237;stup k adres&amp;#225;ru &lt;i&gt;^2&lt;/i&gt; v &amp;#250;lo&amp;#382;isku &lt;i&gt;^3&lt;/i&gt;?</string>
-  <string name="open_external_dialog_request_primary_volume">Udeliť aplikácii &lt;b&gt;^1&lt;/b&gt; pr&amp;#237;stup k adres&amp;#225;ru &lt;i&gt;^2&lt;/i&gt;?</string>
-  <string name="open_external_dialog_root_request">Chcete aplikácii &lt;b&gt;^1&lt;/b&gt; udeli&amp;#357; pr&amp;#237;stup k d&amp;#225;tam (vr&amp;#225;tane fotiek a vide&amp;#237;) v &amp;#250;lo&amp;#382;isku &lt;i&gt;^2&lt;/i&gt;?</string>
+  <string name="open_external_dialog_request">Udeliť aplikácii ^1 prístup k adresáru ^2 v úložisku ^3?</string>
+  <string name="open_external_dialog_request_primary_volume">Udeliť aplikácii ^1 prístup k adresáru ^2?</string>
+  <string name="open_external_dialog_root_request">Chcete aplikácii ^1 udeliť prístup k dátam (vrátane fotiek a videí) v úložisku ^2 ?</string>
   <string name="overwrite_file_confirmation_message">Prepísať názov %1$s?</string>
   <string name="query_error">Obsah momentálne nie je možné načítať</string>
   <string name="rename_error">Premenovanie dokumentu zlyhalo</string>
