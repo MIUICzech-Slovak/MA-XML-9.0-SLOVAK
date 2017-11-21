@@ -485,4 +485,7 @@ Please release at least %s"</string>
   <string name="error_permissions">Nie je povolený prístup ku Kalendáru, skontrolujte povolenia v nastaveniach.</string>
   <string name="select_item_calendar">Kalendár</string>
   <string name="select_item_notes">Poznámky</string>
+  <string name="backup_security_tips_title">Záloha nemusí fungovať</string>
+  <string name="backup_security_tips_message">Niektoré zabezpečené aplikácie sa nemusia zálohovať a správne obnoviť.</string>	
+  <string name="btn_got_it">Rozumiem</string>
 </resources>
