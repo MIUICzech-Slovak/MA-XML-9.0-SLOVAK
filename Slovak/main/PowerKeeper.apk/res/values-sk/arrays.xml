@@ -91,4 +91,8 @@
         <item>Súčasný predvolený režim</item>
         <item>Súčasný výkonný režim</item>
     </string-array>	 
+    <string-array name="power_mode_entries">
+        <item>Výkonný</item>
+        <item>Vyvážený</item>
+    </string-array>
 </resources>
