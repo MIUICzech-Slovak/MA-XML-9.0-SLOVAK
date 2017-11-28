@@ -90,7 +90,6 @@ Naposledy: %2$s"</string>
   <string name="find_device_dspt">Zamknúť alebo vymazať toto zariadenie na diaľku.</string>
   <string name="find_device_dspt_provision">"Ak stratíte vaše zariadenie, môžete navštíviť %s pre jeho vyhľadanie, zablokovanie alebo vymazanie jeho obsahu. Túto funkciu môžete kedykoľvek zmeniť v nastaveniach.
   "</string>
-  <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_3">" . Túto službu môžete aktivovať alebo zakázať v Nastaveniach."</string>
   <string name="find_device_dspt_provision_4">Ak zmeníte SIM kartu, aktivačná SMS správa sa automaticky odošle pre aktivovanie tejto funkcie.</string>
   <string name="find_device_enabling">Zapínanie...</string>
@@ -99,7 +98,6 @@ Naposledy: %2$s"</string>
   <string name="find_device_error_server">Chyba servera</string>
   <string name="find_device_error_unknown">Neznáma chyba.</string>
   <string name="find_device_notice_p1">Choďte na</string>
-  <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">pre získanie polohy, zablokovať, vymazať alebo obnoviť všetky dáta.</string>
   <string name="find_device_operation_failure_rpc">Operácia nemohla byť dokončená kvôli RPC chybe.</string>
   <string name="find_device_pref_alert_content">Vyhľadávanie zariadenia je prepojené s vašim Mi účtom. Musíte zadať vaše heslo. Bude odoslaná bežná SMS pre aktiváciu tejto služby a spoplatnená vašim operátorom. Ak zmeníte SIM kartu, odošle sa SMS znova pre reaktiváciu tejto služby.</string>
@@ -250,8 +248,6 @@ do vášho Mi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_find_device_open_fail">Nebolo možné aktivovať Vyhľadávanie zariadenia</string>
   <string name="micloud_find_device_opened">Vyhľadávanie zariadenia povolené</string>
   <string name="micloud_find_device_opened_content">Nájdite vaše zariadenie na %s</string>
-  <string name="micloud_find_device_opened_content_url">i.mi.com</string>
-  <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
   <string name="micloud_find_device_verify_button">Reaktivácia vyhľadávania zariadenia</string>
   <string name="micloud_find_device_verify_close">Deaktivovať vyhľadávanie zariadenia</string>
   <string name="micloud_find_device_verify_fail">Nebolo možné reaktivovať</string>
@@ -508,7 +504,6 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
   <string name="sync_dspt_entrance_provision_network">Táto aplikácia vyžaduje pripojenie k sieti pre jej správne fungovanie.</string>
   <string name="sync_dspt_entrance_provision_skip">Preskočiť</string>
   <string name="sync_dspt_provision">"Synch. vaše fotografie, kontakty, poznámky medzi viacerými zariadeniami alebo na "</string>
-  <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision3">". Túto službu môžete aktivovať alebo zakázať v Nastaveniach."</string>
   <string name="sync_dspt_provision_header">Synchr.</string>
   <string name="sync_dspt_provision_title">Mi Cloud</string>

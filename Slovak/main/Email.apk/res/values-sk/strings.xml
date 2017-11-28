@@ -212,8 +212,6 @@
   <string name="auto_sync_off">Automatická synchronizácia je vypnutá.</string>
   <string name="battery_saver">Úspora batérie</string>
   <string name="battery_saver_keywords">Úspora batérie;email batéria</string>
-  <string name="bcc">Skrytá kópia</string>
-  <string name="bcc_heading">"Sk. kópia: "</string>
   <string name="blank_feedback_toast">Spätná väzba je prázdna, napíšte váš názor!</string>
   <string name="body_forward_email_text">[Preposlané]</string>
   <string name="body_hint">Text správy</string>
@@ -228,9 +226,6 @@
   <string name="cancel_action">Zrušiť</string>
   <string name="cancel_pop3_attchemt_downloading">Zrušenie preberania príloh nie je podporované v POP3 protokole.</string>
   <string name="cant_move_or_change_labels">Presun nie je možné uskutočniť, pretože vybraté správy pochádzajú z rôznych účtov.</string>
-  <string name="cc">Kópia</string>
-  <string name="cc_attribution">Kópia: %1$s&lt;br&gt;</string>
-  <string name="cc_bcc">Cc/Bcc</string>
   <string name="cc_heading">"Kópia: "</string>
   <string name="change_folders_selection_dialog_title">Zmeniť priečinky</string>
   <string name="change_sync_settings">Zmeniť nastav. synchronizácie</string>
@@ -470,7 +465,6 @@
   <string name="invalid_recipient">Adresa %s je neplatná.</string>
   <string name="invalid_recipient_title">Chyba príjemcu</string>
   <string name="kilobytes">%s kB</string>
-  <string name="label_notification_ticker" formatted="false">%s: %s</string>
   <string name="load_from_remote">Pokračovať vo vyhľadávaní na serveri</string>
   <string name="load_more">Načítať ďalšie</string>
   <string name="loading_conversation">Prebieha načítavanie...</string>
@@ -848,7 +842,6 @@
   <string name="tap_to_configure">Klepnutím nastavte</string>
   <string name="tap_to_enable_sync">Dotykom zapnete.</string>
   <string name="tip_cannot_switchview_in_unread_folder">Nie je možné zobraziť v režime neprečítaných správ</string>
-  <string name="to">Komu</string>
   <string name="to_heading">"Komu: "</string>
   <string name="toast_bar_fail_synchronization">Chyba pripojenia, skúste to znova neskôr.</string>
   <string name="toast_bar_insufficient_memory_space">Nedostatok voľného miesta v zariadení. Synchronizácia zlyhala.</string>
@@ -871,9 +864,6 @@
   <string name="translation_query_failure">Zlyhalo</string>
   <string name="translation_technology_support">Technická podpora od PowerWord</string>
   <string name="trash_folder_selection_title">Priečinok Kôš servera pre %s</string>
-  <string name="trigger_compose_char">c</string>
-  <string name="trigger_refresh_char">u</string>
-  <string name="trigger_y_char">y</string>
   <string name="try_exchange_login">Skúste sa prihlásiť s Exchange</string>
   <string name="turn_auto_sync_on_dialog_body">Zmeny, ktoré vykonáte vo všetkých aplikáciách a účtoch, budú synchronizované medzi webom, ďalšími zariadeniami a zariadením %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Zapnúť</string>

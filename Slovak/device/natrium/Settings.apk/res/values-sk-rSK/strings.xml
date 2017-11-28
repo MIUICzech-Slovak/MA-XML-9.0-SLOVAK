@@ -4,7 +4,6 @@
   <string name="bluetooth_enter_passkey_msg">"Zadajte párovací kód a potom stlačte tlačidlo Return alebo Enter"</string>
   <string name="bluetooth_enter_pin_msg">Zariadenie</string>
   <string name="bluetooth_enter_pin_msg_hs">Zariadenie vyžaduje zabezpečenie 16 miestným kódom</string>
-  <string name="power_charging">%1$s – %2$s</string>
   <string name="power_charging_duration">%1$s – %2$s do úplného nabitia</string>
   <string name="power_charging_duration_ac">%1$s – %2$s do úplného nabitia zo zásuvky</string>
   <string name="power_charging_duration_usb">%1$s – %2$s do úplného nabitia cez USB</string>
