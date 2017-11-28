@@ -2670,4 +2670,9 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="safepay_alert_dialog_button_fix">Opraviť</string>
   <string name="sp_background_risk_dialog_summary_wifi_approve">Ste pripojený na verejnú Wi-Fi sieť ktorá nemusí byť bezpečná.</string>
   <string name="sp_background_risk_dialog_title_wifi_approve">Upozornenie na verejnú Wi-Fi</string>
+  <string name="call_oversea_block">Blokovať hovory zo zahraničia</string>
+  <string name="st_call_intercept_oversea">Blokovať hovory zo zahraničia</string>
+  <string name="st_confirm_dialog_summary_oversea_call">Blokovať prichádzajúce hovory zo zahraničia.</string>
+  <string name="fw_oversea">Blokovať hovory zo zahraničia</string>
+  <string name="fw_oversea_content">Blokovať prichádzajúce hovory zo zahraničia</string>
 </resources>

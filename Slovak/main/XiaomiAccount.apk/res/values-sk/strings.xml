@@ -502,4 +502,5 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="set_success">Hotovo</string>
   <string name="sign_in">Prihlásiť sa</string>
   <string name="update_phone_notice">Zmeniť bezpečnostné nastavenia</string>
+  <string name="account_global_region">Global</string>
 </resources>

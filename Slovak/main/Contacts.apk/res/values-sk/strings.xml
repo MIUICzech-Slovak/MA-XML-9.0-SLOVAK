@@ -1292,4 +1292,13 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="yesterday">Včera</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
+  <string name="back_description">Späť</string>
+  <string name="calllog_call_note_menu">Poznámky</string>
+  <string name="calllog_call_record_menu">Nahrávky</string>
+  <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
+  <string name="contact_import_methods_dialog_mi_mover">Transfér</string>
+  <string name="contact_import_methods_dialog_title">Vybete metódu importu</string>
+  <string name="contacts_unavailable_import_from_old_device">Importovať z iného zariadenia</string>
+  <string name="contacts_unavailable_import_sim_contacts">Importovať SIM kontakty</string>
+  <string name="import_sim_contacts_hint_title">Importovať SIM kontakty</string>
 </resources>

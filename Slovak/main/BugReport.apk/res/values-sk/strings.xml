@@ -241,4 +241,6 @@
   <string name="feedback_description_hint">Popíšte chybu</string>
   <string name="feedback_status_submit_attachment">Nahraná príloha</string>
   <string name="select_system_app_tag">Vyberte štítky</string>
+  <string name="feedback_choose_reproductivity">Výskyt</string>
+  <string name="feedback_title_reproductivity">Vyberte ako často sa vyskytuje chyba</string>
 </resources>

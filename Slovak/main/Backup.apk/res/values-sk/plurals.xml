@@ -12,4 +12,12 @@
        <item quantity="other">Položiek: %d</item>
         <item quantity="one">Položiek: %d</item>
     </plurals>
+    <plurals name="total_num">
+        <item quantity="other">%d položiek,</item>
+        <item quantity="one">%d položka,</item>
+    </plurals>
+    <plurals name="custom_progress">
+        <item quantity="other">%d položiek</item>
+        <item quantity="one">%d položka</item>
+    </plurals>
 </resources>

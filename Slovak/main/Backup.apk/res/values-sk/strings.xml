@@ -485,4 +485,9 @@ Please release at least %s"</string>
   <string name="error_permissions">Nie je povolený prístup ku Kalendáru, skontrolujte povolenia v nastaveniach.</string>
   <string name="select_item_calendar">Kalendár</string>
   <string name="select_item_notes">Poznámky</string>
+  <string name="data_detail_description">podrobnosti</string>
+  <string name="failed_description">zlyhalo</string>
+  <string name="hide_password_description">Skryť heslo</string>
+  <string name="succ_description">hotovo</string>
+  <string name="view_password_description">Zobraziť heslo</string>
 </resources>

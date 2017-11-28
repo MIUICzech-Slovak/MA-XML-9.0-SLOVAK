@@ -149,4 +149,18 @@
   <string name="workday_alarm_clock">Pracovný deň</string>
   <string name="worldclock_empty_text">Žiadne svetové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
+  <string name="invalid_time">Zlý čas: %3$s %1$d: %2$d</string>
+  <string name="life_post_setting">Ranný report</string>
+  <string name="life_post_setting_FBE_remind">Kvôli systémovým obmedzeniam sa počasie nemusí zobrazovať správne po reštarte zariadenia</string>
+  <string name="life_post_setting_open_subtitle">Zobraziť informácie o počasí po zrušení budíka v čase od 4:00 do 9:30</string>
+  <string name="life_post_setting_open_title">Zobraziť ranný report</string>
+  <string name="life_post_setting_wake_up_list_title">História prebudenia</string>
+  <string name="life_post_wake_up_acumu_day_title">Počet dní</string>
+  <string name="life_post_wake_up_item_acumu_day">%1$s dní</string>
+  <string name="life_post_wake_up_item_acumu_day_title">Počet dní</string>
+  <string name="life_post_wake_up_item_percentage_title">Mi Fans behind you</string>
+  <string name="life_post_wake_up_item_time_title">Čas prebudenia</string>
+  <string name="life_post_wake_up_percentage_title">Mi Fans behind you</string>
+  <string name="life_post_wake_up_time_title">Čas prebudenia</string>
+  <string name="life_post_weather_invalid">Nebolo možné získať informácie o počasí</string>
 </resources>
