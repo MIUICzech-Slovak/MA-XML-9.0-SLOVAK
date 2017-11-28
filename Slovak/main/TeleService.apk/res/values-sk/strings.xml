@@ -1280,7 +1280,6 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="xdivert_summary">CFNRc Nastavenia</string>
   <string name="xdivert_title">X-Divert</string>
   <string name="other_available_phone_accounts">Ostatné účty</string>
-  <string name="phone_account_settings">Účty pre volanie</string>
   <string name="preferred_phone_account">Preferovaný účet</string>
   <string name="sim_accounts">SIM účty</string>
   <string name="volte_switch_not_support_summary2">VoLTE hovory nie sú podporované vaším operátorom.</string>
