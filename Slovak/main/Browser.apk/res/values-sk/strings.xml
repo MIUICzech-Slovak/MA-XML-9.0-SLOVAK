@@ -957,4 +957,5 @@ Chcete opustiť túto web stránku?"</string>
   <string name="check_security_tip_user_agreement">Podmienky používania</string>
   <string name="bookmark_move_to">Presunúť do</string>
   <string name="action_menu_text_drop">Ukončiť</string>
+  <string name="cloud_tabs_sync_off">Synchr. vyp</string>
 </resources>

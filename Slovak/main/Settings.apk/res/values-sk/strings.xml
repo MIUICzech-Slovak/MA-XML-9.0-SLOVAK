@@ -5043,4 +5043,9 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="lockscreen_magazine_title">Denná tapeta</string>
   <string name="lock_screen_secure_after_timeout_immediately_never">Nikdy nevyžadovať heslo.</string>
   <string name="pick_up_gesture_wakeup_title">Gesto na prebudenie</string>
+  <string name="infinity_display_settings">Celý displej</string>
+  <string name="infinity_display_slogan">Continued growth in unexplored technology</string>
+  <string name="infinity_display_title">Celý displej</string>
+  <string name="model_name">Názov modelu</string>
+  <string name="music_dirac_mode_reduction_noise">redukcia šumu TypeC</string>
 </resources>

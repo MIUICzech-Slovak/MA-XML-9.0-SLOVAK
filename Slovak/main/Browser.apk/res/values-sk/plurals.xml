@@ -49,4 +49,8 @@
         <item quantity="other">Ostáva %dmin</item>
         <item quantity="one">Ostáva 1min</item>
     </plurals>	
+    <plurals name="nav_screen_incognito_time">
+        <item quantity="other">O %d sekúnd bude vytvorená nová karta</item>
+        <item quantity="one">O %d sekundu bude vytvorená nová karta</item>
+    </plurals>
 </resources>

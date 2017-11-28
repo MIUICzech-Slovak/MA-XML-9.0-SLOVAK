@@ -311,8 +311,8 @@
   <string name="no_network">Nie je možné sa pripojiť k sieti</string>
   <string name="no_network_btn">Znova</string>
   <string name="notification_summary_after_auto_cleanup">Vyčistené %s</string>
-  <string name="notification_summary_of_garbage_cleanup">Vaše nepotrebné súbory dosiahli %s</string>
-  <string name="notification_title_of_garbage_cleanup">Upozornenie na odpad</string>
+  <string name="notification_summary_of_garbage_cleanup">Uvoľniť miesto na úložisku.</string>
+  <string name="notification_title_of_garbage_cleanup">%s odpadu</string>
   <string name="notify_when">Zobraziť upozornenie ak nepotrebné súbory dosiahnu 100MB</string>
   <string name="ok">OK</string>
   <string name="open">Povoliť</string>
