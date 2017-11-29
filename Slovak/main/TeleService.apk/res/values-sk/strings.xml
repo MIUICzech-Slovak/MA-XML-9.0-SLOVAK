@@ -1283,4 +1283,5 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="preferred_phone_account">Preferovaný účet</string>
   <string name="sim_accounts">SIM účty</string>
   <string name="volte_switch_not_support_summary2">VoLTE hovory nie sú podporované vaším operátorom.</string>
+  <string name="miui_notification_network_selection_text" formatted="false">SIM %s Vybraná sieť (%s) nedostupná</string>
 </resources>

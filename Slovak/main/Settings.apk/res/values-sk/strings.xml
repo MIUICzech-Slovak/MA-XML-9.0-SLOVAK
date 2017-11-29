@@ -5044,4 +5044,11 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="infinity_display_title">Celý displej</string>
   <string name="model_name">Názov modelu</string>
   <string name="music_dirac_mode_reduction_noise">redukcia šumu TypeC</string>
+  <string name="bluetooth_wake">Prebudiť s Bluetooth audiom</string>
+  <string name="settings_notify_need_backup">Zálohujte vaše nastavenia do MiCloud.</string>
+  <string name="settings_notify_phone_recycled">Your phone number has been recycled. Tap to add a different phone number.</string>
+  <string name="split_screen">Rozdelenie obrazovky</string>
+  <string name="suggestion_for_phone_recycled">Pridať iné telefónne číslo</string>
+  <string name="system_shortcut_wake">Prebudiť tlačidlom skratiek</string>
+  <string name="voice_helper_title">Hlasový asistent</string>
 </resources>
