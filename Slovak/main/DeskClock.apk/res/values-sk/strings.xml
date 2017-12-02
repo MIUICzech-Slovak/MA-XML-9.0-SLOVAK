@@ -160,7 +160,9 @@
   <string name="life_post_wake_up_item_acumu_day_title">Počet dní</string>
   <string name="life_post_wake_up_item_percentage_title">Mi Fans behind you</string>
   <string name="life_post_wake_up_item_time_title">Čas prebudenia</string>
-  <string name="life_post_wake_up_percentage_title">Mi Fans behind you</string>
+  <string name="life_post_wake_up_percentage_title">Ľudí ešte spí</string>
   <string name="life_post_wake_up_time_title">Čas prebudenia</string>
   <string name="life_post_weather_invalid">Nebolo možné získať informácie o počasí</string>
+  <string name="life_post_weather_description_secondary">%1$s | %2$s | %3$s</string>
+  
 </resources>
