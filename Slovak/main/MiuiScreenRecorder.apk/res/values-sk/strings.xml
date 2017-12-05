@@ -70,4 +70,6 @@
   <string name="stop_record_while_locking">Uzamknutie ukončí nahrávanie</string>
   <string name="stop_record_while_locking_summary">Ukončiť nahrávanie a uložiť nahrávku uzamknutím obrazovky</string>
   <string name="stop_recording">Zastaviť nahrávanie</string>
+  <string name="description_content">Screen recording provides system-level recording capabilities. This action means that you will discard the screen recording feature. Confirm Continue.</string>
+  <string name="description_title">Čo je Nahrávanie plochy</string>
 </resources>

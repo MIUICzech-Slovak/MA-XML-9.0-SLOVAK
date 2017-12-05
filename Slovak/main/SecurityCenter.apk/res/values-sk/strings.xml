@@ -2675,4 +2675,14 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="st_confirm_dialog_summary_oversea_call">Blokovať prichádzajúce hovory zo zahraničia.</string>
   <string name="fw_oversea">Blokovať hovory zo zahraničia</string>
   <string name="fw_oversea_content">Blokovať prichádzajúce hovory zo zahraničia</string>
+  <string name="app_manager_cache_size">Cache</string>
+  <string name="app_manager_clear_all_data">Vymazať všetky dáta</string>
+  <string name="app_manager_clear_dlg_title">Vymazať dáta</string>
+  <string name="app_manager_code_size">Veľkosť</string>
+  <string name="app_manager_comuting_size">Vypočítavanie...</string>
+  <string name="app_manager_data_size">Užívateľské dáta</string>
+  <string name="app_manager_dlg_clear_cache_title">Vymazať cache?</string>
+  <string name="app_manager_not_support_uninstall">Túto aplikáciu nie je možné odinštalovať</string>
+  <string name="app_manager_support_uninstall">Môžete odinštalovať tieto aplikácie</string>
+  <string name="app_manager_total_size">Celkovo</string>
 </resources>

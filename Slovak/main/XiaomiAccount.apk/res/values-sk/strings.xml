@@ -503,4 +503,8 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="sign_in">Prihlásiť sa</string>
   <string name="update_phone_notice">Zmeniť bezpečnostné nastavenia</string>
   <string name="account_global_region">Global</string>
+  <string name="account_error_user_name">Zadané meno nie je správne</string>
+  <string name="passport_get_innetdate_agree">Skontrolovať</string>
+  <string name="passport_get_innetdate_disagree">Nie</string>
+  <string name="sim_changed_notification_title">Zmenili ste telefónné čislo?</string>
 </resources>
