@@ -492,4 +492,6 @@
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
   <string name="email_install_hint">Aplikácia Email bola odinštalovaná. Nainštalujte ju znova pre obnovenie dát kelendára a vašich účtov.</string>
+  <string name="action_bar_return">Naspäť</string>
+  <string name="date_calculate_direction_content_description">Smer prepočítavania, momentálne je %1s</string>
 </resources>
