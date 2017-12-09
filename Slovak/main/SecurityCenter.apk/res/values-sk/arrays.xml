@@ -175,22 +175,6 @@
         <item>Využitie dát</item>
         <item>Stav voľných minút</item>
     </string-array>	
-    <string-array name="sort_type">
-        <item>Stavu</item>
-        <item>Názvu aplikácie</item>
-        <item>Frekvencia používania</item>
-        <item>Využitie úložiska</item>
-        <item>Čas inštalácie</item>
-	<item>Možnosť odinštalovania</item>
-    </string-array>
-    <string-array name="sort_title">
-        <item>Zoradiť podľa stavu</item>
-        <item>Zoradiť podľa názvu</item>
-        <item>Zoradiť podľa používania</item>
-        <item>Zoradiť podľa využitého úložiska</item>
-	<item>Zoradiť podľa času inštalácie</item>
-	<item>Zoradiť podľa apl. ktoré môžete odinštalovať</item>
-    </string-array>	 
     <string-array name="title_app_info">
         <item>Zdroj inštalácie</item>
         <item>Čas inštalácie</item>
