@@ -2693,7 +2693,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="pref_key_tethering_title">Jednorázový limit dát</string>
   <string name="tether_custom_dialog_title">Limit mobilných dát</string>
   <string name="tether_limit_dialog_title">Limit mobilných dát</string>
-  <string name="tether_limit_value_custom">Vlastné</string>
   <string name="tether_over_limit_dialog_cancle_btn">Resetovať hot-spot</string>
   <string name="tether_over_limit_dialog_message">Dosiahli ste limit dát hot-spotu.</string>
   <string name="tether_over_limit_dialog_title">Upozornenie mobilných dát</string>
