@@ -196,5 +196,9 @@
         <item>Zoradiť podľa využitého úložiska</item>		
 	<item>Zoradiť podľa času inštalácie</item>		
 	<item>Zoradiť podľa apl. ktoré môžete odinštalovať</item>		
-    </string-array>		
+    </string-array>	
+    <string-array name="tether_limit_warn_type">
+        <item>Vypnúť a upozorniť</item>
+        <item>Len upozorniť</item>
+    </string-array>	
 </resources>

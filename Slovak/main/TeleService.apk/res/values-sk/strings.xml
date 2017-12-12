@@ -1284,4 +1284,9 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="sim_accounts">SIM účty</string>
   <string name="volte_switch_not_support_summary2">VoLTE hovory nie sú podporované vaším operátorom.</string>
   <string name="miui_notification_network_selection_text" formatted="false">SIM %s Vybraná sieť (%s) nedostupná</string>
+  <string name="dual_4g_switch_summary">Povoliť LTE pripojenie pre obe SIM karty.</string>
+  <string name="dual_4g_switch_title">Dual LTE</string>
+  <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE vyžaduje LTE pripojenie pre oba SIM sloty. Prepnúť na Dual LTE?</string>
+  <string name="turn_off_dual_4g_failed">Nebolo možné deaktivovať Dual LTE.</string>
+  <string name="turn_on_dual_4g_failed">Nebolo možné povoliť Dual LTE.</string>
 </resources>

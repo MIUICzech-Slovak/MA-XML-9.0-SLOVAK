@@ -290,4 +290,11 @@
   <string name="widget_global_search">Vyhľadávanie</string>
   <string name="widget_quick_function">Skratky</string>
   <string name="action_add_to_workspace">Pridať do pracovného priestoru</string>
+  <string name="edit_mode_group">Skupina</string>
+  <string name="edit_mode_group_error_full">Nie je dostatok miesta</string>
+  <string name="edit_mode_group_error_in_folder">Zatvorte zložku predtým ako zoskupíte ikony</string>
+  <string name="edit_mode_group_error_one_folder">Nie je možné zduplikovať zložku s vybranými ikonami</string>
+  <string name="edit_mode_uninstall">Odinštalovať</string>
+  <string name="memory_clear_nothing_result">Cache je prázdna</string>
+  <string name="memory_clear_result">%1$sB vyčistené</string>
 </resources>

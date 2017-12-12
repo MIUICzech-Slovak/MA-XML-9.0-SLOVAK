@@ -5051,4 +5051,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="suggestion_for_phone_recycled">Pridať iné telefónne číslo</string>
   <string name="system_shortcut_wake">Prebudiť tlačidlom skratiek</string>
   <string name="voice_helper_title">Hlasový asistent</string>
+  <string name="tether_data_usage_limit">Jednorázový limit dát</string>
+  <string name="tether_data_usage_limit_summary">Limit dát bude aplikovaný keď znova spustíte hot-spot</string>
 </resources>

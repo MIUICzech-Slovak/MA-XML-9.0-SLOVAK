@@ -959,4 +959,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="action_menu_text_drop">Ukončiť</string>
   <string name="cloud_tabs_sync_off">Synchr. vyp</string>
   <string name="miuishare_dialog_cancel">Zrušiť</string>
+  <string name="action_menu_user_center">Užívateľské centrum</string>
+  <string name="action_modify_bookmark">Upraviť záložku</string>
+  <string name="action_put_in_search_box">Vložiť %s do vyhľadávania</string>
 </resources>

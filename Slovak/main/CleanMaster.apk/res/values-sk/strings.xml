@@ -471,4 +471,6 @@
   <string name="cd_percent">percentá</string>
   <string name="cd_settings">nasatvenia</string>
   <string name="cd_sort_type">triediť podľa</string>  
+  <string name="qq_clean_finish_summary">Vybrané súbory boli vymazané</string>
+  <string name="unlike">Nie</string>
 </resources>
