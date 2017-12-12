@@ -2698,4 +2698,5 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="tether_over_limit_dialog_title">Upozornenie mobilných dát</string>
   <string name="tether_over_limit_warning_notify_message">Deaktivovať hot-spot.</string>
   <string name="tether_over_limit_warning_notify_title">Dosiahli ste limit dát hot-spotu</string>
+  <string name="tether_limit_value_custom">Vlastné</string>
 </resources>
