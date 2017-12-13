@@ -1289,4 +1289,7 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE vyžaduje LTE pripojenie pre oba SIM sloty. Prepnúť na Dual LTE?</string>
   <string name="turn_off_dual_4g_failed">Nebolo možné deaktivovať Dual LTE.</string>
   <string name="turn_on_dual_4g_failed">Nebolo možné povoliť Dual LTE.</string>
+  <string name="miui_network_selection_reset_text">Reset</string>
+  <string name="miui_notification_network_selection_title">SIM nemá signál</string>
+  <string name="miui_notification_network_selection_title_by_sim">SIM %s nemá signál</string>
 </resources>

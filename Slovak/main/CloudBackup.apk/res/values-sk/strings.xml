@@ -165,4 +165,6 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="restoring_file_tile">Obnovenie %d súborov</string>
   <string name="total_space">Celkovo: %s</string>
   <string name="try_again">Dotykom skúste znova</string>
+  <string name="device_corrupt">MiPhone (Poškodené dáta)</string>
+  <string name="size_unknown">Neznáma veľkosť</string>
 </resources>
