@@ -422,4 +422,21 @@ posunutím nadol uzamknete"</string>
   <string name="accessibility_desc_select_block_notification">Vyberte upozornenia ktoré chcete skryť.</string>
   <string name="accessibility_desc_uncheck_block_notification">Odznačiť %1$s upozornení.</string>
   <string name="accessibility_desc_weather_temperature">Počasie %1s stupňov.</string>
+  <string name="accessibility_desc_work_lock">Work lock screen</string>
+  <string name="keyboard_shortcut_group_applications">aplikácie</string>
+  <string name="keyboard_shortcut_group_applications_assist">Asistent</string>
+  <string name="keyboard_shortcut_group_applications_browser">Prehliadač</string>
+  <string name="keyboard_shortcut_group_applications_calendar">Kalendár</string>
+  <string name="keyboard_shortcut_group_applications_contacts">Kontakty</string>
+  <string name="keyboard_shortcut_group_applications_email">Email</string>
+  <string name="keyboard_shortcut_group_applications_im">IM</string>
+  <string name="keyboard_shortcut_group_applications_music">Hudba</string>
+  <string name="keyboard_shortcut_group_applications_sms">SMS</string>
+  <string name="keyboard_shortcut_group_applications_youtube">YouTube</string>
+  <string name="keyboard_shortcut_group_system">Systém</string>
+  <string name="keyboard_shortcut_group_system_back">Späť</string>
+  <string name="keyboard_shortcut_group_system_home">Domov</string>
+  <string name="keyboard_shortcut_group_system_notifications">Upozornenia</string>
+  <string name="keyboard_shortcut_group_system_shortcuts_helper">Klávesové skratky</string>
+  <string name="keyboard_shortcut_group_system_switch_input">Prepnúť metódu vstupu</string>
 </resources>

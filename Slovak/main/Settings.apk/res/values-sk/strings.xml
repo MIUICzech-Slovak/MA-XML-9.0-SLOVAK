@@ -5042,7 +5042,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="infinity_display_slogan">Viac obsahu na vašom displeji</string>
   <string name="infinity_display_title">Celý displej</string>
   <string name="model_name">Názov modelu</string>
-  <string name="music_dirac_mode_reduction_noise">redukcia šumu TypeC</string>
+  <string name="music_dirac_mode_reduction_noise">Redukcia šumu (USB-C)</string>
   <string name="bluetooth_wake">Prebudiť s Bluetooth audiom</string>
   <string name="settings_notify_need_backup">Zálohujte vaše nastavenia do MiCloud.</string>
   <string name="settings_notify_phone_recycled">Your phone number has been recycled. Tap to add a different phone number.</string>
@@ -5052,4 +5052,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="voice_helper_title">Hlasový asistent</string>
   <string name="tether_data_usage_limit">Jednorázový limit dát</string>
   <string name="tether_data_usage_limit_summary">Limit dát bude aplikovaný keď znova spustíte hot-spot</string>
+  <string name="unlock_disable_frp_warning_content_profile">"Ochrana funkcií vášho profilu nebude fungovať bez hesla.
+ Nebude možné odomknúť váš profil alebo sa prihlásiť do aplikácií."</string>
+  <string name="unlock_set_unlock_password_none">Žiadne</string>
 </resources>

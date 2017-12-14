@@ -176,4 +176,6 @@
   <string name="unlockscreen_recharging_message">Nabíjanie %d%%</string>
   <string name="wrong_password">Nesprávne heslo</string>
   <string name="lock_screen_no_sim_card">Žiadna SIM karta</string>
+  <string name="do_disclosure_generic">Toto zariadenie je spravované vašou organizáciou</string>
+  <string name="do_disclosure_with_name">Toto zariadenie je spravované %s</string>  
 </resources>
