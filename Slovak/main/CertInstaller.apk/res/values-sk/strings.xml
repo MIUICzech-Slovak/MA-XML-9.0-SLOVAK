@@ -63,4 +63,6 @@ Kľúč: %2$s
 "</string>
   <string name="wifi_ttls_config_text">"Používateľské meno: %s
 "</string>
+     <string name="credential_usage_label">Použitie poverení:</string>
+     <string name="only_primary_user_allowed">Certifikáty môže inštalovať iba vlastník tohto zariadenia.</string>
 </resources>
