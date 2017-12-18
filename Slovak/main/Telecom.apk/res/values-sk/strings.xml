@@ -291,9 +291,7 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
      <string name="picture_color_mode_desc">Použije sa sRGB</string>
      <string name="pointer_location">Umiestnenie kurzora</string>
      <string name="pointer_location_summary">Zobraziť prekryvnú vrstvu s aktuálnymi údajmi o klepnutiach</string>
-     <string name="power_charging">%1$s – %2$s</string>
      <string name="power_charging_duration">%1$s – %2$s do úplného nabitia</string>
-     <string name="power_charging_duration_short">%1$s – %2$s</string>
      <string name="power_discharging_duration">%1$s – približný zostávajúci čas: %2$s</string>
      <string name="power_discharging_duration_short">%1$s – zostávajúci čas: %2$s</string>
      <string name="power_remaining_charging_duration_only">Zostávajúci čas do úplného nabitia: %1$s</string>
