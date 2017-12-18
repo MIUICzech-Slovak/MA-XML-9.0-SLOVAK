@@ -60,47 +60,11 @@
         <item quantity="few">%d položky</item>
         <item quantity="many">%d položky</item>
      </plurals>
-     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
-        <item quantity="other">Extrémne krátke oneskorenie (%1$d ms)</item>
-        <item quantity="one">Extrémne krátke oneskorenie (%1$d ms)</item>
-        <item quantity="few">Extrémne krátke oneskorenie (%1$d ms)</item>
-        <item quantity="many">Extrémne krátke oneskorenie (%1$d ms)</item>
-     </plurals>
-     <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-        <item quantity="other">Dlhé oneskorenie (%1$d ms)</item>
-        <item quantity="one">Dlhé oneskorenie (%1$d ms)</item>
-        <item quantity="few">Dlhé oneskorenie (%1$d ms)</item>
-        <item quantity="many">Dlhé oneskorenie (%1$d ms)</item>
-     </plurals>
-     <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
-        <item quantity="other">Krátke oneskorenie (%1$d ms)</item>
-        <item quantity="one">Krátke oneskorenie (%1$d ms)</item>
-        <item quantity="few">Krátke oneskorenie (%1$d ms)</item>
-        <item quantity="many">Krátke oneskorenie (%1$d ms)</item>
-     </plurals>
-     <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
-        <item quantity="other">Veľmi dlhé oneskorenie (%1$d ms)</item>
-        <item quantity="one">Veľmi dlhé oneskorenie (%1$d ms)</item>
-        <item quantity="few">Veľmi dlhé oneskorenie (%1$d ms)</item>
-        <item quantity="many">Veľmi dlhé oneskorenie (%1$d ms)</item>
-     </plurals>
-     <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
-        <item quantity="other">Veľmi krátke oneskorenie (%1$d ms)</item>
-        <item quantity="one">Veľmi krátke oneskorenie (%1$d ms)</item>
-        <item quantity="few">Veľmi krátke oneskorenie (%1$d ms)</item>
-        <item quantity="many">Veľmi krátke oneskorenie (%1$d ms)</item>
-     </plurals>
      <plurals name="app_notification_listing_summary_others">
         <item quantity="other">Vypnuté pre %d aplikácií</item>
         <item quantity="one">Vypnuté pre %d aplikáciu</item>
         <item quantity="few">Vypnuté pre %d aplikácie</item>
         <item quantity="many">Vypnuté pre %d aplikácie</item>
-     </plurals>
-     <plurals name="data_saver_unrestricted_summary">
-        <item quantity="other">%1$d aplikácií má povolené používať neobmedzené dáta, keď je zapnutý šetrič dát</item>
-        <item quantity="one">1 aplikácia má povolené používať neobmedzené dáta, keď je zapnutý šetrič dát</item>
-        <item quantity="few">%1$d aplikácie majú povolené používať neobmedzené dáta, keď je zapnutý šetrič dát</item>
-        <item quantity="many">%1$d aplikácie má povolené používať neobmedzené dáta, keď je zapnutý šetrič dáta</item>
      </plurals>
      <plurals name="default_camera_app_title">
         <item quantity="other">Aplikácie na fotografovanie</item>
@@ -125,12 +89,6 @@
         <item quantity="one">Bola odstránená %d kategória</item>
         <item quantity="few">Boli odstránené %d kategórie</item>
         <item quantity="many">Bolo odstránenej %d kategórie</item>
-     </plurals>
-     <plurals name="dlg_remove_locales_title">
-        <item quantity="other">Odstrániť vybraté jazyky?</item>
-        <item quantity="one">Odstrániť vybratý jazyk?</item>
-        <item quantity="few">Odstrániť vybraté jazyky?</item>
-        <item quantity="many">Odstrániť vybraté jazyky?</item>
      </plurals>
      <plurals name="domain_urls_apps_summary_on">
         <item quantity="other">Podporované odkazy otvára %d aplikácií</item>
@@ -191,12 +149,6 @@
         <item quantity="one">1 obmedzenie</item>
         <item quantity="few">%1$d obmedzenia</item>
         <item quantity="many">%1$d obmedzenia</item>
-     </plurals>
-     <plurals name="notification_summary">
-        <item quantity="other">Vypnuté pre %d aplikácií</item>
-        <item quantity="one">Vypnuté pre 1 aplikáciu</item>
-        <item quantity="few">Vypnuté pre %d aplikácie</item>
-        <item quantity="many">Vypnuté pre %d aplikácie</item>
      </plurals>
      <plurals name="number_of_device_admins">
         <item quantity="other">%d aktívnych aplikácií</item>
@@ -267,12 +219,6 @@
         <item quantity="one">Overiť certifikát</item>
         <item quantity="few">Overiť certifikáty</item>
         <item quantity="many">Overiť certifikáty</item>
-     </plurals>
-     <plurals name="uri_permissions_text">
-        <item quantity="other">%d položiek</item>
-        <item quantity="one">1 položka</item>
-        <item quantity="few">%d položky</item>
-        <item quantity="many">%d položky</item>
      </plurals>
      <plurals name="wifi_saved_access_points_summary">
         <item quantity="other">%d sietí</item>
