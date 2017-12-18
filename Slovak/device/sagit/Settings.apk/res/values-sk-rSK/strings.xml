@@ -512,7 +512,6 @@ Zapojte kábel do pôvodného telefónu. Následne ho pripojte k novému telef�
      <string name="keywords_sounds">zvukový signál reproduktora</string>
      <string name="keywords_unification">pracovný profil, spravovaný profil, zjednotiť, zjednotenie, práca, profil</string>
      <string name="keywords_vr_listener">vr virtuálna realita prijímač stereo pomocné zariadenie</string>
-     <string name="link_speed">%1$d Mbps</string>
      <string name="locale_not_translated">Nemusí byť k dispozícii v niektorých aplikáciách</string>
      <string name="locale_remove_menu">Odstrániť</string>
      <string name="location_app_level_permissions">Povolenia na úrovni aplikácie</string>
@@ -580,7 +579,6 @@ Zapojte kábel do pôvodného telefónu. Následne ho pripojte k novému telef�
      <string name="network_scorer_picker_title">Poskytovateľ hodnotenia siete</string>
      <string name="nfc_disclaimer_content">NFC posiela dáta medzi týmto zariadením a ďalšími zariadeniami alebo cieľmi v okolí, ako sú platobné terminály, čítačky prístupových médií a interaktívne reklamy alebo značky.</string>
      <string name="nfc_disclaimer_title">Zapnutie NFC</string>
-     <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
      <string name="night_display_auto_mode_custom">Vlastný rozvrh</string>
      <string name="night_display_auto_mode_never">Nikdy</string>
      <string name="night_display_auto_mode_title">Zapínať automaticky</string>
@@ -699,8 +697,6 @@ Zapojte kábel do pôvodného telefónu. Následne ho pripojte k novému telef�
      <string name="picture_in_picture_on">Áno</string>
      <string name="picture_in_picture_title">Obraz v obraze</string>
      <string name="power_apps">Aplikácie</string>
-     <string name="power_charging">%1$s – %2$s</string>
-     <string name="power_charging_duration_short">%1$s – %2$s</string>
      <string name="power_discharging_duration_short">%1$s – zostávajúci čas: %2$s</string>
      <string name="power_last_full_charge_summary">pred ^1</string>
      <string name="power_remaining_charging_duration_only">Zostávajúci čas do úplného nabitia: %1$s</string>
@@ -843,7 +839,6 @@ Poznámka: Odtlačok prsta nie je možné použiť na odomknutie tohto zariadeni
      <string name="show_silently_summary">Bez zvukov, vibrovania alebo posunutia do zobrazenia na aktuálnej obrazovke</string>
      <string name="sim_lock_settings_summary_off">Vypnuté</string>
      <string name="sim_lock_settings_summary_on">Zamknuté</string>
-     <string name="sim_settings_summary">%1$s – %2$s</string>
      <string name="skip_anyway_button_label">Preskočiť</string>
      <string name="sound_dashboard_summary">Hlasitosť, vibrovanie, nerušiť</string>
      <string name="sound_settings_example_summary">Hlasitosť zvonenia: 80 %</string>
@@ -878,7 +873,6 @@ Poznámka: Odtlačok prsta nie je možné použiť na odomknutie tohto zariadeni
      <string name="suggestion_additional_fingerprints_summary">Odomknutie pomocou iného odtlačku</string>
      <string name="suggestion_remove">Odstrániť</string>
      <string name="suggestions_title">Návrhy</string>
-     <string name="summary_range_symbol_combination">%1$s – %2$s</string>
      <string name="support_account_picker_add_account">Pridať účet</string>
      <string name="support_account_request_prefix">Žiadosť sa odošle z účtu</string>
      <string name="support_country_format">%1$s – %2$s</string>
