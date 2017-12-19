@@ -167,4 +167,7 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="try_again">Dotykom skúste znova</string>
   <string name="device_corrupt">MiPhone (Poškodené dáta)</string>
   <string name="size_unknown">Neznáma veľkosť</string>
+  <string name="btn_retry">Skontrolovať</string>
+  <string name="provision_error_connect_msg">Skontrolujte nastavenie siete a skúste to znova.</string>
+  <string name="provision_error_connect_title">Nie je možné sa pripojiť</string>
 </resources>

@@ -144,5 +144,7 @@
     <string name="v_video_null">Žiadne videá</string>
     <string name="vp_app_name">Video prehrávač</string>
     <string name="vp_device_list">Zariadenia</string>
-    <string name="vp_device_list_seaching">&lt;Žiadne zariadenie na prehrávanie></string>
+    <string name="vp_device_list_seaching">Žiadne zariadenie na prehrávanie</string>
+  <string name="com_permission_desc">MiVideo nemôže otvoriť videá z vášho zariadenia. Povoľte prístup k úložisku pre aplikáciu MiVideo.</string>
+  <string name="com_permission_title">Vyžadujú sa povolenia</string>
 </resources>

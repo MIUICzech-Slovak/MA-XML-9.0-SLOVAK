@@ -490,4 +490,23 @@ Please release at least %s"</string>
   <string name="hide_password_description">Skryť heslo</string>
   <string name="succ_description">hotovo</string>
   <string name="view_password_description">Zobraziť heslo</string>
+  <string name="list_footer_tip_title">Tipy:</string>
+  <string name="trans_detail_app_apk_list_title">Nainštalované aplikácie</string>
+  <string name="trans_detail_app_apk_page_title">Vyberte aplikácie</string>
+  <string name="trans_detail_app_data_list_title">Dáta aplikácie</string>
+  <string name="trans_detail_app_data_page_title">Vyberte dáta aplikácie</string>
+  <string name="trans_detail_app_data_useless_tip">Tieto môžete obnoviť z aplikácie, nie je potrebný prenos.</string>
+  <string name="trans_detail_audio_video_doc_list_title">Audio, video, a súbory</string>
+  <string name="trans_detail_audio_video_doc_page_title">Vyberte audio, video, a súbory</string>
+  <string name="trans_detail_category_audio_video_doc">Audio, video, a súbory</string>
+  <string name="trans_detail_category_user_app_data">Dáta aplikácie</string>	
+  <string name="trans_detail_category_wechat_qq">WeChat and QQ data (including chat history)</string>
+  <string name="trans_detail_item_app_data_selected_tip">Vyberte aj príslušnú aplikáciu.</string>
+  <string name="trans_detail_item_app_data_too_large_tip">Položka je príliš veľká na prenos.</string>
+  <string name="trans_detail_list_footer">Poznámka: Môžete vybrať aplikácie na prenos postupne. Ak vyberiete dáta aplikácie, bude prenesená aj samotná aplikácia.</string>
+  <string name="trans_detail_page_tip">Čím viac položiek vyberiete, tým dlhšie bude trvať prenos.</string>
+  <string name="trans_detail_sys_data_list_title">Systémové aplikácie</string>
+  <string name="trans_detail_sys_data_page_title">Vyberte systémové aplikácie</string>
+  <string name="trans_pausing">Pozastavené...</string>
+  <string name="trans_select_data_too_large">Dáta sú príliš veľké, prenos bude trvať dlhšie. Odporúča sa vybrať len dáta aplikácií ktoré sú dôležité.</string>
 </resources>

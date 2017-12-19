@@ -507,4 +507,5 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="passport_get_innetdate_agree">Skontrolovať</string>
   <string name="passport_get_innetdate_disagree">Nie</string>
   <string name="sim_changed_notification_title">Zmenili ste telefónné čislo?</string>
+  <string name="passport_confirm_login">Pokračovať</string>
 </resources>
