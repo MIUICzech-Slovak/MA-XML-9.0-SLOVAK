@@ -5055,4 +5055,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="unlock_disable_frp_warning_content_profile">"Ochrana funkcií vášho profilu nebude fungovať bez hesla.
  Nebude možné odomknúť váš profil alebo sa prihlásiť do aplikácií."</string>
   <string name="unlock_set_unlock_password_none">Žiadne</string>
+  <string name="back_button">Späť</string>	
 </resources>
