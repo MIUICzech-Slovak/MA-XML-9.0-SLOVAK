@@ -1246,7 +1246,7 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže poškodiť váš sluch."</st
     <string name="unsupported_display_size_show">Vždy zobrazovať</string>
     <string name="upload_file">Zvoliť súbor</string>
     <string name="usb_accessory_notification_title">Pripojené k periférnemu zariadeniu USB</string>
-    <string name="usb_charging_notification_title">Prebieha nabíjanie tohto zariadenia pomocou USB</string>
+    <string name="usb_charging_notification_title">Nabíjanie cez USB</string>
     <string name="usb_midi_notification_title">USB na pripojenie zariadenia MIDI</string>
     <string name="usb_midi_peripheral_name">Port USB pre periférne zariadenia s Androidom</string>
     <string name="usb_midi_peripheral_product_name">Port USB pre periférne zariadenia</string>
@@ -1255,7 +1255,7 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže poškodiť váš sluch."</st
     <string name="usb_mtp_notification_title">USB na prenos súborov</string>
     <string name="usb_notification_message">Klepnutím zobrazíte ďalšie možnosti.</string>
     <string name="usb_ptp_notification_title">USB na prenos fotiek</string>
-    <string name="usb_supplying_notification_title">Prebieha nabíjanie pripojeného zariadenia pomocou USB</string>
+    <string name="usb_supplying_notification_title">Nabíjanie cez USB</string>
     <string name="use_a_different_app">Použiť inú aplikáciu</string>
     <string name="user_creation_account_exists">Povoliť aplikácii %1$s vytvoriť nového používateľa pomocou účtu %2$s?</string>
     <string name="user_creation_adding">Povoliť aplikácii %1$s vytvoriť nového používateľa pomocou účtu %2$s (používateľ s týmto účtom už existuje)?</string>
