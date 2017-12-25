@@ -509,4 +509,20 @@ Please release at least %s"</string>
   <string name="trans_detail_sys_data_page_title">Vyberte systémové aplikácie</string>
   <string name="trans_pausing">Pozastavené...</string>
   <string name="trans_select_data_too_large">Dáta sú príliš veľké, prenos bude trvať dlhšie. Odporúča sa vybrať len dáta aplikácií ktoré sú dôležité.</string>
+  <string name="alert_button_agree_and_continue">Povoliť</string>
+  <string name="alert_button_deny">Odmietnuť</string>
+  <string name="alert_message_backup_to_miasist">MiPC Suite vyžaduje povolenie pre vytvorenie zálohy na PC. Povoliť?</string>
+  <string name="alert_message_restore_from_miasist">MiPC Suite vyžaduje povolenie pre obnovenie položiek vo vašom telefóne. Povoliť?</string>
+  <string name="alert_miasist_occupy_backup">Zálohovanie položiek cez MiPC Suite… Počkajte kým sa dokončí záloha a skúste to znova.</string>
+  <string name="alert_miasist_occupy_restore">Obnovovanie položiek cez MiPC Suite… Počkajte kým sa dokončí obnova a skúste to znova.</string>
+  <string name="alert_phone_occupy_backup">Momentálne nie je možné použiť MiPC Suite. Dokončite obnovenie alebo zálohovanie a skúste to znova.</string>
+  <string name="alert_second_space_not_support_miasist">Nie je možné použiť MiPC Suite v Druhom profile.</string>
+  <string name="alert_title_backup_to_miasist">Zálohovať položky cez MiPC Suite?</string>
+  <string name="alert_title_restore_from_miasist">Obnoviť položky vo vašom zariadení?</string>  
+  <string name="notif_calculating_app">Vypočítavanie %1$s (%2$s)…</string>
+  <string name="notif_connect_miasist">Pripojené k MiPC Suite</string>
+  <string name="notif_disconnect_miasist">Nie je pripojené k MiPC Suite</string>
+  <string name="notif_parse_select_descript_error">Nebolo možné synchronizovať zoznam zálohovaných položiek.</string>
+  <string name="notif_receiving_transingsd">Prijímanie %1$s (%2$s)…</string>
+  <string name="notif_sending_transingsd">Odosielanie %1$s (%2$s)…</string>
 </resources>
