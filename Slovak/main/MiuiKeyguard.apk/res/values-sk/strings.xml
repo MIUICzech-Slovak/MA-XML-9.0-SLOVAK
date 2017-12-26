@@ -178,4 +178,10 @@
   <string name="lock_screen_no_sim_card">Žiadna SIM karta</string>
   <string name="do_disclosure_generic">Toto zariadenie je spravované vašou organizáciou</string>
   <string name="do_disclosure_with_name">Toto zariadenie je spravované %s</string>  
+  <string name="face_data_input_ok_msg_angle">"Odomknite vaše zariadenie tvárou keď je displej zapnutý.
+(Nastavte vašu tvár z rôzných uhlkov.)​"</string>
+  <string name="face_data_siggesstion_next">Ďalej</string>
+  <string name="face_data_siggesstion_next_time">Ďalej (%ds)</string>
+  <string name="face_unlock_reenter_content">Algoritmus odomknutia tvárou bol aktualizovaný. Nastavte vašu tvár znova.</string>
+  <string name="face_unlock_reenter_title">Nastavte vašu tvár znova.</string>
 </resources>

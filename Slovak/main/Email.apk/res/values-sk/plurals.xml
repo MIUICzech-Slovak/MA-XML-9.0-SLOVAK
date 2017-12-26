@@ -168,4 +168,36 @@
         <item quantity="other">+%1$d ľudí</item>
         <item quantity="one">+%1$d človek</item>
     </plurals>
+    <plurals name="actionbar_large_unread_count">
+        <item quantity="other">%1$d+ neprečítaných</item>
+        <item quantity="one">%1$d+ neprečítaná</item>
+    </plurals>
+    <plurals name="hide_atts_remaining">
+        <item quantity="other">Skryť %1$d príloh</item>
+        <item quantity="one">Skryť %1$d prílohu</item>
+    </plurals>
+    <plurals name="local_search_result">
+        <item quantity="other">%s v synchr. správach</item>
+        <item quantity="one">%s v synchr. správach</item>
+    </plurals>
+    <plurals name="more_atts_remaining">
+        <item quantity="other">%1$d ostáva</item>
+        <item quantity="one">%1$d ostáva</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d nových správ</item>
+        <item quantity="one">%1$d nová správa</item>
+    </plurals>
+    <plurals name="quick_reply_hint">
+        <item quantity="other">Odpovedať %1$d ľuďom</item>
+        <item quantity="one">Odpovedať %1$d človeku</item>
+    </plurals>
+    <plurals name="remote_search_result">
+        <item quantity="other">%s na serveri</item>
+        <item quantity="one">%s na serveri</item>
+    </plurals>
+    <plurals name="unsent_messages_in_outbox">
+        <item quantity="other">%1$s neodoslaných v %2$s</item>
+        <item quantity="one">%1$s neodoslaná v %2$s</item>
+    </plurals>	
 </resources>

@@ -5074,4 +5074,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="navigation_type_radio_text_full_screen">Gestá celého displeja</string>
   <string name="navigation_type_radio_text_virtual_key">Klasické navigačné tlačidlá</string>
   <string name="navigation_type_settings">Navigácia v systéme</string>
+  <string name="open_demo_mode">Povoliť</string>
+  <string name="open_demo_mode_warning_message">Ak je povolený Režim ukážky, čas v lište sa zastaví a ukazovatele batérie a signálu budú zobrazovať plný stav.</string>
+  <string name="close_demo_mode">Zrušiť</string>
 </resources>

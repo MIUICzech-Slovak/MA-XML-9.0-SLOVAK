@@ -923,4 +923,7 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="show_password">Zobraziť heslo</string>
   <string name="system_root_path">Nastavenia interného úložiska</string>
   <string name="toast_bar_send_fail_remind">Nie je možné odoslať správu. Uložené do zložky \"Odchádzajúce\".</string>
+  <string name="auto_login_fail">Automatické prihlásenie zlyhalo</string>
+  <string name="auto_login_fail_to_retry">Automatické prihlásenie zlyhalo, skúste to znova.</string>
+  <string name="retry_login">Prihláste sa znova</string>
 </resources>

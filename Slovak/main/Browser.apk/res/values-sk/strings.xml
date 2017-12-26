@@ -962,4 +962,10 @@ Chcete opustiť túto web stránku?"</string>
   <string name="action_menu_user_center">Užívateľské centrum</string>
   <string name="action_modify_bookmark">Upraviť záložku</string>
   <string name="action_put_in_search_box">Vložiť %s do vyhľadávania</string>
+  <string name="open_cloud_sync">Povoliť synchr. s cloudom</string>
+  <string name="open_cloud_sync_desc">Záložka je pridaná. Povoľte synchr. s cloudom a pridané záložky budú synchr. so všetkými zariadeniami s vašim Mi účtom. Povoliť teraz?</string>
+  <string name="sign_and_open">Povoliť</string>
+  <string name="sync_and_backup_bookmark">Synchr. a zálohovať záložky</string>
+  <string name="sync_and_backup_history">Synchr. a zálohovať históriu</string>
+  <string name="temp_refuse">Odmietnuť</string>
 </resources>
