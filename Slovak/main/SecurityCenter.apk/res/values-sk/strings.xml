@@ -2710,5 +2710,20 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="gb_description_image_button_video_answer">Video hovor</string>
   <string name="gs_autobooster">Automaticky zrýchliť</string>
   <string name="gs_autobooster_detail">Zrýchliť pre vybrané aplikácie</string>
-  <string name="gs_autobooster_dialog_message">"If you're using Xunyou speed boost, open games on the designated page."</string>
+  <string name="app_bg_restrict_dialog_message">Zakázanie prístupu k dátam na pozadí môže spôsobiť nefunkčnosť synchronizácie aplikácie alebo jej upozornení. Chcete aj napriek tomu zakázať dáta na pozadí?</string>
+  <string name="app_manager_open_show_all_apps_immediate">Zobraziť všetko</string>
+  <string name="app_manager_search_prompt">Nič ste nenašli? Skúste zobraziť všetky aplikácie.</string>
+  <string name="app_manager_show_all_apps_opened">Zobrazenie všetkých aplikácií...</string>
+  <string name="back_sound_data">Vyžadujú sa mobilné dáta, skúste to znova!</string>
+  <string name="back_sound_fail">Zlyhalo！</string>
+  <string name="back_sound_success">Hotovo!</string>
+  <string name="back_sound_support">Váš súčasný operátor to nepodporuje！</string>
+  <string name="bg_network_exception_title">Obmedzené pripojenie na pozadí</string>
+  <string name="dlg_add_white">Nové hovory a SMS z čísel vo výnimkách budú zobrazené v histórií hovorov a zozname SMS. Pridať vybrané čísla do výnimiek?"</string>
+  <string name="dlg_move_to_white">Pridať do výnimiek</string>
+  <string name="dlg_not_block_call">Odblokovať vybrané čísla? Budú pridané do výnimiek.</string>
+  <string name="dlg_not_block_sms">Odblokovať vybrané čísla? Budú pridané do výnimiek.</string>
+  <string name="gmscore_support_remind">Povoľte túto funkciu v prípade, že pozorujete problémy so synchronizáciou Gmail, Google Maps, a ostatných Google aplikácií.</string>
+  <string name="gmscore_support_service">Google Služby</string>
+  <string name="pref_bg_network_title">Pripojenie na pozadí</string>
 </resources>

@@ -398,4 +398,16 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%d upozornení je viditeľných</item>
         <item quantity="one">%d upozornenie je viditeľné</item>
     </plurals>
+    <plurals name="network_restrict_count">
+        <item quantity="other">Prístup k sieti je zakázaný pre %d aplikácií</item>
+        <item quantity="one">Prístup k sieti je zakázaný pre %d aplikáciu</item>
+    </plurals>	
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d aplikácií sa môže pripojiť k sieti na pozadí</item>
+        <item quantity="one">%d aplikácia sa môže pripojiť k sieti na pozadí</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d aplikácií sa nemôže pripojiť k sieti na pozadí</item>
+        <item quantity="one">%d aplikácia sa môže pripojiť k sieti na pozadí</item>
+    </plurals>	
 </resources>

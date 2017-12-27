@@ -5077,4 +5077,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="open_demo_mode">Povoliť</string>
   <string name="open_demo_mode_warning_message">Ak je povolený Režim ukážky, čas v lište sa zastaví a ukazovatele batérie a signálu budú zobrazovať plný stav.</string>
   <string name="close_demo_mode">Zrušiť</string>
+  <string name="mute_music_stream">Stíšiť streamovanie hudby</string>
 </resources>

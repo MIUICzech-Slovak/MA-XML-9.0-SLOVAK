@@ -494,4 +494,20 @@
   <string name="email_install_hint">Aplikácia Email bola odinštalovaná. Nainštalujte ju znova pre obnovenie dát kelendára a vašich účtov.</string>
   <string name="action_bar_return">Naspäť</string>
   <string name="date_calculate_direction_content_description">Smer prepočítavania, momentálne je %1s</string>
+  <string name="miuishare_account_activate_confirmation">Vyžaduje sa aktivácia</string>
+  <string name="miuishare_account_activate_ok">Aktivovať</string>
+  <string name="miuishare_account_login_cancel">Zrušiť</string>
+  <string name="miuishare_account_login_confirmation">Je nutné sa prihlásiť</string>
+  <string name="miuishare_account_login_ok">Prihlásiť</string>
+  <string name="miuishare_account_need_activate">Weibo share requires your Weibo account is binded to Mi account, which is not activited currently. Activate your account?</string>
+  <string name="miuishare_account_need_login">Weibo share requires your Weibo account is binded to Mi account, which is signed in currently. Sign in to share now?</string>
+  <string name="miuishare_app_name">MiuiShare</string>
+  <string name="miuishare_no_network">Sieť pre zdieľanie je nedostupná</string>
+  <string name="miuishare_publish">Odoslať</string>
+  <string name="miuishare_share_done">Zdieľaný obsah je odoslaný.</string>
+  <string name="miuishare_share_editor_title">Zdieľať</string>
+  <string name="miuishare_title_more">Viac</string>
+  <string name="miuishare_title_share">Zdieľať</string>
+  <string name="miuishare_wechat_timeline_title">Wechat</string>
+  <string name="miuishare_weibo_title">Weibo</string>  
 </resources>
