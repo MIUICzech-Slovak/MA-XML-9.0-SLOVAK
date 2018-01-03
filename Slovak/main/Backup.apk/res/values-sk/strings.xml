@@ -449,7 +449,7 @@ you need to upload data in old devices to iCloud"</string>
   <string name="notif_trans_auto_reconnecting_title">Connection was interrupted. Reconnecting automatically…</string>
   <string name="password">password</string>
   <string name="password_null">Password cannot be empty</string>
-  <string name="pause">Pause</string>
+  <string name="pause">Pozastaviť</string>
   <string name="platform_chooser_item_android">Import from Android</string>
   <string name="platform_chooser_item_ios">Import from Apple device</string>
   <string name="platform_chooser_title">Choose old device</string>
@@ -478,8 +478,8 @@ Please release at least %s"</string>
   <string name="trans_intro_desc_7">Some app profiles (e-banking, finance, etc.) are associated with specific device due to security reasons. Try clearing the app data or re-installing the app on a new device.</string>
   <string name="trans_intro_desc_8">"WeChat app data and chat history might not be fully transferred using Mi Mover. Go to WeChat's settings and sign out of your account to get more chances for a successful transfer."</string>
   <string name="trans_intro_question_9">"9. Which items can't be transferred?"</string>
-  <string name="trans_wlan_tips_message">"Please don't turn off or switch WLAN while transfering data. Otherwise the mover may fail."</string>
-  <string name="trans_wlan_tips_title">"Please don't turn off or switch WLAN"</string>
+  <string name="trans_wlan_tips_message">Nevypínajte Wi-Fi počas prenosu zálohovaných dát.</string>
+  <string name="trans_wlan_tips_title">Nevypínajte Wi-Fi</string>
   <string name="user_name">Apple ID or email</string>
   <string name="user_name_null">User name cannot be empty</string>
   <string name="error_permissions">Nie je povolený prístup ku Kalendáru, skontrolujte povolenia v nastaveniach.</string>

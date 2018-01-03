@@ -170,4 +170,5 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="btn_retry">Skontrolovať</string>
   <string name="provision_error_connect_msg">Skontrolujte nastavenie siete a skúste to znova.</string>
   <string name="provision_error_connect_title">Nie je možné sa pripojiť</string>
+  <string name="cloud_backup_derail_size_summary">Veľkosť: %s</string>
 </resources>

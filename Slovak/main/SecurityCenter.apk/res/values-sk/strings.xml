@@ -232,7 +232,7 @@ alebo zadajte heslo"</string>
   <string name="app_manager_dlg_cancel">Zrušiť</string>
   <string name="app_manager_dlg_ok">OK</string>
   <string name="app_manager_factory_reset">Odinštalovať aktualizácie</string>
-  <string name="app_manager_factory_reset_dlg_msg">Všetky aktualizácie tejto systímovej aplikácie budú odinštalované.</string>
+  <string name="app_manager_factory_reset_dlg_msg">Všetky aktualizácie tejto systémovej aplikácie budú odinštalované.</string>
   <string name="app_manager_factory_reset_dlg_title">Odinštalovať aktualizácie?</string>
   <string name="app_manager_force_stop_dlg_text">Ak vynútite ukončenie aplikácie, môže sa správať nesprávne.</string>
   <string name="app_manager_force_stop_dlg_title">Vynútiť ukončenie?</string>
