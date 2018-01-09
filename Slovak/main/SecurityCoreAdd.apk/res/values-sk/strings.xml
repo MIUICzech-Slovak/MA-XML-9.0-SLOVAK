@@ -324,4 +324,7 @@ Ak neaktualizujete, aplikácie v Druhom profile nemusia fungovať správne."</st
   <string name="xspace_default_app_title">Predvolená aplikácia</string>
   <string name="xspace_default_setting_dialog_title">Predvolená</string>
   <string name="xspace_default_setting_label">Predvolená aplikácia</string>
+  <string name="xspace_default_guide_notification_content">Dotykom zmeníte</string>
+  <string name="xspace_default_guide_notification_main_title">Použiť predvolenú apl.</string>
+  <string name="xspace_default_guide_notification_xspace_title">Použiť klonovanú apl.</string>
 </resources>

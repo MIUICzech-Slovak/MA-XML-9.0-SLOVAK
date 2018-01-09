@@ -1219,4 +1219,7 @@
   <string name="remove_from_favorites_failed">Nebolo možné odobrať z obľúbených</string>
   <string name="removing_from_favorites">Odoberanie z obľúbených...</string>
   <string name="searching_cast_devices">Vyhľadávanie projektora...</string>
+  <string name="add_to_album_failed_with_reason">Nie je možné pridať do albumu. %1$s.</string>
+  <string name="loading_processing_tip">Spracovávanie...</string>
+  <string name="operate_processing_file_error">Počkajte kým sa spracujú všetky fotografie.</string>
 </resources>

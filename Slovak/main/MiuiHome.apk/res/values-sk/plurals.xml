@@ -45,4 +45,8 @@
         <item quantity="other">Vymazať %1$d tapiet?</item>
         <item quantity="one">Vymazať %1$d tapetu?</item>
     </plurals>	
+    <plurals name="announce_for_drag">
+        <item quantity="other">presúvanie %1$d položiek</item>
+        <item quantity="one">presúvanie</item>
+    </plurals>
 </resources>

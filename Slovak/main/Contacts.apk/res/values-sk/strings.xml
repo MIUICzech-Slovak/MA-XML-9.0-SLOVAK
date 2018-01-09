@@ -1301,4 +1301,13 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="contacts_unavailable_import_from_old_device">Importovať z iného zariadenia</string>
   <string name="contacts_unavailable_import_sim_contacts">Importovať SIM kontakty</string>
   <string name="import_sim_contacts_hint_title">Importovať SIM kontakty</string>
+  <string name="dialer_firewall_entry_name">Záznam blokovaných hovorov</string>
+  <string name="description_quick_dial_button">Rýchla voľba</string>
+  <string name="quick_dial_setting_delete_dialog_message">Vymazať rýchlu voľbu?</string>
+  <string name="quick_dial_setting_delete_dialog_option_delete">Vymazať</string>
+  <string name="quick_dial_setting_hint">Stlačte tlačidlo pre pridanie rýchlej voľby. Stlačte a podržte tlačidlo s priradenou rýchlou voľbou.</string>
+  <string name="quick_dial_setting_set_dialog_message">Pridať rýchlu voľbu pre toto tlačidlo?</string>
+  <string name="quick_dial_setting_set_dialog_option_set">Áno</string>
+  <string name="quick_dial_setting_title">Rýchla voľba</string>
+  <string name="search_quick_dial_setting">Kontakty</string>
 </resources>
