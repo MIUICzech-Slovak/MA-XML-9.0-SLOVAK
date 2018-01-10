@@ -472,4 +472,8 @@
   <string name="cd_settings">nasatvenia</string>
   <string name="cd_sort_type">triediť podľa</string>  
   <string name="qq_clean_finish_summary">Vybrané súbory boli vymazané</string>
+  <string name="auto_clean_time_every_day">Každý deň</string>
+  <string name="auto_clean_time_fifteen_day">Každých 15 dní</string>
+  <string name="auto_clean_time_seven_day">Každých 7 dní</string>
+  <string name="auto_clean_time_three_day">Každé 3 dni</string>
 </resources>

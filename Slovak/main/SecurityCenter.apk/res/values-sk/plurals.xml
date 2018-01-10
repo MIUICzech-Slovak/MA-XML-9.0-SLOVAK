@@ -410,4 +410,8 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%d aplikácií sa nemôže pripojiť k sieti na pozadí</item>
         <item quantity="one">%d aplikácia sa môže pripojiť k sieti na pozadí</item>
     </plurals>	
+    <plurals name="fw_blocked_count_call_one">
+        <item quantity="other">%1$d hovorov od %2$s a ostatných</item>
+        <item quantity="one">%1$d hovor od %2$s</item>
+    </plurals>
 </resources>
