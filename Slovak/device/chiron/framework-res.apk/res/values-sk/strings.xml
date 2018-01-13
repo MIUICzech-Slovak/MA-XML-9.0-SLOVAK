@@ -95,7 +95,7 @@
     <string name="aerr_wait">Čakať</string>
     <string name="alert_windows_notification_channel_group_name">Zobrazenie cez iné aplikácie</string>
     <string name="alert_windows_notification_channel_name">%s sa zobrazuje cez iné aplikácie</string>
-    <string name="alert_windows_notification_message">Ak nechcete, aby aplikácia %s používala túto funkciu, klepnutím otvorte nastavenia a vypnite ju.</string>
+    <string name="alert_windows_notification_message">Môžete jej to zakázať v nastaveniach</string>
     <string name="alert_windows_notification_title">%s sa zobrazuje cez iné aplikácie</string>
     <string name="alert_windows_notification_turn_off_action">VYPNÚŤ</string>
     <string name="allow">Povoliť</string>
@@ -384,8 +384,8 @@ V prípade otázok kontaktujte správcu organizácie."</string>
     <string name="floating_toolbar_close_overflow_description">Zatvoriť rozbaľovaciu ponuku</string>
     <string name="floating_toolbar_open_overflow_description">Ďalšie možnosti</string>
     <string name="foreground_service_app_in_background">Aplikácia %1$s je spustená na pozadí</string>
-    <string name="foreground_service_apps_in_background">Niekoľko aplikácií (%1$d) je spustených na pozadí</string>
-    <string name="foreground_service_tap_for_details">Klepnutím zobrazíte podrobnosti o batérii a spotrebe dát</string>
+    <string name="foreground_service_apps_in_background">Aplikácie (%1$d) sú spustené na pozadí</string>
+    <string name="foreground_service_tap_for_details">Zobraziť podrobnosti o aplikácií</string>
     <string name="forward_intent_to_owner">Túto aplikáciu používate mimo svojho pracovného profilu</string>
     <string name="forward_intent_to_work">Túto aplikáciu používate vo svojom pracovnom profile</string>
     <string name="gadget_host_error_inflating">Miniaplikáciu sa nepodarilo pridať.</string>
