@@ -319,7 +319,7 @@
   <string name="resource_title_rank">Najlepšie</string>
   <string name="resource_title_select_ringtone">Zvoliť zvonenie</string>
   <string name="resource_title_subject">Populárne</string>
-  <string name="resource_trial_end_message">Skúšobná verzia %1$s vypršala. Ak sa Vám páči, môžete si ju zakúpiť.</string>
+  <string name="resource_trial_end_message">Skúšobná verzia %1$s vypršala. Ak sa vám páči, môžete si ju zakúpiť.</string>
   <string name="resource_trial_end_purchase">Zakúpiť</string>
   <string name="resource_trial_end_restore">Ukončiť skúšku</string>
   <string name="resource_trial_end_title">Skúška vypršala</string>
@@ -329,7 +329,7 @@
   <string name="resource_trial_fail_title">Nebolo možné spustiť skúšobnú dobu</string>
   <string name="resource_trial_time">（skúška na %1$d minút）</string>
   <string name="resource_unable_to_access">"Prepáčte 
-ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
+ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
   <string name="resource_unknow_error">Neznáma chyba.</string>
   <string name="resource_update">Aktualizovať</string>
   <string name="resource_user_know">OK</string>

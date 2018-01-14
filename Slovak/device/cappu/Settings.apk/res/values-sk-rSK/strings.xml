@@ -9,7 +9,7 @@
   <string name="about_settings">Informácie o zariadení</string>
   <string name="about_settings_summary">Zobrazuje právne informácie, stav a verziu softvéru</string>
   <string name="ac_enable_title">Kontrola prístupu</string>
-  <string name="ac_privacy_mode_sum">Pre deaktivovanie súkromného režimu vložte Vaše prístupové heslo</string>
+  <string name="ac_privacy_mode_sum">Pre deaktivovanie súkromného režimu vložte vaše prístupové heslo</string>
   <string name="ac_privacy_mode_title">Chrániť režim súkromia</string>
   <string name="ac_set_apps_title">Chránené aplikácie</string>
   <string name="accelerometer_summary_off">Pri otáčaní zariadenia automaticky prepínať orientáciu</string>
@@ -913,7 +913,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto zariadenia."</string>
   <string name="device_miui_version">MIUI</string>
   <string name="device_name">Názov zariadenia</string>
   <string name="device_name_input_error">Ukladanie názvu zariadenia zlyhalo, zadajte ho znova.</string>
-  <string name="device_name_input_hint">Zadajte názov Vášho zariadenia</string>
+  <string name="device_name_input_hint">Zadajte názov vášho zariadenia</string>
   <string name="device_name_usage_point">Tento názov sa zobrazí na ostatných Bluetooth zariadeniach vo Vašom okolí</string>
   <string name="device_picker">Výber zariadenia Bluetooth</string>
   <string name="device_sd_memory">SD karta</string>
@@ -1105,14 +1105,14 @@ Pri niektorých aplikáciách platí, že budú fungovať až vtedy, keď ich v�
   <string name="error_title"/>
   <string name="every_day">Každý deň</string>
   <string name="examination_score_100">Všetko vyzerá byť v poriadku!</string>
-  <string name="examination_score_60_0">Mali by ste optimalizovať Vaše zariadenie</string>
+  <string name="examination_score_60_0">Mali by ste optimalizovať vaše zariadenie</string>
   <string name="examination_score_80_100">Niektoré položky môžu byť optimalizované</string>
   <string name="examination_score_80_60">Niektoré položky môžu byť optimalizované</string>
   <string name="examination_score_has_virus">Boli zistené niektoré podozrivé aplikácie</string>
   <string name="exchange_account">Účet Exchange</string>
   <string name="external_code_size_label">Aplikácia ukladací priestor USB</string>
   <string name="external_data_size_label">Údaje ukladacieho priestoru USB</string>
-  <string name="factory_reset_summary">"Vymazať všetky Vaše dáta z interného úložiska"</string>
+  <string name="factory_reset_summary">"Vymazať všetky vaše dáta z interného úložiska"</string>
   <string name="fail">Zlyhalo</string>
   <string name="failed_to_open_app_settings_toast">Nastavenia aplikácie %1$s sa nepodarilo otvoriť</string>
   <string name="fcc_equipment_id">ID zariadenia</string>
@@ -1835,7 +1835,7 @@ a spustite ho."</string>
   <string name="no_services">Neaktívne</string>
   <string name="no_update_found">"Najnovšia verzia "</string>
   <string name="no_updates_found">"Už máte nainštalovanú najnovšiu verziu MIUI."</string>
-  <string name="no_updates_warning">Žiadne nové aktualizácie pre Vaše zariadenie neboli nájdené.</string>
+  <string name="no_updates_warning">Žiadne nové aktualizácie pre vaše zariadenie neboli nájdené.</string>
   <string name="no_updates_warning2">"Pokoj! upozorníme Vás ak bude dostupná nová aktualizácia."</string>
   <string name="noise_suppression">Potlačenie okolitého hluku</string>
   <string name="normal_date_format">Miestne nastavenie (%s)</string>
@@ -2023,7 +2023,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="power_mode_screen_brightness">Jas</string>
   <string name="power_mode_screen_brightness_automatic">Automatický: %1$d%%</string>
   <string name="power_mode_screen_brightness_manual">Manuálny: %1$d%%</string>
-  <string name="power_mode_select_desc">Zvoľte režim ktorý Vám najviac vyhovuje</string>
+  <string name="power_mode_select_desc">Zvoľte režim ktorý vám najviac vyhovuje</string>
   <string name="power_mode_select_title">Režim výkonu</string>
   <string name="power_mode_sleep">Spánok</string>
   <string name="power_mode_sleep_in_minutes">po %1$d minút nečinnosti</string>
@@ -3141,7 +3141,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
   <string name="wallpaper_settings_title">Tapeta</string>
   <string name="welcome">Vitajte</string>
   <string name="wfd_available_devices">Dostupné zariadenia</string>
-  <string name="wfd_disconnect_diag_msg">Ak prerušíte pripojenie Wi-Fi, Vaše spojenie s %1$s sa ukončí.</string>
+  <string name="wfd_disconnect_diag_msg">Ak prerušíte pripojenie Wi-Fi, vaše spojenie s %1$s sa ukončí.</string>
   <string name="wfd_disconnect_diag_title">Prerušiť pripojenie Wi-Fi?</string>
   <string name="wfd_disconnect_multiple_diag_message">Ak prerušíte Wi-Fi Displej, Vaše spojenie s %1$s a %2$s ostatnými zariadeniami sa ukončí.</string>
   <string name="wfd_enable_wifi_diag_title">Môžete používať Wi-Fi displej len ak je Wi-Fi zapnuté. Chcete zapnúť Wi-Fi?</string>
@@ -3468,7 +3468,7 @@ Nastavenie zariadenia môže vyžadovať prenos významného množstva dát."</s
   <string name="wizard_finish">Dokončiť</string>
   <string name="wizard_next">Ďalej</string>
   <string name="wps_category">Zabezpečenie WPS</string>
-  <string name="wps_connect_summary">Uistite sa, že Váš router podporuje WPS</string>
+  <string name="wps_connect_summary">Uistite sa, že váš router podporuje WPS</string>
   <string name="wps_connect_title">Pripojiť pomocou WPS</string>
   <string name="wrong_pin_code_pukked">Nesprávny kód PIN karty SIM. Teraz musíte kontaktovať svojho operátora, aby vám odomkol zariadenie.</string>
   <string name="xiaomi_account">Mi účet</string>

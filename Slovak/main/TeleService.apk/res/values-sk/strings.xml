@@ -228,7 +228,7 @@
   <string name="cdma_activate_device">Aktivované zariadenie</string>
   <string name="cdma_alert_message">"If you select another card as your default for mobile data, you won't be able to use your China Telecom UIM card."</string>
   <string name="cdma_alert_title">Karta UIM musí byť ako predvolená</string>
-  <string name="cdma_display_precise_call_state_message">Ak to Váš operátor nepodporuje, the call state will be incorrect when this switch is opened. Are you sure you want to open it?</string>
+  <string name="cdma_display_precise_call_state_message">Ak to váš operátor nepodporuje, the call state will be incorrect when this switch is opened. Are you sure you want to open it?</string>
   <string name="cdma_display_precise_call_state_summary">CDMA call timer is restricted by the network operator. If the local operator supports, call state can be shown precisely.</string>
   <string name="cdma_display_precise_call_state_title">Display precise call state</string>
   <string name="cdma_lte_data_service">Set up data service</string>

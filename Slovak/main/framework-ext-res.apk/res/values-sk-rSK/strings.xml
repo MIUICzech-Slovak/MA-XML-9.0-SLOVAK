@@ -81,7 +81,7 @@
   <string name="paste">Vložiť</string>
   <string name="perm_send_push_dspt">Povoliť MiPush správy</string>
   <string name="perm_send_push_lab">Odoslať push správu</string>
-  <string name="reboot_confirm_title">Chcete reštartovať Váš telefón?</string>
+  <string name="reboot_confirm_title">Chcete reštartovať váš telefón?</string>
   <string name="reboot_info_auto_boot">Vaše zariadenie sa zapne o %s ako ste to naplánovali</string>
   <string name="reboot_info_shutdown_alarm">Vaše zariadenie zapne budík o %s</string>
   <string name="reboot_progress">Reštartuje sa...</string>
@@ -107,7 +107,7 @@
   <string name="set_password_action">Nastaviť heslo</string>
   <string name="set_password_message">Nastaviť nové heslo?</string>
   <string name="set_password_title">Nastaviť heslo</string>
-  <string name="shutdown_confirm_title">Chcete vypnúť Váš telefón?</string>
+  <string name="shutdown_confirm_title">Chcete vypnúť váš telefón?</string>
   <string name="shutdown_progress">Vypínanie...</string>
   <string name="silence_mode">Režim Nerušiť</string>
   <string name="sim_added_reboot_confirm">Reštart</string>

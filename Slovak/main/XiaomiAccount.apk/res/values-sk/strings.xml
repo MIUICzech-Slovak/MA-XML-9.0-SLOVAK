@@ -80,7 +80,7 @@
   <string name="bind_settings">Účty</string>
   <string name="bind_sina_weibo">Autorizovať Sina Weibo</string>
   <string name="bind_sns_description">Prihlásiť sa s %s.</string>
-  <string name="bind_weibo_description">Nájsť kontakty, priateľov a ostatné informácie priamo z Vášho účtu</string>
+  <string name="bind_weibo_description">Nájsť kontakty, priateľov a ostatné informácie priamo z vášho účtu</string>
   <string name="binded">Pripojené</string>
   <string name="binded_description" formatted="false">"%s pridaný. 
  Vyplňte svoj profil %s."</string>
@@ -476,7 +476,7 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
  · Ak nemôžete odomknúť vaše zariadenie, choďte na i.mi.com a deaktivujte Vyhľadávanie zariadenia.
  · Toto číslo napíšte našej zákazníckej podpore: %s"</string>
   <string name="update_contacts">Aktualizovať kontakty</string>
-  <string name="update_contacts_description">Aktualizovať Vaše kontakty a ostatné informácie</string>
+  <string name="update_contacts_description">Aktualizovať vaše kontakty a ostatné informácie</string>
   <string name="update_email_address_dialog_message">Musíte overiť vašu identitu predtým ako zmeníte váš email.</string>
   <string name="update_email_address_dialog_title">Zmeniť email</string>
   <string name="update_phone_number_notice_message">Musíte overiť vašu identitu predtým ako zmeníte telefónne čislo.</string>

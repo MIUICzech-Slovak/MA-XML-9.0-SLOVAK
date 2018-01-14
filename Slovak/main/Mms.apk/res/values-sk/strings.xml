@@ -199,7 +199,7 @@
   <string name="force_touch_new_message_title">Nová správa</string>
   <string name="forward_from">"Preposlané od: "</string>
   <string name="forward_prefix">"Fwd: "</string>
-  <string name="found_old_messages">Celkovo z: %1$s bolo nájdených zo starých účtov. Prajete si ich nahrať do Vášho súčasného účtu: %2$s?</string>
+  <string name="found_old_messages">Celkovo z: %1$s bolo nájdených zo starých účtov. Prajete si ich nahrať do vášho súčasného účtu: %2$s?</string>
   <string name="found_old_messages_title">Nahrať správy</string>
   <string name="found_wild_messages_guide_cloud_desc">Pre synchr. správ z MiCloud sa prihláste svojim Mi účtom a povoľte synchronizáciu SMS.</string>
   <string name="found_wild_messages_guide_settings_desc">Synchr. SMS správy z MiCould v nastaveniach SMS.</string>
@@ -349,7 +349,7 @@
   <string name="mx_dspt_provision_ex2">Ochrana súkromia</string>
   <string name="mx_enable">Povoliť Cloud správy</string>
   <string name="mx_enable_ex">MiSprávy</string>
-  <string name="mx_enable_popup_msg">Cloud správy Vám umožňujú odosielať sms cez MIUI. Vyžaduje sa odoslanie bežnej SMS správy pre ich aktiváciu. Chcete pokračovať?</string>
+  <string name="mx_enable_popup_msg">Cloud správy vám umožňujú odosielať sms cez MIUI. Vyžaduje sa odoslanie bežnej SMS správy pre ich aktiváciu. Chcete pokračovať?</string>
   <string name="mx_filter_message_from_stranger">Blokovať Cloudové správy z neznámych čísel</string>
   <string name="mx_filter_message_from_stranger_dialog_desc">Stále bude možné prijímať bežné SMS správy z neznámych čísel. Toto nastavenie môžete kedykoľvek zmeniť v nastaveniach správ.</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Blokovať Cloudové správy z neznámych čísel</string>

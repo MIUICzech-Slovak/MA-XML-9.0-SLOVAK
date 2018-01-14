@@ -212,7 +212,7 @@
   <string name="ftp_account_req_notice">Užívateľské meno a heslo, 4~16 znakov, obsahovať čísla, písmena...</string>
   <string name="ftp_anonymous_login">Anonymné FTP</string>
   <string name="ftp_invalid_username_or_password">Chyba prihlásenia</string>
-  <string name="ftp_open_port_error">Nie je možné použiť vybraný FTP port, skontrolujte Vaše nastavenie siete.</string>
+  <string name="ftp_open_port_error">Nie je možné použiť vybraný FTP port, skontrolujte vaše nastavenie siete.</string>
   <string name="ftp_password_hint">Heslo</string>
   <string name="ftp_port_number">Port</string>
   <string name="ftp_transfer_secure">Bezpečný prenos FTP</string>

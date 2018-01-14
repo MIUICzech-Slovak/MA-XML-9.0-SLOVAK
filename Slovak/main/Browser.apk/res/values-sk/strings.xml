@@ -313,7 +313,7 @@
   <string name="geolocation_settings_page_dialog_message">Vymazať prístup k polohe pre túto stránku?</string>
   <string name="geolocation_settings_page_dialog_ok_button">OK</string>
   <string name="geolocation_settings_page_summary_allowed">Táto stránka má práve prístup k vašej polohe.</string>
-  <string name="geolocation_settings_page_summary_not_allowed">"Táto stránka práve nemá prístup k Vašej polohe."</string>
+  <string name="geolocation_settings_page_summary_not_allowed">"Táto stránka práve nemá prístup k vašej polohe."</string>
   <string name="geolocation_settings_page_title">Vymazať prístup k polohe</string>
   <string name="go_supermarket_button">Choď</string>
   <string name="go_supermarket_title">Viac apl., rýchlejšie a menej dát v Google Play</string>
@@ -968,4 +968,5 @@ Chcete opustiť túto web stránku?"</string>
   <string name="sync_and_backup_bookmark">Synchr. a zálohovať záložky</string>
   <string name="sync_and_backup_history">Synchr. a zálohovať históriu</string>
   <string name="temp_refuse">Odmietnuť</string>
+  <string name="contextmenu_manually_block_ad">Označiť ako reklamu</string>
 </resources>

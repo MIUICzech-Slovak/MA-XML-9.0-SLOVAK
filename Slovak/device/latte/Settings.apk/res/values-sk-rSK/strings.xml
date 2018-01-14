@@ -9,7 +9,7 @@
   <string name="about_settings">Informácie o zariadení</string>
   <string name="about_settings_summary">Zobrazuje právne informácie, stav a verziu softvéru</string>
   <string name="ac_enable_title">Kontrola prístupu</string>
-  <string name="ac_privacy_mode_sum">Pre deaktivovanie súkromného režimu vložte Vaše prístupové heslo</string>
+  <string name="ac_privacy_mode_sum">Pre deaktivovanie súkromného režimu vložte vaše prístupové heslo</string>
   <string name="ac_privacy_mode_title">Chrániť režim súkromia</string>
   <string name="ac_set_apps_title">Chránené aplikácie</string>
   <string name="accelerometer_summary_off">Pri otáčaní zariadenia automaticky prepínať orientáciu</string>
@@ -23,7 +23,7 @@
   <string name="access_control_no_back_footer">Stlačte [icon] pre ukončenie</string>
   <string name="access_control_password_title">Povoliť heslo</string>
   <string name="access_control_recording_intro_header">Nakreslite kombináciu odomknutia</string>
-  <string name="access_control_reset_by_account">Pre odblokovanie sa prihláste na Váš Mi účet</string>
+  <string name="access_control_reset_by_account">Pre odblokovanie sa prihláste na váš Mi účet</string>
   <string name="accessibility_captioning_title">Titulky</string>
   <string name="accessibility_enable">Povoliť prístup</string>
   <string name="accessibility_feature_state_off">Vypnuté</string>
@@ -913,7 +913,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto zariadenia."</string>
   <string name="device_miui_version">MIUI</string>
   <string name="device_name">Názov zariadenia</string>
   <string name="device_name_input_error">Ukladanie názvu zariadenia zlyhalo, zadajte ho znova.</string>
-  <string name="device_name_input_hint">Zadajte názov Vášho zariadenia</string>
+  <string name="device_name_input_hint">Zadajte názov vášho zariadenia</string>
   <string name="device_name_usage_point">Tento názov sa zobrazí na ostatných Bluetooth zariadeniach vo Vašom okolí</string>
   <string name="device_picker">Výber zariadenia Bluetooth</string>
   <string name="device_sd_memory">SD karta</string>
@@ -2023,7 +2023,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="power_mode_screen_brightness">Jas</string>
   <string name="power_mode_screen_brightness_automatic">Automatický: %1$d%%</string>
   <string name="power_mode_screen_brightness_manual">Manuálny: %1$d%%</string>
-  <string name="power_mode_select_desc">Zvoľte režim ktorý Vám najviac vyhovuje</string>
+  <string name="power_mode_select_desc">Zvoľte režim ktorý vám najviac vyhovuje</string>
   <string name="power_mode_select_title">Režim výkonu</string>
   <string name="power_mode_sleep">Spánok</string>
   <string name="power_mode_sleep_in_minutes">po %1$d minút nečinnosti</string>
@@ -3468,7 +3468,7 @@ Nastavenie zariadenia môže vyžadovať prenos významného množstva dát."</s
   <string name="wizard_finish">Dokončiť</string>
   <string name="wizard_next">Ďalej</string>
   <string name="wps_category">Zabezpečenie WPS</string>
-  <string name="wps_connect_summary">Uistite sa, že Váš router podporuje WPS</string>
+  <string name="wps_connect_summary">Uistite sa, že váš router podporuje WPS</string>
   <string name="wps_connect_title">Pripojiť pomocou WPS</string>
   <string name="wrong_pin_code_pukked">Nesprávny kód PIN karty SIM. Teraz musíte kontaktovať svojho operátora, aby vám odomkol zariadenie.</string>
   <string name="xiaomi_account">Mi účet</string>

@@ -93,7 +93,7 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_fm_check_summary">Tento test skontroluje FM Rádio</string>
   <string name="cit_fm_check_title">Test FM Rádia</string>
   <string name="cit_fm_close">Vypnúť Rádio</string>
-  <string name="cit_fm_not_supported">FM Rádio nie je podporované Vaším zariadením</string>
+  <string name="cit_fm_not_supported">FM Rádio nie je podporované vaším zariadením</string>
   <string name="cit_fm_open_1">FM - 88.5</string>
   <string name="cit_fm_open_2">FM - 107.9</string>
   <string name="cit_fm_open_bluetooth">Zapínanie Bluetooth...</string>
@@ -182,7 +182,7 @@ zapnite GPS z roletky</string>
   <string name="cit_power_check_title">Test Zapínania</string>
   <string name="cit_pressure_sensor_check_summary">Skontrolovať hodnoty tlakového senzoru</string>
   <string name="cit_pressure_sensor_check_title">Test Tlakového senzoru</string>
-  <string name="cit_proximity_sensor_check_summary">Zakryte senzor priblíženia Vaším prstom, zobrazená informácia je od 0.0 (zakrytý) 
+  <string name="cit_proximity_sensor_check_summary">Zakryte senzor priblíženia vaším prstom, zobrazená informácia je od 0.0 (zakrytý) 
 a zvyšuje sa pri odkrytí senzoru</string>
   <string name="cit_proximity_sensor_check_title">Test Senzoru priblíženia</string>
   <string name="cit_reset_check_summary">Tento test reštartuje systém</string>
@@ -191,7 +191,7 @@ a zvyšuje sa pri odkrytí senzoru</string>
   <string name="cit_sd_fail">Čítanie SD karty zlyhalo</string>
   <string name="cit_sd_mount">Pripojiť SD kartu</string>
   <string name="cit_sd_mount_sucess">SD karta bola úspešne pripojená</string>
-  <string name="cit_sd_mp3_not_existed">Súbor music.mp3 nie je možné nájsť  na Vašej SD karte. 
+  <string name="cit_sd_mp3_not_existed">Súbor music.mp3 nie je možné nájsť  na vašej SD karte. 
 Skopírujte súbor na SD kartu a spustite test znova.</string>
   <string name="cit_sd_plugged_in">SD karta pripojená, odpojte SD kartu</string>
   <string name="cit_sd_plugged_out">SD karta odpojená, pripojte SD kartu</string>

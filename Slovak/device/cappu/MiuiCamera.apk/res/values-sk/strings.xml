@@ -531,8 +531,8 @@ opustite na chvíľu náhľad"</string>
   <string name="videocamera_settings_label">Nastavenie videa</string>
   <string name="visit_cloud_album">Otvoriť cloud album</string>
   <string name="wait">Čakajte prosím...</string>
-  <string name="web_url_apk_warning">Vybraný QR kód obsahuje aplikáciu ktorá môže ohroziť Vaše dáta. Pre overenie zabezpečenia vyhľadajte túto aplikáciu v obchode Google Play.</string>
-  <string name="web_url_warning">Internetová stránka v QR kóde môže ohroziť Vaše dáta, Prehliadač MIUI skontroluje tento QR kód.</string>
+  <string name="web_url_apk_warning">Vybraný QR kód obsahuje aplikáciu ktorá môže ohroziť vaše dáta. Pre overenie zabezpečenia vyhľadajte túto aplikáciu v obchode Google Play.</string>
+  <string name="web_url_warning">Internetová stránka v QR kóde môže ohroziť vaše dáta, Prehliadač MIUI skontroluje tento QR kód.</string>
   <string name="website_details">"Internetová stránka: "</string>
   <string name="wechat_details">"Weixin: "</string>
   <string name="white_balance">Vyváženie bielej</string>

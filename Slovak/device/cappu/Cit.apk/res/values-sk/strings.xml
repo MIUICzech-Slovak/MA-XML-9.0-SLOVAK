@@ -159,7 +159,7 @@ a zvyšuje sa pri odkrytí senzoru</string>
   <string name="cit_sd_fail">Čítanie SD karty zlyhalo</string>
   <string name="cit_sd_mount">Pripojiť SD kartu</string>
   <string name="cit_sd_mount_sucess">SD karta bola úspešne pripojená</string>
-  <string name="cit_sd_mp3_not_existed">Súbor music.mp3 nie je možné nájsť  na Vašej SD karte. 
+  <string name="cit_sd_mp3_not_existed">Súbor music.mp3 nie je možné nájsť  na vašej SD karte. 
 Skopírujte súbor na SD kartu a spustite test znova.</string>
   <string name="cit_sd_plug_check_summary">The test will detect SD card status, please plug in and pull out SD card one time</string>
   <string name="cit_sd_plug_check_title">SD card (detection)</string>

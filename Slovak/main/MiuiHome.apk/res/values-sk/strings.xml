@@ -42,7 +42,7 @@
   <string name="cancel_btn_label">Zrušiť</string>
   <string name="cant_edit_lock_screen">Nie je možné upraviť štýl zamykacej obrazovky.</string>
   <string name="cant_remove_folder">Nie je možné vymazať zložky, ktoré nie sú prázdne</string>
-  <string name="cant_remove_retained_app">Nie je možné vymazať aplikácie prispôsobené Vaším operátorom</string>
+  <string name="cant_remove_retained_app">Nie je možné vymazať aplikácie prispôsobené vaším operátorom</string>
   <string name="cant_remove_system_app">Systémové aplikácie nie je možné odinštalovať</string>
   <string name="change_wallpaper">Zmeniť</string>
   <string name="children_folder_title">Rodičovská kontrola</string>
@@ -212,7 +212,7 @@
   <string name="pref_icon_shadow_title">Tieň ikon</string>
   <string name="pref_keep_in_memory_summary">Ponechá aplikáciu v pamäti RAM aj pri nedostatku pamäti RAM.</string>
   <string name="pref_keep_in_memory_title">Ponechať v pamäti RAM</string>
-  <string name="pref_keep_layout_summary">Zmena rozloženia ikon môže zmeniť Vaše rozloženie na ploche.</string>
+  <string name="pref_keep_layout_summary">Zmena rozloženia ikon môže zmeniť vaše rozloženie na ploche.</string>
   <string name="pref_keep_layout_title">Nemeniť súčasné rozloženie</string>
   <string name="pref_render_in_truecolor_summary">Vylepšuje grafiku na úkor výkonu.</string>
   <string name="pref_render_in_truecolor_title">Vylepšená grafika</string>

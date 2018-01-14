@@ -10,7 +10,7 @@ Ak vyberiete nepoužívať prispôsobené reklamy, ich počet sa nezníži ale n
   <string name="about_settings_summary">Zobrazí právne informácie, stav a verziu softwaru</string>
   <string name="ac_enable_summary">Pre otvorenie aplikácií bude požadované heslo</string>
   <string name="ac_enable_title">Uzamknúť jednotlivé apl.</string>
-  <string name="ac_privacy_mode_sum">Pre deaktivovanie súkromného režimu vložte Vaše prístupové heslo</string>
+  <string name="ac_privacy_mode_sum">Pre deaktivovanie súkromného režimu vložte vaše prístupové heslo</string>
   <string name="ac_privacy_mode_title">Chrániť režim súkromia</string>
   <string name="ac_set_apps_title">Vybrať apl. pre uzamknutie</string>
   <string name="accelerometer_summary_off">Pri otáčaní telefónu automaticky prepínať orientáciu</string>
@@ -24,7 +24,7 @@ Ak vyberiete nepoužívať prispôsobené reklamy, ich počet sa nezníži ale n
   <string name="access_control_no_back_footer">Stlačte [icon] pre ukončenie</string>
   <string name="access_control_password_title">Povoliť heslo</string>
   <string name="access_control_recording_intro_header">Nakreslite kombináciu odomknutia</string>
-  <string name="access_control_reset_by_account">Pre odblokovanie sa prihláste na Váš Mi účet</string>
+  <string name="access_control_reset_by_account">Pre odblokovanie sa prihláste na váš Mi účet</string>
   <string name="access_point_names">Názvy prístupových bodov</string>
   <string name="accessibility_captioning_title">Titulky</string>
   <string name="accessibility_category_personal">Účty osobných profilov</string>
@@ -1040,7 +1040,7 @@ Ak chcete ďalej používať svoj telefón, musíte obnoviť jeho továrenské n
   <string name="data_usage_app_restricted">obmedzené</string>
   <string name="data_usage_app_settings">Zobraziť nastavenia aplikácií</string>
   <string name="data_usage_app_summary_title">Využitie dát aplikáciou</string>
-  <string name="data_usage_auto_sync_off_dialog">"Toto nastavenie ušetrí Vaše dáta a spotrebu batérie ale budete musieť manuálne synchronizovať každý účet manuálne pre získanie aktuálnych informácií. Taktiež nebudete dostávať notifikácie o aktuálnych informáciách."</string>
+  <string name="data_usage_auto_sync_off_dialog">"Toto nastavenie ušetrí vaše dáta a spotrebu batérie ale budete musieť manuálne synchronizovať každý účet manuálne pre získanie aktuálnych informácií. Taktiež nebudete dostávať notifikácie o aktuálnych informáciách."</string>
   <string name="data_usage_auto_sync_off_dialog_title">Vypnúť synchronizáciu?</string>
   <string name="data_usage_auto_sync_on_dialog">"Akékoľvek zmeny na Vašom účte ktoré ste urobili na webe sa automaticky skopírujú do telefónu. Niektoré účty môžu automaticky kopírovať aj zmeny v telefóne na web. Google účet takto funguje. Pre nastavenie ktoré informácie sa majú synchr. pre daný účet, choďte do Nastavenia - Účty."</string>
   <string name="data_usage_auto_sync_on_dialog_title">Zapnúť synchronizáciu?</string>
@@ -1066,7 +1066,7 @@ Ak chcete ďalej používať svoj telefón, musíte obnoviť jeho továrenské n
   <string name="data_usage_forground_label">Popredie:</string>
   <string name="data_usage_label_background">Pozadie</string>
   <string name="data_usage_label_foreground">Popredie</string>
-  <string name="data_usage_limit_dialog_mobile">"Vaše dátové pripojenie bude vypnuté ak sa dosiahne stanovený limit prenesených dát. Keďže spotreba dát je meraná Vaším telefónom, a Váš operátor môže spotrebu dát merať odlišne, zvážte nastavenie menšieho limitu dát."</string>
+  <string name="data_usage_limit_dialog_mobile">"Vaše dátové pripojenie bude vypnuté ak sa dosiahne stanovený limit prenesených dát. Keďže spotreba dát je meraná vaším telefónom, a Váš operátor môže spotrebu dát merať odlišne, zvážte nastavenie menšieho limitu dát."</string>
   <string name="data_usage_limit_dialog_title">Nastavuje sa obmedzenie dátových prenosov</string>
   <string name="data_usage_limit_editor_title">Nastavenie limitu dátových prenosov</string>
   <string name="data_usage_list_mobile">Mobilné</string>
@@ -1106,7 +1106,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="data_usage_tab_slot">SIM</string>
   <string name="data_usage_tab_wifi">Wi-Fi</string>
   <string name="data_usage_total_during_range">%2$s: využitých asi %1$s</string>
-  <string name="data_usage_total_during_range_mobile">"%2$s: asi %1$s využitých, ako nameral Váš telefón. Informácia spotreby dát u Vášho operátora môže byť iná."</string>
+  <string name="data_usage_total_during_range_mobile">"%2$s: asi %1$s využitých, ako nameral Váš telefón. Informácia spotreby dát u vášho operátora môže byť iná."</string>
   <string name="data_usage_uninstalled_apps">Odobrané aplikácie</string>
   <string name="data_usage_uninstalled_apps_users">Odstránené aplikácie a používatelia</string>
   <string name="data_usage_warning_editor_title">Nastaviť upozornenie na využitie dát</string>
@@ -1211,7 +1211,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="device_miui_version_update">MIUI update is available</string>
   <string name="device_name">Názov zariadenia</string>
   <string name="device_name_input_error">Ukladanie názvu zariadenia zlyhalo, zadajte ho znova</string>
-  <string name="device_name_input_hint">Zadajte názov Vášho zariadenia</string>
+  <string name="device_name_input_hint">Zadajte názov vášho zariadenia</string>
   <string name="device_name_input_overlength">Nad limitom slov</string>
   <string name="device_name_usage_point">Povoliť vyhľadanie telefónu iným Bluetooth zariadeniam.</string>
   <string name="device_picker">Bluetooth zariadenie</string>
@@ -2521,7 +2521,7 @@ Vyberte váš operačný systém:"</string>
   <string name="no_trust_agents">Nie sú k dispozícii žiadni zástupcovia dôveryhodnosti</string>
   <string name="no_update_found">"Najnovšia verzia "</string>
   <string name="no_updates_found">"Už máte nainštalovanú najnovšiu verziu MIUI."</string>
-  <string name="no_updates_warning">Žiadne nové aktualizácie pre Vaše zariadenie neboli nájdené.</string>
+  <string name="no_updates_warning">Žiadne nové aktualizácie pre vaše zariadenie neboli nájdené.</string>
   <string name="no_updates_warning2">"Pokoj! upozorníme Vás ak bude dostupná nová aktualizácia."</string>
   <string name="noise_suppression">Potlačenie hluku</string>
   <string name="normal">Normálne</string>
@@ -4920,7 +4920,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="work_space_delete_confirm">Potvrďte vymazanie</string>
   <string name="work_space_delete_description">Nebude možné prepnúť sa do tohto Pracovného priestoru ak ho vymažete. Všetky dáta budú presunuté alebo vymazané.</string>
   <string name="wps_category">Zabezpečenie WPS</string>
-  <string name="wps_connect_summary">Uistite sa, že Váš router podporuje WPS</string>
+  <string name="wps_connect_summary">Uistite sa, že váš router podporuje WPS</string>
   <string name="wps_connect_title">Pripojiť pomocou WPS</string>
   <string name="write_settings">Úpravy nastavení systému</string>
   <string name="write_settings_description">Toto povolenie umožňuje aplikácii upravovať nastavenia systému.</string>

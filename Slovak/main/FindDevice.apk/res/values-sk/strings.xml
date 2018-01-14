@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activate_xiaomi_account">Aktivovať toto zariadenia</string>
+  <string name="activate_xiaomi_account">Aktivovať toto zariadenie</string>
   <string name="adding_or_updating_account">Aktualizácia účtu...</string>
   <string name="app_name">Vyhľadať zariadenie</string>
   <string name="captcha">Captcha</string>
@@ -43,7 +43,7 @@ Ak zmeníte SIM kartu, automaticky sa odošle SMS pre jej aktiváciu."</string>
   <string name="passport_vcode_prompt_long">Zadajte overovací kód</string>
   <string name="passport_verify">Overiť</string>
   <string name="password">Heslo</string>
-  <string name="phone_locked">Toto zariadenie je zrejme prepojené s iným Mi účtom (%s). Prihláste sa pre aktivovanie tohto zariadenia.</string>
+  <string name="phone_locked">Toto zariadenie je zrejme prepojené s existujúcim Mi účtom (%s). Prihláste sa pre aktivovanie tohto zariadenia.</string>
   <string name="phone_locked_account_email">, prepojený email: %s</string>
   <string name="phone_locked_account_phone">, prepojené telefónne číslo: %s</string>
   <string name="stop_on_empty_captcha">Captcha nesmie byť prázdna</string>

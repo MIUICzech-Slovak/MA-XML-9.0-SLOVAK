@@ -297,8 +297,8 @@
   <string name="miuishare_account_login_cancel">Zrušiť</string>
   <string name="miuishare_account_login_confirmation">Vyžadované prihlásenie</string>
   <string name="miuishare_account_login_ok">Prihlásiť sa</string>
-  <string name="miuishare_account_need_activate">Zdieľanie Weibo vyžaduje, aby bol Váš Weibo účet prepojený s Mi účtom, čo momentálne nie je aktívne. Želáte si aktivovať teraz?</string>
-  <string name="miuishare_account_need_login">Zdieľanie Weibo vyžaduje, aby bol Váš Weibo účet prepojený s Mi účtom, ktorý je prihlásený. Prihlásiť sa na zdieľanie teraz?</string>
+  <string name="miuishare_account_need_activate">Zdieľanie Weibo vyžaduje, aby bol váš Weibo účet prepojený s Mi účtom, čo momentálne nie je aktívne. Želáte si aktivovať teraz?</string>
+  <string name="miuishare_account_need_login">Zdieľanie Weibo vyžaduje, aby bol váš Weibo účet prepojený s Mi účtom, ktorý je prihlásený. Prihlásiť sa na zdieľanie teraz?</string>
   <string name="miuishare_app_name">MiuiShare</string>
   <string name="miuishare_no_network">Žiadna sieť na zdieľanie</string>
   <string name="miuishare_publish">Poslať</string>

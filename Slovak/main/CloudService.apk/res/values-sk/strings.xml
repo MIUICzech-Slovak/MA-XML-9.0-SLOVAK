@@ -256,9 +256,9 @@ do vášho Mi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_first_login_title"/>
   <string name="micloud_full_influence_dspt">"Všetky fotografie, videá, poznámky a aplikácie budú zálohované do MiCloud.
  
- Ak stratíte telefón alebo sa poškodí, Vaše dáta budú stále v bezpečí.
+ Ak stratíte telefón alebo sa poškodí, vaše dáta budú stále v bezpečí.
  
- Ak je MiCloud už plný, Vaše staré dáta nebudú automaticky odstránené ale nebude možné zálohovať nové dáta.
+ Ak je MiCloud už plný, vaše staré dáta nebudú automaticky odstránené ale nebude možné zálohovať nové dáta.
  
  V tomto prípade môžete buď vymazať staré dáta alebo si zakúpiť viac miesta v úložisku MiCloud."</string>
   <string name="micloud_full_influence_title">Ak je MiCloud už plný</string>
@@ -455,7 +455,7 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
   <string name="phone_number_may_required_dspt_provision">"Táto služba môže vyžadovať vaše telefónne číslo. "</string>
   <string name="phone_number_required_dspt_provision">"Táto služba vyžaduje vaše telefónne číslo. "</string>
   <string name="photo">Fotografií</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">Odporúča sa zapnúť, inak môže spotrebovať Vaše dáta</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Odporúča sa zapnúť, inak môže spotrebovať vaše dáta</string>
   <string name="pref_summary_sync_video_on_wifi_only">Synchronizovať video profil kontaktov len ak ste pripojený na Wi-Fi</string>
   <string name="pref_title_sync_contacts_title">Synch. kontakty</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Použiť iba Wi-Fi pre zobrazenie fotky</string>
@@ -491,7 +491,7 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
   <string name="sub_alert_notif_dspt_add">Čaká na synchr.: %s</string>
   <string name="sub_alert_notif_dspt_no">Všetko je aktuálne.</string>
   <string name="sub_alert_notif_title">Synchr. s MiCloud</string>
-  <string name="sub_sync_item_sms_summary">Odporúča sa zapnúť, inak môže spotrebovať Vaše dáta</string>
+  <string name="sub_sync_item_sms_summary">Odporúča sa zapnúť, inak môže spotrebovať vaše dáta</string>
   <string name="sub_sync_item_sms_title_wifi_only">Použiť iba Wi-Fi pre synch. MMS / SMS</string>
   <string name="success_upgraded_space">%s pridané</string>
   <string name="sync_dspt">Povoliť synchr.</string>

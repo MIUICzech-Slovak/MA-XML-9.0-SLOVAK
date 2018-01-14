@@ -151,7 +151,7 @@
   <string name="chat_skype">Chatovat pomocou Skype</string>
   <string name="chat_yahoo">Chatovat pomocou Yahoo</string>
   <string name="checkhint">Skontrolovať iný telefón</string>
-  <string name="clearCallLogConfirmation">Všetky Vaše záznamy o hovoroch budú vymazané.</string>
+  <string name="clearCallLogConfirmation">Všetky vaše záznamy o hovoroch budú vymazané.</string>
   <string name="clearCallLogConfirmation_title">Vymazať hovory</string>
   <string name="clearCallLogProgress_title">Vymazávam zoznam hovorov</string>
   <string name="clearFrequentsConfirmation">"Vymažete zoznam častých kontaktov a aplikácie sa ich budú musieť naučiť znovu."</string>
@@ -795,7 +795,7 @@ Pre pridanie kontaktov, stlačte "Menu", vyberte:
 "Nový kontakt - pre vytvorenie kontaktu" 
 "Import/Export pre importovanie kontaktov zo SIM alebo SD karty"</string>
   <string name="noContactsHelpTextForCreateShortcut">"Žiaden kontakt na zobrazenie."</string>
-  <string name="noContactsHelpTextWithSync">"Nemáte žiadne kontakty na zobrazenie. (Ak ste práve pridali svoj účet, môže to chvíľu trvať kým sa načítajú Vaše kontakty.)
+  <string name="noContactsHelpTextWithSync">"Nemáte žiadne kontakty na zobrazenie. (Ak ste práve pridali svoj účet, môže to chvíľu trvať kým sa načítajú vaše kontakty.)
 
 Pre pridanie kontaktov, stlačte "Menu", vyberte:
  
@@ -813,7 +813,7 @@ Pre pridanie kontaktov, stlačte "Menu", vyberte:
 "Nový kontakt - pre vytvorenie kontaktu"
 "Import/Export pre importovanie kontaktov zo SIM alebo SD karty"
 "</string>
-  <string name="noContactsNoSimHelpTextWithSync">"Nemáte žiadne kontakty na zobrazenie. (Ak ste práve pridali svoj účet, môže to chvíľu trvať kým sa načítajú Vaše kontakty.)
+  <string name="noContactsNoSimHelpTextWithSync">"Nemáte žiadne kontakty na zobrazenie. (Ak ste práve pridali svoj účet, môže to chvíľu trvať kým sa načítajú vaše kontakty.)
 
 Pre pridanie kontaktov, stlačte "Menu", vyberte:
  
@@ -1032,7 +1032,7 @@ Synchronizujte ich teraz."</string>
   <string name="remove_blacklist">Odstrániť z čiernej listiny</string>
   <string name="remove_blacklist_dialog_message">Odblokovať toto číslo?</string>
   <string name="remove_blacklist_dialog_title">Odblokovať toto číslo?</string>
-  <string name="remove_duplicate">"MIUI Vám pomôže nájsť a zlúčiť duplicitné kontakty. Kontakty sa nezlúčia automaticky."</string>
+  <string name="remove_duplicate">"MIUI vám pomôže nájsť a zlúčiť duplicitné kontakty. Kontakty sa nezlúčia automaticky."</string>
   <string name="report_inquiry_mms">Nahlásiť SMS</string>
   <string name="restore_nickname">Obnoviť</string>
   <string name="ret_sign">" 
@@ -1103,7 +1103,7 @@ Synchronizujte ich teraz."</string>
   <string name="shortcutMessageContact">Priama správa</string>
   <string name="showAllContactsJoinItem">Zobraziť všetky kontakty</string>
   <string name="simContacts_airplaneMode">Pre importovanie kontaktov zo SIM karty, deaktivujte režim Lietadlo.</string>
-  <string name="simContacts_empty">Žiadne kontakty na Vašej SIM karte.</string>
+  <string name="simContacts_empty">Žiadne kontakty na vašej SIM karte.</string>
   <string name="simContacts_emptyLoading">Načítavanie kontaktov na SIM...</string>
   <string name="simContacts_title">Kontakty na SIM</string>
   <string name="sim_capacity">Zobraziť kapacitu SIM karty</string>

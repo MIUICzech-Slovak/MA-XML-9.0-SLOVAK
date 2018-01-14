@@ -853,7 +853,7 @@ For more info check the message you received from your service provider"</string
   <string name="every_day">Každý deň</string>
   <string name="examination_score_100">Všetko vyzerá byť v poriadku!</string>
   <string name="examination_score_100_with_recommend">Môže byť optimalizované: %d</string>
-  <string name="examination_score_60_0">Mali by ste optimalizovať Vaše zariadenie</string>
+  <string name="examination_score_60_0">Mali by ste optimalizovať vaše zariadenie</string>
   <string name="examination_score_80_100">Niektoré položky môžu byť optimalizované</string>
   <string name="examination_score_80_100_with_recommend">Môže byť optimalizované: %d</string>
   <string name="examination_score_80_60">Niektoré položky môžu byť optimalizované</string>
