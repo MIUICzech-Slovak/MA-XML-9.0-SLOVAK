@@ -124,7 +124,7 @@
     <string name="app_category_video">Filmy a videá</string>
     <string name="app_info">Info o aplikácii</string>
     <string name="app_not_found">Aplikácia potrebná na spracovanie tejto akcie sa nenašla</string>
-    <string name="app_running_notification_text">Klepnutím zobrazíte ďalšie informácie alebo zastavíte aplikáciu.</string>
+    <string name="app_running_notification_text">Dotykom zobrazíte ďalšie informácie alebo zastavíte aplikáciu.</string>
     <string name="app_running_notification_title">Aplikácia %1$s je spustená</string>
     <string name="app_upgrading_toast">Aplikácia %1$s sa inovuje…</string>
     <string name="autofill">Automatické dopĺňanie</string>
@@ -224,7 +224,7 @@ pre %s."</string>
     <string name="data_usage_mobile_limit_title">Dosiahnutý limit mobilných dát</string>
     <string name="data_usage_restricted_body">Klepnutím odstránite obmedzenie.</string>
     <string name="data_usage_restricted_title">Dátové prenosy obmedzené</string>
-    <string name="data_usage_warning_body">Klepnutím zobrazíte využitie a nastavenia.</string>
+    <string name="data_usage_warning_body">Dotykom zobrazíte využitie a nastavenia.</string>
     <string name="data_usage_warning_title">Upozornenie na spotrebu dát</string>
     <string name="data_usage_wifi_limit_snoozed_title">Dát. limit Wi-Fi bol prekročený</string>
     <string name="data_usage_wifi_limit_title">Bol dosiahnutý limit dát Wi-Fi</string>
@@ -675,7 +675,7 @@ Skúste to znova o %2$d s."</string>
     <string name="needPuk2">Ak chcete odblokovať SIM kartu, zadajte kód PUK2.</string>
     <string name="negative_duration">-%1$s</string>
     <string name="network_available_sign_in">Prihlásenie do siete</string>
-    <string name="network_logging_notification_text">Vaša organizácia spravuje toto zariadenie a môže sledovať sieťovú premávku. Klepnutím zobrazíte podrobnosti.</string>
+    <string name="network_logging_notification_text">Vaša organizácia spravuje toto zariadenie a môže sledovať sieťovú premávku. Dotykom zobrazíte podrobnosti.</string>
     <string name="network_logging_notification_title">Zariadenie je spravované</string>
     <string name="network_switch_metered">Prepnuté na sieť: %1$s</string>
     <string name="network_switch_metered_detail">Keď sieť %2$s nemá prístup k internetu, zariadenie používa sieť %1$s. Môžu sa účtovať poplatky.</string>
@@ -1250,10 +1250,10 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže poškodiť váš sluch."</st
     <string name="usb_midi_notification_title">USB na pripojenie zariadenia MIDI</string>
     <string name="usb_midi_peripheral_name">Port USB pre periférne zariadenia s Androidom</string>
     <string name="usb_midi_peripheral_product_name">Port USB pre periférne zariadenia</string>
-    <string name="usb_mtp_launch_notification_description">Klepnutím zobrazíte súbory</string>
+    <string name="usb_mtp_launch_notification_description">Dotykom zobrazíte súbory</string>
     <string name="usb_mtp_launch_notification_title">Pripojené k zariadeniu %1$s</string>
     <string name="usb_mtp_notification_title">USB na prenos súborov</string>
-    <string name="usb_notification_message">Klepnutím zobrazíte ďalšie možnosti.</string>
+    <string name="usb_notification_message">Dotykom zobrazíte ďalšie možnosti.</string>
     <string name="usb_ptp_notification_title">USB na prenos fotiek</string>
     <string name="usb_supplying_notification_title">Nabíjanie cez USB</string>
     <string name="use_a_different_app">Použiť inú aplikáciu</string>
@@ -1332,7 +1332,7 @@ Chcete ju zavrieť?"</string>
     <string name="wifi_no_internet">Sieť Wi-Fi nemá prístup k internetu</string>
     <string name="wifi_no_internet_detailed">Klepnutím získate možnosti</string>
     <string name="wifi_p2p_dialog_title">Priame pripojenie Wi-Fi</string>
-    <string name="wifi_p2p_enabled_notification_message">Klepnutím zobrazíte nastavenia</string>
+    <string name="wifi_p2p_enabled_notification_message">Dotykom zobrazíte nastavenia</string>
     <string name="wifi_p2p_enabled_notification_title">Priame pripojenie siete Wi-Fi je zapnuté</string>
     <string name="wifi_p2p_enter_pin_message">Zadajte požadovaný kód PIN:</string>
     <string name="wifi_p2p_failed_message">Priame pripojenie siete Wi-Fi sa nepodarilo spustiť</string>

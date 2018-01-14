@@ -82,7 +82,7 @@
   <string name="no_results">Žiadne zhody – %1$s</string>
   <string name="not_sorted">Nezoradené</string>
   <string name="notification_copy_files_converted_title">Niektoré súbory boli konvertované</string>
-  <string name="notification_touch_for_details">Klepnutím zobrazíte podrobnosti</string>
+  <string name="notification_touch_for_details">Dotykom zobrazíte podrobnosti</string>
   <string name="open_external_dialog_request">Udeliť aplikácii ^1 prístup k adresáru ^2 v úložisku ^3?</string>
   <string name="open_external_dialog_request_primary_volume">Udeliť aplikácii ^1 prístup k adresáru ^2?</string>
   <string name="open_external_dialog_root_request">Chcete aplikácii ^1 udeliť prístup k dátam (vrátane fotiek a videí) v úložisku ^2 ?</string>
