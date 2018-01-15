@@ -118,7 +118,7 @@
   <string name="note_link_select">Vybrať text</string>
   <string name="note_link_tel">Volanie</string>
   <string name="note_link_web">Hľadať na webe</string>
-  <string name="note_sort_way">Vyberte ako chcete triediť poznámky</string>
+  <string name="note_sort_way">Triedenie poznámok</string>
   <string name="notealert_enter">Zobraziť</string>
   <string name="notealert_ok">Ignorovať</string>
   <string name="notelist_menu_new">Pridať poznámku</string>
