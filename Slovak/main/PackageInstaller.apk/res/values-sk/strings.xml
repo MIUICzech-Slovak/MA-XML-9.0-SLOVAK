@@ -606,4 +606,5 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="window_animation_scale_title">Window animation scale</string>
   <string name="anonymous_source_continue">Pokračovať</string>
   <string name="anonymous_source_warning">Váš telefón a osobné údaje sú náchylnejšie na útok z neznámych aplikácií. Inštalovaním tejto aplikácie súhlasíte, že zodpovedáte za akékoľvek poškodenie vášho telefónu či stratu údajov, ku ktorým môže dôjsť v dôsledku jej použitia.</string>
+  <string name="untrusted_external_source_warning">Váš telefón nemôže z bezpečnostných dôvodov inštalovať neznáme aplikácie z tohto zdroja.</string>
 </resources>
