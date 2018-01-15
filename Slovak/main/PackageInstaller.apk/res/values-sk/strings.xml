@@ -607,4 +607,7 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="anonymous_source_continue">Pokračovať</string>
   <string name="anonymous_source_warning">Váš telefón a osobné údaje sú náchylnejšie na útok z neznámych aplikácií. Inštalovaním tejto aplikácie súhlasíte, že zodpovedáte za akékoľvek poškodenie vášho telefónu či stratu údajov, ku ktorým môže dôjsť v dôsledku jej použitia.</string>
   <string name="untrusted_external_source_warning">Váš telefón nemôže z bezpečnostných dôvodov inštalovať neznáme aplikácie z tohto zdroja.</string>
+  <string name="external_source_trusted">Povolené</string>
+  <string name="external_source_untrusted">Nie je povolené</string>
+  <string name="external_sources_settings">Nastavenia</string>  
 </resources>
