@@ -44,7 +44,7 @@ http://www.miuios.cz/
         <item>Vymazať</item>
      </string-array>
     <string-array name="note_sort_way">
-        <item>Triedené podľa dátumu vytvorenia</item>
-        <item>Triedené podľa dátumu úpravy</item>
+        <item>Podľa dátumu vytvorenia</item>
+        <item>Podľa dátumu úpravy</item>
     </string-array>	 
 </resources>
