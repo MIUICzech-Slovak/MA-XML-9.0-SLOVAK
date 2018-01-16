@@ -78,4 +78,10 @@
   <string name="terms_of_use_label_gms">"Vaša bezpečnosť je našou hlavnou prioritou. Prečítajte si naše Podmienky používania a Ochranu súkromia.
 
 Musíte súhlasiť s našimi Podmienkami používania a Ochranu súkromia pred používaním MIUI."</string>
+  <string name="congratulation_swipe">Potiahnite nahor pre spustenie systému</string>
+  <string name="navigation_picker_gesture_guide">Navod pre gestá</string>
+  <string name="navigation_picker_radio_text_full_screen">Režim celej obrazovky</string>
+  <string name="navigation_picker_radio_text_virtual_key">Režim tlačidiel</string>
+  <string name="sim_card_detecting_check">Nebolo možné nájsť SIM kartu.</string>
+  <string name="system_navigation_mode">Navigácia v systéme</string>
 </resources>
