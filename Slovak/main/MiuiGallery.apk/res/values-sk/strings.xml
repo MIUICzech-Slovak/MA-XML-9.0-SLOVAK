@@ -1222,7 +1222,6 @@
   <string name="add_to_album_failed_with_reason">Nie je možné pridať do albumu. %1$s.</string>
   <string name="loading_processing_tip">Spracovávanie...</string>
   <string name="operate_processing_file_error">Počkajte kým sa spracujú všetky fotografie.</string>
-  <string name="cleaner_empty_value_description">Všetko vyzerá byť v poriadku</string>
   <string name="cleaner_photo_pick_delete_selected">Vymazať vybrané fotografie</string>
   <string name="cleaner_scan_description">Optimalizácia fotografií uvoľni meisto na úložisku vo vašom zariadení</string>
   <string name="cleaner_scan_exit_dialog_message">Budete musieť začať znova na budúce. Zastaviť skenovanie?</string>
