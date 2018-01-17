@@ -501,7 +501,7 @@
   <string name="hidden_album_display_name">Skrytý album</string>
   <string name="highlight">Jas</string>
   <string name="highlight_abbr">J</string>
-  <string name="home_menu_cleaner">Uvoľnite miesto</string>
+  <string name="home_menu_cleaner">Uvoľniť miesto</string>
   <string name="home_menu_collage">Koláž</string>
   <string name="home_menu_photo_movie">Klip</string>
   <string name="home_page_empty">Prázdne</string>
@@ -1261,4 +1261,5 @@
   <string name="slim_running">Optimalizácia...</string>
   <string name="slim_space">uvoľnené</string>
   <string name="slim_stop">Zastaviť</string>
+  <string name="cleaner_empty_value_description">Všetko vyzerá byť v poriadku</string>
 </resources>
