@@ -229,4 +229,6 @@ http://www.miuios.cz/rom
   <string name="widget_havenot_content">Žiadna poznámka nie je vytvorená.</string>
   <string name="widget_under_privacy_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
   <string name="cloud_service_state_open_reminder">Povoľte sunchr. s MiCloud pre synchronizáciu poznámok.</string>
+  <string name="refuse_to_open_as_pic_because_of_loading">Počkajte kým sa poznámka načíta a skúste to znova.</string>
+  <string name="toast_cancel_to_insert_image">Zrušiť pridávanie obrázkov.</string>
 </resources>

@@ -171,4 +171,8 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="provision_error_connect_msg">Skontrolujte nastavenie siete a skúste to znova.</string>
   <string name="provision_error_connect_title">Nie je možné sa pripojiť</string>
   <string name="cloud_backup_derail_size_summary">Veľkosť: %s</string>
+  <string name="dialog_btn_next">Ďalej</string>
+  <string name="dialog_btn_restore_skip">Obnoviť neskôr</string>
+  <string name="dialog_msg_restore_require_wlan">Obnovenie zálohy vyžaduje pripojenie na Wi-Fi.</string>
+  <string name="dialog_title_require_wlan">Vyžaduje sa Wi-Fi</string>
 </resources>
