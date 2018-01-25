@@ -209,7 +209,6 @@
     <string name="continue_backup">Pokračovať</string>
     <string name="cp_info_first">"Službu streamovania hudby on-line
 is poskytuje predovšetkým spoločnosť Ultimate Inc."</string>
-    <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="create_order_fail">Nepodarilo sa vytvoriť objednávku, skúste to znova.</string>
     <string name="create_playlist">Vytvoriť playlist</string>
     <string name="create_playlist_failure">Zoznam skladieb nebol vytvorený</string>
@@ -330,7 +329,6 @@ is poskytuje predovšetkým spoločnosť Ultimate Inc."</string>
     <string name="download_paused">Sťahovanie pozastavené</string>
     <string name="download_paused_in_power_save_mode">Pokiaľ je zapnutý šetrič batérie, je sťahovanie pozastavené</string>
     <string name="download_pending">Čakajúce sťahovanie</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">Sťahovanie...</string>
     <string name="download_quality">Kvalita sťahovania</string>
     <string name="download_quality_summary">Ďalšie nastavenia pre stiahnuté skladby</string>
