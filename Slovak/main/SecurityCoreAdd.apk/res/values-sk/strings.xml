@@ -293,7 +293,7 @@ Môžete ich aj znova stiahnuť."</string>
   <string name="xspace_creating">Klonovanie apl...</string>
   <string name="xspace_description">Klonovanie apl. umožní ich oddelené používanie. Klonované aplikácie budú mať svoju ikonu na ploche.</string>
   <string name="xspace_guide_des">Použite 2 účty bez prepínania</string>
-  <string name="xspace_guide_title">Vytvoriť klonovanú apl. pre %s</string>
+  <string name="xspace_guide_title">Vytvoriť klonovanú aplikáciu</string>
   <string name="xspace_header">Klonované aplikácie</string>
   <string name="xspace_install_completed">Ikona pridaná na plochu</string>
   <string name="xspace_install_failed">Nebolo možné vytvoriť</string>

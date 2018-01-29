@@ -2764,4 +2764,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="app_manager_mobile_slot2">Mobilné dáta (SIM 2)</string>
   <string name="lockpattern_tutorial_continue_label_confirm">Stlačte OK</string>
   <string name="lockpattern_tutorial_continue_label_next">Stlačte Ďalej</string>  
+  <string name="network_changed_noti_summary">Používajú sa mobilné dáta</string>
+  <string name="network_changed_noti_title">Odpojené od Wi-Fi</string>
 </resources>

@@ -5078,4 +5078,13 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="open_demo_mode_warning_message">Ak je povolený Režim ukážky, čas v lište sa zastaví a ukazovatele batérie a signálu budú zobrazovať plný stav.</string>
   <string name="close_demo_mode">Zrušiť</string>
   <string name="mute_music_stream">Stíšiť streamovanie hudby</string>
+  <string name="find_my_device">Vyhľadať moje zariadenie</string>
+  <string name="find_my_device_disable">Vyp</string>
+  <string name="find_my_device_enable">Zap</string>
+  <string name="night_light">Nočné podsvietenie</string>
+  <string name="night_light_brightness">Nočný jas</string>
+  <string name="night_light_color">Farba nočného podsvietenia</string>
+  <string name="night_light_summary">Minimalizovať podsvietenie v noci</string>
+  <string name="security_status">Stav zabezpečenia</string>
+  <string name="security_update">Aktualizácia zabezpečenia</string>
 </resources>
