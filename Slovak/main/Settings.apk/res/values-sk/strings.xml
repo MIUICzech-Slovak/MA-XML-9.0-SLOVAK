@@ -3343,7 +3343,7 @@ Ako funkciu použiť:
   <string name="se_wallet_ese">MiWallet (len v Číne)</string>
   <string name="se_wallet_hce">HCE Wallet</string>
   <string name="search_empty">Nič sa nenašlo</string>
-  <string name="search_input_hint">Nastavenie vyhľadávania</string>
+  <string name="search_input_hint">Vyhľadať v nastaveniach</string>
   <string name="search_zen_mode_option_miui_silent">Tichý režim</string>
   <string name="second_space">Druhý profil</string>
   <string name="secure_keyguard_business_title">Heslo zámku displeja</string>
