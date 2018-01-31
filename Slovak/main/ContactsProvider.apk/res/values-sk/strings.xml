@@ -28,4 +28,6 @@
   <string name="upgrade_out_of_memory_notification_title">Nedostatok pamäti pre upgrade kontaktov</string>
   <string name="video_call">Video hovor</string>
   <string name="voicemail_from_column">"Hlasová správa od užívateľa "</string>
+  <string name="sim_state_changed">SIM karta bola zmenená</string>
+  <string name="voicemail_cleanup">Vyčistiť hlasovú schránku</string>
 </resources>

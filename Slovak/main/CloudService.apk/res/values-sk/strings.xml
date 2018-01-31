@@ -561,4 +561,7 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
   <string name="micloud_main_head_menu_state_unavailable">Nedostupné</string>
   <string name="reading_status">Načítavanie...</string>
   <string name="reading_status_failure">Nebolo možné zistiť stav.</string>
+  <string name="micloud_alert_dialog_negative">Zrušiť</string>
+  <string name="micloud_alert_dialog_positive">OK</string>
+  <string name="micloud_main_head_menu_finddevice_unavailable">Vyhľadávanie zariadenia nie je dostupné v Druhom profile.</string>
 </resources>

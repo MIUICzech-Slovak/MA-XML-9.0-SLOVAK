@@ -1262,4 +1262,12 @@
   <string name="slim_space">uvoľnené</string>
   <string name="slim_stop">Zastaviť</string>
   <string name="cleaner_empty_value_description">Všetko vyzerá byť v poriadku</string>
+  <string name="main_save_error_msg">Nebolo možné uložiť zmeny kvôli chybe</string>
+  <string name="mark_myself_default_name">Ja</string>
+  <string name="mark_myself_suggestion_load_more">To nie som ja</string>
+  <string name="mark_myself_suggestion_title">Vyberte fotografie s vašou tvárou</string>
+  <string name="mark_operation_failed">Nebolo možné pridať</string>
+  <string name="mark_operation_processing">Spracovávanie...</string>
+  <string name="mark_operation_succeeded">Pridané</string>
+  <string name="mark_people_ignore_info_message">Podržte prst na fotografiách ľudí pre pridanie do skupiny</string>
 </resources>
