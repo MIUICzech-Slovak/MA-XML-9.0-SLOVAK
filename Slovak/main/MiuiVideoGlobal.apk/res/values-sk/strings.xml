@@ -17,7 +17,6 @@
     <string name="abc_shareactionprovider_share_with">Zdieľať pomocou</string>
     <string name="abc_shareactionprovider_share_with_application">Zdieľať pomocou %s</string>
     <string name="abc_toolbar_collapse_description">Zbaliť</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="airkan_control_device_des">Ak chcete ovládať prehrávanie, dotknite sa spodnej lišty.</string>
     <string name="airkan_device_xiaomi_phone">Môj telefón</string>
     <string name="airkan_playing">Prehráva sa %s</string>

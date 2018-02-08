@@ -1364,7 +1364,6 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže poškodiť váš sluch."</st
   <string name="ssl_ca_cert_warning">Sieť môže byť monitorovaná</string>
   <string name="ssl_certificate">Certifikát zabezpečenia</string>
   <string name="ssl_certificate_is_valid">Certifikát je platný.</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage_internal">Interné úložisko</string>
   <string name="storage_sd_card">Karta SD</string>
   <string name="storage_usb">Ukladací priestor USB</string>
