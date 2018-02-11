@@ -173,4 +173,6 @@ Zadajte vaše mesto manuálne"</string>
   <string name="real_time_sunset">Západ slnka %1$s</string>
   <string name="updated_a_moment_ago">Aktualizované pred chvíľou</string>
   <string name="updating">Aktualizácia..</string>
+  <string name="information_settings_title">Info o Počasí</string>
+  <string name="other_settings">Ostatné nastavenia</string>
 </resources>

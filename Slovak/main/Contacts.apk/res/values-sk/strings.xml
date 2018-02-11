@@ -1310,4 +1310,6 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="quick_dial_setting_set_dialog_option_set">Áno</string>
   <string name="quick_dial_setting_title">Rýchla voľba</string>
   <string name="search_quick_dial_setting">Kontakty</string>
+  <string name="preference_contacts_moresetting">Viac</string>
+  <string name="preference_display_contact">Nastavenie zobrazenia</string>
 </resources>

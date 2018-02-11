@@ -525,4 +525,6 @@ Please release at least %s"</string>
   <string name="notif_parse_select_descript_error">Nebolo možné synchronizovať zoznam zálohovaných položiek.</string>
   <string name="notif_receiving_transingsd">Prijímanie %1$s (%2$s)…</string>
   <string name="notif_sending_transingsd">Odosielanie %1$s (%2$s)…</string>
+  <string name="notif_miasist_try_to_connect">MiPCSuite sa snaží pripojiť k vášmu zariadeniu</string>
+  <string name="trans_switching_5g">Prepínanie na 5GHz Wi-Fi...</string>
 </resources>

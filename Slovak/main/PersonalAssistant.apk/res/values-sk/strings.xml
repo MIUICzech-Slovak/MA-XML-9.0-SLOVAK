@@ -402,4 +402,6 @@
   <string name="step_cal_unit">kcal</string>
   <string name="card_note_finish">Hotovo</string>
   <string name="agenda_assistant_allday">Celý deň</string>
+  <string name="card_title_empty_agenda">Žiadne udalosti</string>
+  <string name="card_title_empty_note">Žiadne poznámky</string>
 </resources>

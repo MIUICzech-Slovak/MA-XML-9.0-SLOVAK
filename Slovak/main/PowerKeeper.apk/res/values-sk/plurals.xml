@@ -20,4 +20,8 @@
         <item quantity="other">%d apl.</item>
         <item quantity="one">%d apl.</item>
     </plurals>  
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Vyhľadať %d apl.</item>
+        <item quantity="one">Vyhľadať %d apl.</item>
+    </plurals>
 </resources>
