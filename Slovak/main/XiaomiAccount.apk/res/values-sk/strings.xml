@@ -509,5 +509,4 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="sim_changed_notification_title">Zmenili ste telefónné čislo?</string>
   <string name="passport_confirm_login">Pokračovať</string>
   <string name="passport_sms_verification_code_login">Overovací SMS kód</string>
-  <string name="turning_off_find_device">Deaktivovanie Vyhľadávania zariadenia...</string>
 </resources>
