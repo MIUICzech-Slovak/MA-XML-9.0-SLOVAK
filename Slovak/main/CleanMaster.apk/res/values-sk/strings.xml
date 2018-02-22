@@ -477,4 +477,5 @@
   <string name="auto_clean_time_seven_day">Každých 7 dní</string>
   <string name="auto_clean_time_three_day">Každé 3 dni</string>
   <string name="wechat_qq_deep_clean_button_text">Hlboké čistenie</string>
+  <string name="wechat_qq_activity_title">Hlboké čistenie</string>
 </resources>
