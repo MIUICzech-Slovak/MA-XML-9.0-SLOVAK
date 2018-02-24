@@ -9,6 +9,8 @@
   <string name="btn_install">Inštalovať novú verziu</string>
   <string name="btn_no">Zrušiť</string>
   <string name="btn_ok">OK</string>
+  <string name="btn_pause">Zastaviť</string>
+  <string name="btn_stop">Ukončiť</string>
   <string name="btn_share">Zdieľať</string>
   <string name="btn_yes">Áno</string>
   <string name="check_new_version">Skontrolovať</string>
