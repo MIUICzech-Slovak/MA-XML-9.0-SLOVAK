@@ -120,7 +120,7 @@
   <string name="keyguard_quick_charging_info_click_to_detail">Zobraziť podrobnosti</string>
   <string name="keyguard_quickly_charging_info_charging_text">Rýchlonabíjanie</string>
   <string name="keyguard_torch_cover_text">Pre dlhšie svietenie stlačte tlačidlo zapínania.</string>
-  <string name="left_action_default_hint_text">MiRemote</string>
+  <string name="left_action_default_hint_text">skratky</string>
   <string name="lock_screen_date">EE, dd.MM.yyyy</string>
   <string name="lock_screen_date_12">EE, dd.MM.</string>
   <string name="lock_wallpaper_enter">Otvoriť</string>
@@ -144,7 +144,7 @@
   <string name="missed_call_text">Zmeškané hovory: %d</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Odomknuté s Bluetooth</string>
   <string name="open_camera_hint_text">Potiahnite doľava pre Fotoaparát</string>
-  <string name="open_remote_center_hint_text">Potiahnite doprava pre MiRemote</string>
+  <string name="open_remote_center_hint_text">Potiahnite doprava pre skratky</string>
   <string name="open_wifi_settings">Nastavenia siete</string>
   <string name="phone_locked_foget_password">Zabudli ste heslo?</string>
   <string name="phone_locked_foget_password_content">"Môžete sa prihlásiť na i.mi.com svojim Mi účtom ktorý je prepojený s týmto zariadením a vymazať vaše dáta. Všetky vaše dáta v tomto zariadení budú vymazané. Potom môžete reštartovať zariadenie a obnoviť vaše kontakty, SMS, fotografie z Mi Cloud ak ste mali povolenú synchronizáciu. 
