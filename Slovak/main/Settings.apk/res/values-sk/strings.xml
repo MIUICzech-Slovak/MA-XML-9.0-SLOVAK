@@ -5108,4 +5108,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="privacy_authorize_revoking">Zakázanie autorizácie...</string>
   <string name="privacy_authorize_success">Autorizácia povolená</string>
   <string name="privacy_authorize_title">Povolenie autorizácie</string>
+  <string name="tether_auto_disable_summary">Automaticky ukončiť hot-spot ak nie sú pripojené zariadenia</string>
+  <string name="tether_auto_disable_title">Automaticky ukončiť hot-spot</string>
+  <string name="use_personalized_ad_service_summary">V našej ROM or miuios.cz sú systémové reklamy blokované.</string>
 </resources>
