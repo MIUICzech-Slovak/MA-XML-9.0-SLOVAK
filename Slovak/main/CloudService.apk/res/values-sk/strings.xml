@@ -564,4 +564,17 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
   <string name="micloud_alert_dialog_negative">Zrušiť</string>
   <string name="micloud_alert_dialog_positive">OK</string>
   <string name="micloud_main_head_menu_finddevice_unavailable">Vyhľadávanie zariadenia nie je dostupné v Druhom profile.</string>
+  <string name="find_device_gdpr_prompt">Povolením služby Vyhľadávanie zariadenia, súhlasíte s \"Ochranou súkromia\". Ak potrebujete zakázať autorizáciu, deaktivujte túto službu.</string>
+  <string name="find_device_gdpr_prompt_policy_doc_name">\"Ochrana súkromia\"</string>
+  <string name="micloud_notif_content_privacy_reopen_failed">Zobraziť podrobnosti</string>
+  <string name="micloud_notif_title_privacy_reopen_failed">Nebolo možné spustiť cloudové služby</string>
+  <string name="micloud_privacy_cloud_off">Synchr. vyp.</string>
+  <string name="micloud_privacy_cloud_sync">Aktivovať MiCloud</string>
+  <string name="micloud_privacy_explanation">Aktivovať MiCloud po povolení autorizácie</string>
+  <string name="micloud_privacy_licence_agreed">Súhlasíte s MiCloud ochranou súkromia.</string>
+  <string name="micloud_privacy_licence_privacy_policy">ochrana súkromia</string>
+  <string name="micloud_privacy_more">viac</string>
+  <string name="micloud_privacy_warning_button">Späť</string>
+  <string name="micloud_privacy_warning_content">Nie je možné aktivovať MiCloud. Skúste to neskôr.</string>
+  <string name="micloud_privacy_warning_title">Informácia</string>
 </resources>

@@ -712,4 +712,5 @@ Pokus: %s."</string>
   <string name="dialog_message_sms_report">SPAM SMS a informácie o dosielateľovi budú odoslané Xiaomi pre ďalšiu analýzu.</string>
   <string name="pref_title_allow_upload_message_info">Odoslať SPAM SMS</string>
   <string name="sms_report">Nahlásiť SPAM SMS</string>
+  <string name="select_phone_number">Vyberte telefónné čislo</string>
 </resources>

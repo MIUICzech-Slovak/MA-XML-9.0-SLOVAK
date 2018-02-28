@@ -404,4 +404,10 @@
   <string name="agenda_assistant_allday">Celý deň</string>
   <string name="card_title_empty_agenda">Žiadne udalosti</string>
   <string name="card_title_empty_note">Žiadne poznámky</string>
+  <string name="card_expand_note_clear">Vymazať</string>
+  <string name="card_expand_note_toast_clear_null">Vymazané</string>
+  <string name="card_expand_note_dialog_message">Nová poznámka je vytvorená vždy keď stlačíte tlačidlo \"Uložiť\".</string>
+  <string name="card_expand_note_dialog_title">Uloženie poznámky</string>
+  <string name="card_expand_note_toast_save_done">Uložené do Poznámok</string>
+  <string name="card_expand_note_toast_save_dup">Uložené</string>
 </resources>

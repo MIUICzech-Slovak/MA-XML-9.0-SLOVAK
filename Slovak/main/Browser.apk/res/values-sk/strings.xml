@@ -969,4 +969,5 @@ Chcete opustiť túto web stránku?"</string>
   <string name="sync_and_backup_history">Synchr. a zálohovať históriu</string>
   <string name="temp_refuse">Odmietnuť</string>
   <string name="contextmenu_manually_block_ad">Označiť ako reklamu</string>
+  <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">Nebolo možné otvoriť súbor. Skontrolujte povolenia pre prístup k úložisku.</string>
 </resources>
