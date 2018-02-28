@@ -410,4 +410,5 @@
   <string name="card_expand_note_dialog_title">Uloženie poznámky</string>
   <string name="card_expand_note_toast_save_done">Uložené do Poznámok</string>
   <string name="card_expand_note_toast_save_dup">Uložené</string>
+  <string name="card_expand_note_dialog_button">Rozumiem</string>
 </resources>
