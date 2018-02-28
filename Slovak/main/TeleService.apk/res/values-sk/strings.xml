@@ -1701,10 +1701,9 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
   <string name="vice_slot_volte_data_switch_prompt">Počas VoLTE hovorov, zariadenie bude pripojené k mobilným dátam cez druhú SIM kartu. Môže to navýšiť vaše poplatky u operátora.</string>
   <string name="vice_slot_volte_data_switch_summary">Počas VoLTE hovorov, zariadenie bude pripojené k mobilným dátam cez druhú SIM kartu</string>
   <string name="vice_slot_volte_data_switch_title">Používať mobilné dáta počas hovoru cez VoLTE na druhej SIM</string>
-  <string name="close">Turn off</string>
-+  <string name="prompt_to_turnoff_volte_when_failed">VoLTE nie je dostupné. Vypnite VoLTE aby ste mohli volať.</string>
-+  <string name="prompt_to_turnoff_volte_when_supp_service">Služba nie je dostupná. Vypnite VoLTE v Nastaveniach.</string>
-+  <string name="prompt_when_turnon_volte_without_lte">LTE sieť nie je momentálne dostupná. Povolenie VoLTE môže spôsobiť problémy s volaním.</string>
+  <string name="prompt_to_turnoff_volte_when_failed">VoLTE nie je dostupné. Vypnite VoLTE aby ste mohli volať.</string>
+  <string name="prompt_to_turnoff_volte_when_supp_service">Služba nie je dostupná. Vypnite VoLTE v Nastaveniach.</string>
+  <string name="prompt_when_turnon_volte_without_lte">LTE sieť nie je momentálne dostupná. Povolenie VoLTE môže spôsobiť problémy s volaním.</string>
   <string name="volte_switch_summary2">Overte si, že váš operátor podporuje VoLTE predtým ako ho povolíte. Môže to ovplyvniť bežné hovory.</string>
   <string name="volte_tips_when_turn_on">VoLTE služby sú dostupné len v pokrytí LTE.</string>
 </resources>
