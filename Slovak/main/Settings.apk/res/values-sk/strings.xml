@@ -3357,7 +3357,6 @@ Ako funkciu použiť:
   <string name="security_encryption_attention_3">Budete musieť nastaviť nové heslo.</string>
   <string name="security_encryption_attention_4">Uistite sa, že si budete pamätať vaše heslo, inak bude nutné kompletné vymazanie zariadenia.</string>
   <string name="security_encryption_attention_info">Môžete zašifrovať účty, nastavenia, stiahnuté aplikácie a ich dáta, média, a ostatné súbory.</string>
-  <string name="security_encryption_attention_symbol">•</string>
   <string name="security_encryption_attention_title">Dôležité upozornenie</string>
   <string name="security_encryption_close_dialog_info">Ak nezašifrujete svoje zariadenie, niektoré Google služby môžu byť nedostupné (napr. Google NFC Platby).</string>
   <string name="security_encryption_close_dialog_title">Vrátiť na predvolené zabezpečenie</string>
