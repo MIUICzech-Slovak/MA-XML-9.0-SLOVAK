@@ -423,10 +423,10 @@ a zvýrazniť osobu na fotografii"</string>
   <string name="pref_video_focusmode_entry_auto">Dotykom</string>
   <string name="pref_video_focusmode_entry_continuous">Kontinuálne ostrenie</string>
   <string name="pref_video_focusmode_title">Režim ostrenia</string>
-  <string name="pref_video_quality_entry_1080p">1080p</string>
-  <string name="pref_video_quality_entry_480p">480p</string>
-  <string name="pref_video_quality_entry_4kuhd">4K</string>
-  <string name="pref_video_quality_entry_720p">720p</string>
+  <string name="pref_video_quality_entry_1080p">FHD 1080p</string>
+  <string name="pref_video_quality_entry_480p">SD 480p</string>
+  <string name="pref_video_quality_entry_4kuhd">UHD 4K</string>
+  <string name="pref_video_quality_entry_720p">HD 720p</string>
   <string name="pref_video_quality_entry_fwvga">FWVGA</string>
   <string name="pref_video_quality_entry_vga">VGA</string>
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
@@ -544,4 +544,18 @@ a zvýrazniť osobu na fotografii"</string>
      <string name="video_effect_entry_polaroid">Polaroid</string>
      <string name="hint_device_water_mark">Vodoznak bude pridaný automaticky.</string>
      <string name="pref_camera_device_watermark_title">Vodoznak</string>
+  <string name="config_name_super_resolution">Super rozlíšenie</string>
+  <string name="pref_ai_detect">AI detekcia</string>
+  <string name="pref_camera_ai_scene_title">AI scéna</string>
+  <string name="pref_camera_beauty">Skrášliť</string>
+  <string name="pref_camera_dual_enable_title">Povoliť duálny fotoaparát</string>
+  <string name="pref_camera_dual_sat_enable_title">Povoliť duálny SAT fotoaparát</string>
+  <string name="pref_camera_front_ai_scene_entry_off">Vypnúť</string>
+  <string name="pref_camera_front_ai_scene_entry_on">AI scéna</string>
+  <string name="pref_camera_mfnr_sat_enable_title">Povoliť MFNR</string>
+  <string name="pref_camera_optimized_flash_enable_title">Optimalizovať blesk</string>
+  <string name="pref_video_focusmode_entry_auto">Dotykom</string>
+  <string name="pref_video_focusmode_entry_continuous">Kontinuálne</string>
+  <string name="pref_video_focusmode_title">Režim ostrenia</string>
+  <string name="pref_video_hfr_title">Video HFR</string>
 </resources>

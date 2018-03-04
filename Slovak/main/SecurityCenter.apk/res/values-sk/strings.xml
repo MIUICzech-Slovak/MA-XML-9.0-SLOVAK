@@ -2772,4 +2772,15 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="ac_post_notification_contentTitle">Povoliť Zámok aplikácií</string>
   <string name="ac_pre_notification_contentText">Chráňte vaše osobné informácie</string>
   <string name="ac_pre_notification_contentTitle">Vyskúšajte Zámok aplikácií</string>
+  <string name="data_usage_mobile_dialog_title">Spotrebovali ste 5GB mobilných dát. MIUI deaktivovalo mobilné dáta.</string>
+  <string name="data_usage_protected_dialog_message">MIUI deaktivovalo mobilné dáta pre vašu ochranu pred navýšením poplatkov.</string>
+  <string name="data_usage_protected_notify_message">MIUI deaktivovalo mobilné dáta pre vašu ochranu pred navýšením poplatkov.</string>
+  <string name="data_usage_protected_notify_title">Spotrebovali ste 5GB mobilných dát.</string>
+  <string name="dialog_restrict_all_mobile_summary">%s pripojenie mobilných dát bude zakázané pre všetky aplikácie.</string>
+  <string name="dialog_restrict_all_mobile_title">Zakázať %s mobilné dáta</string>
+  <string name="dialog_restrict_all_wlan_summary">Wi-Fi pripojenie bude zakázané pre všetky aplikácie.</string>
+  <string name="dialog_restrict_all_wlan_title">Zakázať Wi-Fi pripojenie</string>
+  <string name="dialog_restrict_negative">Zakázať</string>
+  <string name="dialog_restrict_positive">Zrušiť</string>
+  <string name="gdpr_msg">Pre používanie bezpečnostných funkcií musíte súhlasiť, že Xiaomi bude zhromažďovať, spracovávať a používať vaše osobné dáta.</string>
 </resources>

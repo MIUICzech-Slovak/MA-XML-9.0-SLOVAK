@@ -89,14 +89,17 @@
     <string-array name="date_of_traffic">
         <item>Včera\u0020</item>
         <item>Dnes\u0020</item>
-        <item>Mesiac\u0020</item>
+        <item>Minulý mesiac\u0020</item>
+        <item>Tento mesiac\u0020</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Včera 2G/3G\u0020</item>
         <item>Dnes 2G/3G\u0020</item>
+        <item>Minulý mesiac 2G/3G\u0020</item>
         <item>Tento mesiac 2G/3G\u0020</item>
         <item>Včera Wi-Fi\u0020</item>
         <item>Dnes Wi-Fi\u0020</item>
+        <item>Minulý mesiac Wi-Fi\u0020</item>
         <item>Tento mesiac Wi-Fi\u0020</item>
     </string-array>
     <string-array name="date_of_app">
@@ -128,7 +131,8 @@
     <string-array name="date_of_traffic_prefix">
         <item>Včera\u0020</item>
         <item>Dnes\u0020</item>
-        <item>Mesiac\u0020</item>
+        <item>Minulý mesiac\u0020</item>
+        <item>Tento mesiac\u0020</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Mobilné dáta "</item>
@@ -151,6 +155,7 @@
     <string-array name="date_of_traffic_prefix_cmcc">
          <item>"Tento týždeň: "</item>
          <item>"Dnes: "</item>
+         <item>"Minulý mesiac: "</item>
          <item>"Tento mesiac: "</item>
     </string-array>
     <string-array name="date_of_traffic_cmcc">

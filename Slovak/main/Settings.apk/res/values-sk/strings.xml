@@ -5112,4 +5112,11 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="use_personalized_ad_service_summary">V našej ROM od miuios.cz sú systémové reklamy blokované.</string>
   <string name="night_light_color_tip">Zmeny budú aplikované po deaktivovaní Čítacieho režimu</string>
   <string name="night_light_tip">Zmeny budú aplikované po aktivácií Čítacieho režimu</string>
+  <string name="fingerprint_payment">Platby odtlačkom prsta</string>
+  <string name="secondspace_category">Druhý profil</string>
+  <string name="secondspace_delete_space_title">Vymazať Druhý profil</string>
+  <string name="privacy_authorize_cloud_msg">Pre zaistenie bezpečnosti vášho účtu sa prihláste na i.mi.com ak chcete odmietnuť autorizáciu pre služby MiCloud.</string>
+  <string name="wfd_status_dialog_disconnect">Odpojiť</string>
+  <string name="wfd_status_dialog_message">Obsah displeja sa zobrazí na vzdialenej obrazovke prostredníctvom Wi-fi pripojenia</string>
+  <string name="wfd_status_dialog_title">Bezdrôtový displej</string>
 </resources>

@@ -175,4 +175,6 @@ Zadajte vaše mesto manuálne"</string>
   <string name="updating">Aktualizácia..</string>
   <string name="information_settings_title">Info o Počasí</string>
   <string name="other_settings">Ostatné nastavenia</string>
++  <string name="china_version_first_start_network_msg">Používaním tejto aplikácie súhlasíte s Xiaomi %1$s a %2$s. Táto aplikácia využíva pripojenie na internet.</string>
++  <string name="international_version_first_start_network_msg">Používaním tejto aplikácie súhlasíte s Xiaomi %1$s a %2$s. Táto aplikácia využíva pripojenie na internet.</string>
 </resources>
