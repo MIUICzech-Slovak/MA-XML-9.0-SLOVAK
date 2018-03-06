@@ -2783,4 +2783,15 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="dialog_restrict_negative">Zakázať</string>
   <string name="dialog_restrict_positive">Zrušiť</string>
   <string name="gdpr_msg">Pre používanie bezpečnostných funkcií musíte súhlasiť, že Xiaomi bude zhromažďovať, spracovávať a používať vaše osobné dáta.</string>
+  <string name="dlg_sec_network_unavailable">Aplikácia Optimalizácia sa nemôže aktualizovať z dôvodu zakázaného internetového pripojenia. Chcete povoliť internetové pripojenie?</string>
+  <string name="dlg_update_btn_contiue">Pokračovať</string>
+  <string name="dlg_update_btn_open">Povoliť</string>
+  <string name="dlg_update_data_content">Nie ste pripojený na Wi-Fi. Používanie mobilných dát môže navýšiť vaše poplatky. Pokračovať?</string>
+  <string name="dlg_update_date_title">Upozornenie</string>
+  <string name="dlg_update_updating">Aktualizácia...</string>
+  <string name="sms_smart_engine_update_now">Aktualizovať</string>
+  <string name="toast_update_fail">Nebolo možné aktualizovať</string>
+  <string name="toast_update_nonetwork">Nebolo možné pripojiť sa k sieti</string>
+  <string name="toast_update_notneed">Aktuálne</string>
+  <string name="toast_update_success">Aktualizované</string>
 </resources>

@@ -970,4 +970,13 @@ Chcete opustiť túto web stránku?"</string>
   <string name="temp_refuse">Odmietnuť</string>
   <string name="contextmenu_manually_block_ad">Označiť ako reklamu</string>
   <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">Nebolo možné otvoriť súbor. Skontrolujte povolenia pre prístup k úložisku.</string>
+  <string name="action_menu_download">Stiahnuť</string>
+  <string name="action_menu_text_readmode">Čítací režim</string>
+  <string name="close">Zatvoriť</string>
+  <string name="enter_the_group_name">Zadajte názov skupiny</string>
+  <string name="enter_the_password">Zadajte heslo</string>
+  <string name="enter_the_user_name">Zadajte meno užívateľa</string>
+  <string name="save_to_bookmark">Uložiť do záložiek</string>
+  <string name="storage_close">Zatvoriť</string>
+  <string name="storage_open">Otvoriť</string>
 </resources>
