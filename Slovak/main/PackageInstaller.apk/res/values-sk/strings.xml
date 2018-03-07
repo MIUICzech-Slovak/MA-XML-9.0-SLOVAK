@@ -297,7 +297,6 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="lb_search_bar_hint_speech">Hovorením spustíte vyhľadávanie</string>
   <string name="lb_search_bar_hint_with_title">Vyhľadať výraz %1$s</string>
   <string name="lb_search_bar_hint_with_title_speech">Hovorte na vyhľadávanie v kontexte %1$s</string>
-  <string name="lb_time_separator">:</string>
   <string name="legacy_dhcp_client_summary">Use the DHCP client from Lollipop instead of the new Android DHCP client.</string>
   <string name="lift_ban">Odblokovať</string>
   <string name="lift_ban_once">Povoliť raz</string>
