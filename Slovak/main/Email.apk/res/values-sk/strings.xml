@@ -926,4 +926,6 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="auto_login_fail">Automatické prihlásenie zlyhalo</string>
   <string name="auto_login_fail_to_retry">Automatické prihlásenie zlyhalo, skúste to znova.</string>
   <string name="retry_login">Prihláste sa znova</string>
+  <string name="see_more_content">Zobraziť viac</string>
+  <string name="signature_black_shark">Odoslané z môjho Blackshark telefónu</string>
 </resources>

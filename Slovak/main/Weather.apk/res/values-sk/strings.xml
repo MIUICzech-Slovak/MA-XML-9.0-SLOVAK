@@ -28,7 +28,7 @@
   <string name="button_abandon">Zrušiť zmeny</string>
   <string name="button_add_city">Pridať mesto</string>
   <string name="button_allow">Potvrdiť</string>
-  <string name="button_confirm">Povoliť</string>
+  <string name="button_confirm">Súhlasím</string>
   <string name="button_exit">Ukončiť</string>
   <string name="button_not_allow">Zrušiť</string>
   <string name="button_sure_abandon">Zrušiť zmeny?</string>
@@ -36,7 +36,7 @@
   <string name="city_exceeded_warning">Môžete pridať max. 10 miest</string>
   <string name="close">Zatvoriť</string>
   <string name="common_loading_text">Načítavanie...</string>
-  <string name="connect_fail">Network connection is abnormal. Please try again later.</string>
+  <string name="connect_fail">Nestabilné internetové pripojenie. Skúste to znova.</string>
   <string name="content_desc_activity_main_add_city">Pridať mesto</string>
   <string name="content_desc_activity_main_add_city_manage">Správa miest</string>
   <string name="content_desc_activity_main_more_settings">Viac nastavení</string>
@@ -177,4 +177,16 @@ Zadajte vaše mesto manuálne"</string>
   <string name="other_settings">Ostatné nastavenia</string>
   <string name="china_version_first_start_network_msg">Používaním tejto aplikácie súhlasíte s Xiaomi %1$s a %2$s. Táto aplikácia využíva pripojenie na internet.</string>
   <string name="international_version_first_start_network_msg">Používaním tejto aplikácie súhlasíte s Xiaomi %1$s a %2$s. Táto aplikácia využíva pripojenie na internet.</string>
+  <string name="button_settings_cancel">Zrušiť</string>
+  <string name="button_settings_confirm">Odmietnuť</string>
+  <string name="button_settings_confirm_to_revoke_msg">Ak odmietnete autorizáciu, aplikácia Počasie nebude fungovať správne.</string>
+  <string name="button_settings_confirm_to_revoke_title">Odmietnuť autorizáciu?</string>
+  <string name="eu_region_version_first_start_network_msg">Používaním tejto aplikácie súhlasíte, že Xiaomi bude používať vaše osobné dáta, spracovávať ich a zhromažďovať, vašu polohu a iné dáta špecifikované v Podmienkach používania. Tlačidlom \"Súhlasím\", súhlasíte s Xiaomi %1$s a %2$s.</string>
+  <string name="policy_settings">Podmienkami používania</string>
+  <string name="privacy_grant_failed">Nebolo možné získať autorizáciu. Skúste to znova neskôr.</string>
+  <string name="privacy_grant_or_revoke_settings">Získavanie autorizácie</string>
+  <string name="privacy_grant_success">Autorizácia získaná</string>
+  <string name="privacy_revoke_failed">Nebolo možné odmietnuť autorizáciu. Skúste to znova neskôr.</string>
+  <string name="privacy_revoke_success">Autorizácia odmietnutá</string>
+  <string name="privacy_settings">Ochranou súkromia</string>
 </resources>

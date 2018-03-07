@@ -595,4 +595,5 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
   <string name="ks_update_fail_request_timeout">Požiadavka na pripojenie vypršala. Skúste to znova neskôr.</string>
   <string name="ks_update_success">Aktualizované</string>
   <string name="ks_update_wait">Načítavanie...</string>
+  <string name="micloud_privacy_progress_content">Získavanie autorizácie...</string>
 </resources>

@@ -186,9 +186,10 @@
   <string name="face_unlock_reenter_title">Nastavte vašu tvár znova.</string>
   <string name="keyguard_left_view_lock_wallpaper">Hudba</string>
   <string name="change_to_ac_charging">Prepnúť na bezdrôtové nabíjanie</string>
-  <string name="reset_device_detail_tip">Bezdrôtové nabíjanie, vyrovnajte zariadenie pre čo najrýchlejšie nabitie.</string>
+  <string name="reset_device_detail_tip">Položte vaše zariadenie na nabíjačku správne pre čo najrýchlejšie nabíjanie.</string>
   <string name="reset_device_tip">Pomalé nabíjanie, zmeňte pozíciu zariadenia</string>
   <string name="wireless_charge_dialog_cancel">Zrušiť</string>
   <string name="wireless_charge_dialog_title">Mimo pozície, posuňte zariadenie</string>
   <string name="wireless_charge_stop">Bezdrôtové nabíjanie sa zastavilo</string>
+  <string name="wireless_current_charge">Nabíjanie</string>
 </resources>
