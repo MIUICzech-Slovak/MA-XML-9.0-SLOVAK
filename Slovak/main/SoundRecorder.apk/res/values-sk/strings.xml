@@ -154,4 +154,5 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="content_desc_edit_city_manage">Spravovať mestá</string>
   <string name="minute_rain">Minútová predpoveď</string>
   <string name="missing_required_permission">Zakázali ste požadované povolenia.</string>
+  <string name="dialog_privacy_revoke_tips">Po odmietnutí autorizácie, aplikácia prestane zhromažďovať vaše dáta a všetky dáta budú vymazané zo servera. Chcete odmietnuť autorizáciu aj napriek tomu?.</string>
 </resources>
