@@ -1558,7 +1558,6 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
      <string name="preferred_network_mode_lte_cdma_summary">Preferovaný režim siete: LTE / CDMA</string>
      <string name="preferred_network_mode_lte_gsm_umts_summary">Uprednostňovaný režim siete: LTE / GSM / UMTS</string>
      <string name="preferred_network_mode_tdscdma_summary">Preferovaný režim siete: TDSCDMA</string>
-     <string name="process_kernel_label">OS Android</string>
      <string name="radio_off_during_emergency_call">Počas tiesňového volania sa nedá zapnúť režim v lietadle.</string>
      <string name="remaining_length_format">Zostáva %1$s</string>
      <string name="retail_demo_reset_message">Zadajte heslo na obnovenie továrenských nastavení v režime ukážky</string>

@@ -96,7 +96,6 @@
   <string name="date_time_picker_dialog_title">Nastavte dátum a čas</string>
   <string name="deselect_all">Odznačiť všetko</string>
   <string name="early_morning">AM</string>
-  <string name="empty"/>
   <string name="eras_ad">AD</string>
   <string name="eras_bc">BC</string>
   <string name="error_forbidden">Problémy s vašim účtom: synchr. deaktivovaná.</string>

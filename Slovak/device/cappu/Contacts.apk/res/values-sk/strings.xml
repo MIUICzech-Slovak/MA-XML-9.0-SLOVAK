@@ -470,7 +470,6 @@ Chyba: \"%s\""</string>
   <string name="keep_local">Miestny</string>
   <string name="keep_local_btn">Uložiť len do telefónu</string>
   <string name="label_custom_type">Vlastné</string>
-  <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Gratulujem! Nemáte žiadne duplicitné kontakty</string>
   <string name="label_notes">Poznámky</string>
   <string name="label_sip_address">Internetový telefón (SIP)</string>
@@ -696,7 +695,6 @@ Synchronizujte ich teraz."</string>
   <string name="peace_day"/>
   <string name="people">Kontakty</string>
   <string name="phoneLabelsGroup">Telefón</string>
-  <string name="phone_info_divider">"  |  "</string>
   <string name="phone_primary">Primárny</string>
   <string name="photoPickerNotFoundText">V telefóne nie sú k dispozícii žiadne obrázky.</string>
   <string name="photo_package_activity_title">Balíček fotiek</string>

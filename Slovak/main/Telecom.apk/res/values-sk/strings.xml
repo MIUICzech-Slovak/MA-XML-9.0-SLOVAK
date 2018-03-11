@@ -297,7 +297,6 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
      <string name="power_remaining_charging_duration_only">Zostávajúci čas do úplného nabitia: %1$s</string>
      <string name="power_remaining_duration_only">Približný zostávajúci čas: %1$s</string>
      <string name="power_remaining_duration_only_short">Zostávajúci čas: %1$s</string>
-     <string name="process_kernel_label">OS Android</string>
      <string name="remaining_length_format">Zostáva %1$s</string>
      <string name="retail_demo_reset_message">Zadajte heslo na obnovenie továrenských nastavení v režime ukážky</string>
      <string name="retail_demo_reset_next">Ďalej</string>

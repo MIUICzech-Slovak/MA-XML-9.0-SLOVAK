@@ -85,7 +85,6 @@
   <string name="edit_skin_smooth">Jemné</string>
   <string name="edit_skin_white">Tón</string>
   <string name="effect_setting_top_text">Filtre</string>
-  <string name="empty">" "</string>
   <string name="error_fail_to_start_audio_capture">Záznam zvuku zlyhal.</string>
   <string name="face_age_info">Vek: %d</string>
   <string name="face_analyze_info">%1$s %2$s rokov</string>
