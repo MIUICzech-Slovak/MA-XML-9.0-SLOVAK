@@ -5118,4 +5118,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="wfd_status_dialog_disconnect">Odpojiť</string>
   <string name="wfd_status_dialog_message">Obsah displeja sa zobrazí na vzdialenej obrazovke prostredníctvom Wi-fi pripojenia</string>
   <string name="wfd_status_dialog_title">Bezdrôtový displej</string>
+  <string name="carrier_show_in_lock_screen">Zobraziť len na zamykacej obrazovke</string>
+  <string name="carrier_show_none">Nikdy nezobrazovať</string>
+  <string name="memory_system_rom">Systémové úložisko</string>
+  <string name="memory_system_space">Systémové úložisko</string>
 </resources>

@@ -596,4 +596,5 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
   <string name="ks_update_success">Aktualizované</string>
   <string name="ks_update_wait">Načítavanie...</string>
   <string name="micloud_privacy_progress_content">Získavanie autorizácie...</string>
+  <string name="micloud_web_discription_place_holder">Navštíviť %1$s</string>
 </resources>
