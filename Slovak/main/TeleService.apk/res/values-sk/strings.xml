@@ -1705,7 +1705,6 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
   <string name="prompt_when_turnon_volte_without_lte">LTE sieť nie je momentálne dostupná. Povolenie VoLTE môže spôsobiť problémy s volaním.</string>
   <string name="volte_switch_summary2">Overte si, že váš operátor podporuje VoLTE predtým ako ho povolíte. Môže to ovplyvniť bežné hovory.</string>
   <string name="volte_tips_when_turn_on">VoLTE služby sú dostupné len v pokrytí LTE.</string>
-  <string name="voicemail_notification_vibrate_when_title">Vibrovať</string>
   <string name="close_volte">Deaktivovať VoLTE</string>
   <string name="prefered_network_type_3g_promp">Pred vybraním 3G siete, by ste mali deaktivovať VoLTE. Deaktivovať teraz?</string>
   <string name="prompt_when_turnon_volte_on_3g_prefered">Pred povolením VoLTE vyberte LTE sieť.</string>
