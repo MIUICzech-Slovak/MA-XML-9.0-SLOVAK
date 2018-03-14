@@ -192,7 +192,6 @@
         <item>Frekvencia používania</item>		
         <item>Využitie úložiska</item>		
         <item>Čas inštalácie</item>		
-	<item>Možnosť odinštalovania</item>		
     </string-array>		
     <string-array name="sort_title">		
         <item>Zoradiť podľa stavu</item>		
@@ -200,7 +199,6 @@
         <item>Zoradiť podľa používania</item>		
         <item>Zoradiť podľa využitého úložiska</item>		
 	<item>Zoradiť podľa času inštalácie</item>		
-	<item>Zoradiť podľa apl. ktoré môžete odinštalovať</item>		
     </string-array>	
     <string-array name="tether_limit_warn_type">
         <item>Vypnúť a upozorniť</item>

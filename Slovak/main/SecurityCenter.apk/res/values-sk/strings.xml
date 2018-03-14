@@ -2793,4 +2793,5 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="toast_update_nonetwork">Nebolo možné pripojiť sa k sieti</string>
   <string name="toast_update_notneed">Aktuálne</string>
   <string name="toast_update_success">Aktualizované</string>
+  <string name="app_manager_uninstall">Odinštalovať</string>
 </resources>
