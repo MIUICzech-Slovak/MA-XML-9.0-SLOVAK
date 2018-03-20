@@ -167,4 +167,8 @@
         <item quantity="other">Počkajte aspoň %ds a skúste to znova.</item>
         <item quantity="one">Počkajte aspoň %ds a skúste to znova.</item>
     </plurals>	
+    <plurals name="print_jobs_summary">
+        <item quantity="other">%1$d tlačových úloh</item>
+        <item quantity="one">1 tlačová úloha</item>
+    </plurals>
 </resources>

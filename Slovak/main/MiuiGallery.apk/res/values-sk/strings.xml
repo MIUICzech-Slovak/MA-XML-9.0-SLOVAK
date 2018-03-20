@@ -1269,4 +1269,7 @@
   <string name="mark_operation_processing">Spracovávanie...</string>
   <string name="mark_operation_succeeded">Pridané</string>
   <string name="mark_people_ignore_info_message">Podržte prst na fotografiách ľudí pre pridanie do skupiny</string>
+  <string name="storage_description_primary">Interné úložisko</string>
+  <string name="storage_description_sdcard">SD karta</string>
+  <string name="storage_description_xspace">Klonovaná aplikácia</string>
 </resources>

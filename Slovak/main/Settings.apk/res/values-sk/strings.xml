@@ -5122,4 +5122,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="carrier_show_none">Nikdy nezobrazovať</string>
   <string name="memory_system_rom">Systémové úložisko</string>
   <string name="memory_system_space">Systémové úložisko</string>
+  <string name="key_operation_diagram">Operačný diagram</string>
+  <string name="provision_activation">Aktívne</string>
 </resources>
