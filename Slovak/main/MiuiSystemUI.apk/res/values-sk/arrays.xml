@@ -28,15 +28,6 @@
         <item>Blokované</item>
         <item>Dočasne nedostupná kvôli slabému signálu</item>
     </string-array>
-    <string-array name="aqi_title_prefix">
-        <item> </item>
-        <item> </item>
-        <item> </item>
-        <item> </item>
-        <item> </item>
-        <item> </item>
-        <item> </item>
-    </string-array>
     <string-array name="weather_type">
         <item>Jasno</item>
         <item>Oblačno</item>
