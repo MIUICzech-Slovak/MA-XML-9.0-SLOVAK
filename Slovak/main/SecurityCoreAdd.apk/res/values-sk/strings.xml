@@ -356,4 +356,11 @@ Ak neaktualizujete, aplikácie v Druhom profile nemusia fungovať správne."</st
   <string name="space_create_guide_title_1">Ochrana vášho súkromia</string>
   <string name="space_create_guide_title_2">Kedykoľvek môžete vytvoriť</string>
   <string name="space_create_guide_title_3">Bez rizika</string>
+  <string name="encrypt_space_delete_dialog_click_message">Ak nepotrebujete presunúť dáta, %s</string>
+  <string name="encrypt_space_delete_dialog_click_message_action">vymažte a vytvorte Druhý profil znova.</string>
+  <string name="encrypt_space_delete_dialog_message">Chystáte sa aktualizovať Android. Po aktualizácií, dáta v Druhom profile nebudú kompatibilné. Presuňte dáta z Druhého profilu do Prvého profilu, vymažte Druhý profil a vytvorte ho znova.</string>
+  <string name="encrypt_space_delete_dialog_positive_text">Presunúť dáta</string>
+  <string name="encrypt_space_delete_dialog_title">Upozornenie</string>
+  <string name="encrypt_space_delete_notification_message">Vymažte Druhý profil a vytvorte ho znova.</string>
+  <string name="encrypt_space_delete_notification_title">Druhý profil</string>
 </resources>

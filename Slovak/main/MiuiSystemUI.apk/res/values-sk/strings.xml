@@ -473,4 +473,5 @@ posunutím nadol uzamknete"</string>
   <string name="prompt_return_to_split">Rozdeliť</string>
   <string name="prompt_safe">Bezpečné</string>
   <string name="prompt_unknown">Neznáme</string>
+  <string name="click_to_return_multi_window_of_notch">Naspäť na Rozdelenie obrazovky</string>
 </resources>

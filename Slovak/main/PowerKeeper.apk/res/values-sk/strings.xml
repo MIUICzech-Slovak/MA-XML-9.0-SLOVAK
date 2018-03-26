@@ -231,4 +231,11 @@
   <string name="power_usage">Využitie výkonu</string>
   <string name="sleep_config_enhance_description_non_nfc">Ak MIUI zistí, že ste zaspali, ukončí aplikácie na pozadí, obmedzí Bluetooth, GPS, mobilné dáta W-Fi, a nebude sa rozsviecovať displej pri nových upozorneniach.</string>
   <string name="search_result_text">Nič sa nenašlo</string>
+  <string name="enable_sleep_mode">Povolenie režimu spánku pre optimalizáciu spotreby v noci</string>
+  <string name="power_consume_abnormal_night">Nezvyčajná spotreba počas noci</string>
+  <string name="sleepmode_disclaimer_agree">Súhlasím</string>
+  <string name="sleepmode_disclaimer_cancel">Zrušiť</string>
+  <string name="sleepmode_privacy_content">Táto funkcia bude využívať informácie o zariadení, ktoré nebudú nikam odosielané.</string>
+  <string name="sleepmode_privacy_link">Podrobné podmienky používania</string>
+  <string name="sleepmode_privacy_title">režim spánku</string>
 </resources>
