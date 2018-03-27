@@ -5206,4 +5206,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="tether_over_limit_warning_notify_message">Vypnúť hot-spot.</string>
   <string name="tether_over_limit_warning_notify_title">Dosiahli ste limit dát hot-spotu</string>
   <string name="traffic_none">Žiadne</string>
+  <string name="lockscreen_magazine_summary">Tapety vo vysokej kvalite</string>
+  <string name="pick_up_gesture_wakeup_title">Vyberte gesto prebudenia</string>
+  <string name="screen_paper_mode_hdr_toast">Čítací režim bude deaktivovaný počas prehrávania HDR videí. Po skončení prehrávania sa opäť automaticky aktivuje.</string>
 </resources>
