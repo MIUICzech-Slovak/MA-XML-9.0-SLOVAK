@@ -363,4 +363,9 @@ Ak neaktualizujete, aplikácie v Druhom profile nemusia fungovať správne."</st
   <string name="encrypt_space_delete_dialog_title">Upozornenie</string>
   <string name="encrypt_space_delete_notification_message">Vymažte Druhý profil a vytvorte ho znova.</string>
   <string name="encrypt_space_delete_notification_title">Druhý profil</string>
+  <string name="entrance_reopen_toast_msg">Zobrazuje sa odkaz na Druhý profil z dôvodu iného hesla</string>
+  <string name="reset_password_dialog_message">Používate iný typ hesla pre Prvý a druhý profil. Druhý profil by mal používať rovnaké heslo ako na Prvom profile.</string>
+  <string name="reset_password_dialog_positve_btn_title">Zmeniť</string>
+  <string name="reset_password_dialog_title">Nie je možné skryť odkaz na Druhý profil</string>
+  <string name="xspace_install_completed_global">Ikona pridaná na plochu</string>
 </resources>

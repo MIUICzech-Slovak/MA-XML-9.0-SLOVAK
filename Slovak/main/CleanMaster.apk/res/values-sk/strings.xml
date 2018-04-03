@@ -476,4 +476,17 @@
   <string name="auto_clean_time_three_day">Každé 3 dni</string>
   <string name="wechat_qq_deep_clean_button_text">Hlboké čistenie</string>
   <string name="wechat_qq_activity_title">Hlboké čistenie</string>
+  <string name="auto_clean_notification_content">Vyčistené %s odpadu</string>
+  <string name="auto_clean_notification_title">Upozorniť na čistenie</string>
+  <string name="auto_clean_operation_clean_and_alert">Upozorniť a vyčistiť</string>
+  <string name="auto_clean_operation_dialog_title">Spôsob čistenia</string>
+  <string name="auto_clean_operation_just_clean">Len vyčistiť</string>
+  <string name="auto_clean_trigger_dialog_title">Vyčistiť úložisko</string>
+  <string name="auto_clean_trigger_percent_eighty">Ak je obsadené 80%</string>
+  <string name="auto_clean_trigger_percent_ninety">Ak je obsadené 90%</string>
+  <string name="auto_clean_trigger_percent_sixty">Ak je obsadené 60%</string>
+  <string name="pref_category_title_auto_clean_config_settings">Automatické čistenie</string>
+  <string name="pref_title_auto_clean">Vyčistiť automaticky</string>
+  <string name="pref_title_auto_clean_operation">Spôsob čistenia</string>
+  <string name="pref_title_auto_clean_trigger">Vyčistiť úložisko</string>
 </resources>

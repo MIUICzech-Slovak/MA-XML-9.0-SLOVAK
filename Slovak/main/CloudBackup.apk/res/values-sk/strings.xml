@@ -175,4 +175,8 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="dialog_btn_restore_skip">Obnoviť neskôr</string>
   <string name="dialog_msg_restore_require_wlan">Obnovenie zálohy vyžaduje pripojenie na Wi-Fi.</string>
   <string name="dialog_title_require_wlan">Vyžaduje sa Wi-Fi</string>
+  <string name="get_device_id_error">Získanie ID zariadenia zlyhalo</string>
+  <string name="home_hint_global_launcher">Desktop Poco</string>
+  <string name="home_restore_error">Obnovenie plochy zlyhalo</string>
+  <string name="self_phone_home">Tento telefón: %s</string>
 </resources>

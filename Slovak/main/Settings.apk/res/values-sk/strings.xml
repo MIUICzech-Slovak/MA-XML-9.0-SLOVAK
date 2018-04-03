@@ -5208,4 +5208,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="traffic_none">Žiadne</string>
   <string name="lockscreen_magazine_summary">Tapety vo vysokej kvalite</string>
   <string name="screen_paper_mode_hdr_toast">Čítací režim bude deaktivovaný počas prehrávania HDR videí. Po skončení prehrávania sa opäť automaticky aktivuje.</string>
+  <string name="defalut_launcher_title">Predvolený Launcher</string>
+  <string name="default_launcher_title">Predvolený Launcher</string>
 </resources>
