@@ -5209,4 +5209,27 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="lockscreen_magazine_summary">Tapety vo vysokej kvalite</string>
   <string name="screen_paper_mode_hdr_toast">Čítací režim bude deaktivovaný počas prehrávania HDR videí. Po skončení prehrávania sa opäť automaticky aktivuje.</string>
   <string name="default_launcher_title">Predvolený Launcher</string>
+  <string name="eq_auto">Vlastný</string>
+  <string name="eq_blues">Blues</string>
+  <string name="eq_cancel">Zrušiť</string>
+  <string name="eq_classical">Klaska</string>
+  <string name="eq_country">Country</string>
+  <string name="eq_dance">Dance</string>
+  <string name="eq_delete">Odstrániť</string>
+  <string name="eq_delete_success">Hotovo</string>
+  <string name="eq_electronic">Electronic</string>
+  <string name="eq_flat">Predvolený</string>
+  <string name="eq_hiphop">Hip Hop</string>
+  <string name="eq_jazz">Jazz</string>
+  <string name="eq_metal">Metal</string>
+  <string name="eq_ok">OK</string>
+  <string name="eq_pop">Pop</string>
+  <string name="eq_preset_create">Vytvoriť</string>
+  <string name="eq_preset_format">Vlastné nastavenie %d</string>
+  <string name="eq_preset_hint">Názov efektu</string>
+  <string name="eq_preset_rename">Premenovať</string>
+  <string name="eq_preset_select">Vyberte nastavenie</string>
+  <string name="eq_rock">Rock</string>
+  <string name="equalizer">Ekvalizér</string>
+  <string name="input_hint_prefix">Zadajte %1$s</string>
 </resources>
