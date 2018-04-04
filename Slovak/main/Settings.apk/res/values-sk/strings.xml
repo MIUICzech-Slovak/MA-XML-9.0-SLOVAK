@@ -5230,6 +5230,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="eq_preset_rename">Premenovať</string>
   <string name="eq_preset_select">Vyberte nastavenie</string>
   <string name="eq_rock">Rock</string>
-  <string name="equalizer">Ekvalizér</string>
   <string name="input_hint_prefix">Zadajte %1$s</string>
 </resources>
