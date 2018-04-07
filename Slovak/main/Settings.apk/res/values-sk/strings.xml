@@ -5199,7 +5199,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="root">Root</string>
   <string name="tether_custom_dialog_title">Limit mobilných dát</string>
   <string name="tether_limit_dialog_title">Limit mobilných dát</string>
-  <string name="tether_limit_value_custom">Vlastný</string>
   <string name="tether_over_limit_dialog_cancle_btn">Obnoviť hot-spot</string>
   <string name="tether_over_limit_dialog_message">Dosiahli ste limit dát hot-spotu.</string>
   <string name="tether_over_limit_dialog_title">Upozornenie na využitie dát</string>
