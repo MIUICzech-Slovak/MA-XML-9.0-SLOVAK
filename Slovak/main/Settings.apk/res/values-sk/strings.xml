@@ -5230,4 +5230,12 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="eq_preset_select">Vyberte nastavenie</string>
   <string name="eq_rock">Rock</string>
   <string name="input_hint_prefix">Zadajte %1$s</string>
+  <string name="wireless_connected">Pripojené</string>
+  <string name="miui_touch_filtered_warning">Ak aplikácia blokuje okno pre udelenie povolenia, zatvorte aplikáciu.</string>
+  <string name="accessibility_wifi_security_type_none">Nechránená sieť</string>
+  <string name="accessibility_wifi_security_type_secured">Zabezpečená sieť</string>
+  <string name="confirm_frp_credential_message">Vaše zariadenie bolo obnovené do továrnych nastavení, môžete ho odomknúť s vašim heslom.</string>
+  <string name="confirm_frp_credential_skip_txt">POUŽIŤ GOOGLE ÚČET</string>
+  <string name="confirm_frp_credential_title">Ochrana továrnych nastavení</string>
+  <string name="wifi_tether_enabled_summary">%1$s je aktívne</string>
 </resources>

@@ -368,4 +368,8 @@ Ak neaktualizujete, aplikácie v Druhom profile nemusia fungovať správne."</st
   <string name="reset_password_dialog_positve_btn_title">Zmeniť</string>
   <string name="reset_password_dialog_title">Nie je možné skryť odkaz na Druhý profil</string>
   <string name="xspace_install_completed_global">Ikona pridaná na plochu</string>
+  <string name="remove_button">Vymazať a reštartovať</string>
+  <string name="remove_button_time">Vymazať a reštartovať (%ds)</string>
+  <string name="stop_xspace_alert_content">Vymazali ste všetky klonované aplikácie. Chcete vymazať aj účty a dáta?</string>
+  <string name="stop_xspace_alert_title">Vymazanie účtov klonovaných aplikácií</string>
 </resources>

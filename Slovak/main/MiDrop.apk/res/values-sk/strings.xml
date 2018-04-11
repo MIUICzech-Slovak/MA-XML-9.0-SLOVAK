@@ -92,4 +92,6 @@
   <string name="drive_low_memory_description_toast">Dochádza vám voľné miesto na úložisku</string>
   <string name="drive_low_memory_positive_content">Vyčistiť</string>
   <string name="source_file_missing">Súbor neexistuje</string>
+  <string name="HIPS_Perm_SystemAlert">Zobraziť vyskakovacie okno</string>
+  <string name="HIPS_Perm_show_when_locked">Zobraziť na zamknutej obrazovke</string>
 </resources>

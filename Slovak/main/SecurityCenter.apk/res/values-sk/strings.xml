@@ -2808,4 +2808,20 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="title_do_not_disturb">Nepočujete zvonenie?</string>
   <string name="title_eye_shield">Farba podsvietenia nevyzerá dobre?</string>
   <string name="title_restrict_data_usage">%s sa nemôže pripojiť k sieti?</string>
+  <string name="exit_dialog_garbage_clean_message">Množstvo nepotrebných súborov vo vašom zariadení presiahlo %s. Chcete ho vyčistiť?</string>
+  <string name="exit_dialog_garbage_clean_positive_button">Vyčistiť</string>
+  <string name="exit_dialog_garbage_clean_title">Vyčistiť odpad</string>
+  <string name="exit_dialog_release_storage_message">Viac ako 80% úložiska je obsadené. Uvoľnite miesto odinštalovaním nepotrebných aplikácií.</string>
+  <string name="exit_dialog_release_storage_positive_button">Uvoľniť miesto</string>
+  <string name="exit_dialog_release_storage_title">Uvoľnite miesto na úložisku</string>
+  <string name="exit_dialog_scan_message">Vaše skóre je menej ako 75 bodov. Chcete ho optimalizovať?</string>
+  <string name="exit_dialog_scan_positive_button">Optimalizovať</string>
+  <string name="exit_dialog_scan_title">Optimalizovať výkon</string>
+  <string name="exit_dialog_homepage_optimise_message">Vaše skóre je menej ako 80 bodov. Chcete ho optimalizovať?</string>
+  <string name="gb_msg_completely_shielded">Skryť správy</string>
+  <string name="gb_msg_completely_shielded_summary">Skryť</string>
+  <string name="gb_msg_quickly_answer">Povoliť rýchle odpovede</string>
+  <string name="gb_msg_quickly_answer_summary">Rýchle odpovede</string>
+  <string name="gb_msg_transparent_dispaly">Upozornenia s priehľadným pozadím</string>
+  <string name="gb_msg_transparent_dispaly_summary">Priehľadné</string>
 </resources>
