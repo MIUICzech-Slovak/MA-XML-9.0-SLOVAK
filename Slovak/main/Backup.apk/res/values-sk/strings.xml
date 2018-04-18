@@ -528,4 +528,16 @@ Please release at least %s"</string>
   <string name="notif_miasist_try_to_connect">MiPCSuite sa snaží pripojiť k vášmu zariadeniu</string>
   <string name="trans_switching_5g">Prepínanie na 5GHz Wi-Fi...</string>
   <string name="err_not_allow">Nie je podporované</string>
+  <string name="button_clean_garbage">Uvoľniť miesto</string>
+  <string name="button_got_it">OK</string>
+  <string name="button_quit">Ukončiť</string>
+  <string name="err_bakfile_not_exist">Zálohovaný súbor neexistuje.</string>
+  <string name="err_binder_died">Aplikácia sa neočakávane ukončila.</string>
+  <string name="err_pkg_not_exist">Nebolo možné nájsť aplikáciu.</string>
+  <string name="err_user_abort">Zrušené užívateľom.</string>
+  <string name="trans_failed_details_page_title">Neúspešné prenosy</string>
+  <string name="trans_generate_qrcode_failed">Nebolo možné vygenerovať QR kód. skúste to znova.</string>
+  <string name="trans_generating_qrcode">Generovanie QR kódu...</string>
+  <string name="trans_old_phone_low_space_msg">Prenos vyžaduje miesto na úložisku pre vytvorenie balíčku dát. Na starom zariadení nie je dostatok voľného miesta. Uvoľnite miesto alebo vyberte len dôležité aplikácie.</string>
+  <string name="trans_old_phone_low_space_title">Nie je dostatok voľného miesta</string>
 </resources>
