@@ -5258,4 +5258,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="reset_network_category">Všetky nastavenia siete budú obnovené, vrátane:</string>
   <string name="reset_network_data">Mobilné dáta</string>
   <string name="reset_network_wifi">Wi-Fi</string>
+  <string name="navigation_guide_app_summary">Potiahnite vľavo alebo vpravo z hrany v hornej časti displeja</string>
+  <string name="navigation_guide_app_title">Vyvolať akciu aplikácie</string>
 </resources>
