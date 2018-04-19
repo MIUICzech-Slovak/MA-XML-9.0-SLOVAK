@@ -474,4 +474,5 @@ posunutím nadol uzamknete"</string>
   <string name="prompt_safe">Bezpečné</string>
   <string name="prompt_unknown">Neznáme</string>
   <string name="click_to_return_multi_window_of_notch">Naspäť na Rozdelenie obrazovky</string>
+  <string name="quick_settings_disclosure_named_vpn">Pripojené k %1$s</string>
 </resources>
