@@ -467,7 +467,7 @@
   <string name="cd_list_item_collapse">zbalené</string>
   <string name="cd_list_item_expanded">rozbalené</string>
   <string name="cd_percent">percentá</string>
-  <string name="cd_settings">nasatvenia</string>
+  <string name="cd_settings">nastavenia</string>
   <string name="cd_sort_type">triediť podľa</string>  
   <string name="qq_clean_finish_summary">Vybrané súbory boli vymazané</string>
   <string name="auto_clean_time_every_day">Každý deň</string>
@@ -490,4 +490,13 @@
   <string name="pref_title_auto_clean_operation">Spôsob čistenia</string>
   <string name="pref_title_auto_clean_trigger">Vyčistiť úložisko</string>
   <string name="desc_image">obrázok</string>
+  <string name="guide_secure_dialog_message">Vaše skóre je menej ako 80 bodov. Chcete ho optimalizovať?</string>
+  <string name="guide_secure_dialog_negative">Zrušiť</string>
+  <string name="guide_secure_dialog_positive">Optimalizovať</string>
+  <string name="guide_secure_dialog_title">Optimalizovať výkon</string>
+  <string name="guide_virus_dialog_message">Kontrolovanie aplikácií chráni vaše zariadenie pred vírusmi. Chcete ich skontrolovať teraz?</string>
+  <string name="guide_virus_dialog_negative">Zrušiť</string>
+  <string name="guide_virus_dialog_positive">Skontrolovať</string>
+  <string name="guide_virus_dialog_title">Antivírus</string>
+  <string name="mainbtn_text_no_trash">Preskočiť</string>
 </resources>
