@@ -10,4 +10,8 @@
         <item>Zvuk z mikrofónu</item>
 		<item>Systémové zvuky</item>
     </string-array>
+    <string-array name="screenrecorder_settings_storage_location">
+        <item>Interné úložisko</item>
+        <item>Externé úložisko</item>
+    </string-array>
 </resources>

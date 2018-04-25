@@ -5260,4 +5260,9 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="reset_network_wifi">Wi-Fi</string>
   <string name="navigation_guide_app_summary">Potiahnite vľavo alebo vpravo z hrany v hornej časti displeja</string>
   <string name="navigation_guide_app_title">Vyvolať akciu aplikácie</string>
+  <string name="mqs_privacy_automatically_upload">Odoslať automaciky na budúce</string>
+  <string name="mqs_privacy_dialog_cancel">Zrušiť</string>
+  <string name="mqs_privacy_dialog_confirm">Odoslať</string>
+  <string name="mqs_privacy_dialog_content">Odoslať záznam o chybe?</string>
+  <string name="mqs_privacy_dialog_title">Nastala chyba</string>
 </resources>

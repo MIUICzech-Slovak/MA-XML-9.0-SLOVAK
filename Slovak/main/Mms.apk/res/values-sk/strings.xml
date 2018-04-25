@@ -490,7 +490,7 @@
   <string name="privacy_password_title4">Heslo aktualizované</string>
   <string name="private_message">Súkromné Správy</string>
   <string name="private_new_notification">Notifikácia novej správy</string>
-  <string name="private_protect">Heslo</string>
+  <string name="private_protect">Ochrana súkromia</string>
   <string name="private_settings">Nastavenie súkromia</string>
   <string name="processing">Prebieha...</string>
   <string name="prvate_contact">Súkromný kontakt</string>
@@ -713,4 +713,18 @@ Pokus: %s."</string>
   <string name="pref_title_allow_upload_message_info">Odoslať SPAM SMS</string>
   <string name="sms_report">Nahlásiť SPAM SMS</string>
   <string name="select_phone_number">Vyberte telefónné čislo</string>
+  <string name="button_emoji_creature">Zvieratká</string>
+  <string name="button_emoji_lifestyle">Život</string>
+  <string name="button_emoji_smiley">Tváre</string>
+  <string name="button_emoji_symbol">Symboly</string>
+  <string name="button_emoji_text">Textové</string>
+  <string name="button_fold">Zbaliť</string>
+  <string name="button_next_slide">Ďalej</string>
+  <string name="button_pre_slide">Predchádzajúce</string>
+  <string name="button_resend_message">Znova odoslať</string>
+  <string name="button_unfold">Rozbaliť</string>  
+  <string name="dialog_message_fake_cell_detect_error">Upraviť informácie o tejto správe? MIUI odošle číslo (%1$s), obsah správy a polohu na Xiaomi server.</string>
+  <string name="dialog_title_fake_cell_detect_error">Upraviť</string>
+  <string name="draft">Koncept</string>
+  <string name="fake_cell_alert_detect_error">Nebolo to odoslané z falošnej BTS</string>
 </resources>

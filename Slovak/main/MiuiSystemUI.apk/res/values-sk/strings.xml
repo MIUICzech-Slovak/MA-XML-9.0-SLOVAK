@@ -475,4 +475,10 @@ posunutím nadol uzamknete"</string>
   <string name="prompt_unknown">Neznáme</string>
   <string name="click_to_return_multi_window_of_notch">Naspäť na Rozdelenie obrazovky</string>
   <string name="quick_settings_disclosure_named_vpn">Pripojené k %1$s</string>
+  <string name="enter_special_mode_message">After restarting the application, the application content will be extended to the top status bar area. If there are exceptions such as content occlusion and click misplacement, you can click the button again to restore the default mode.</string>
+  <string name="enter_special_mode_title">Restart the app and expand the display space</string>
+  <string name="exit_special_mode_message">After restarting the application, the application display space will be restored to the default mode.</string>
+  <string name="exit_special_mode_title">Restart the application and restore the display space</string>
+  <string name="special_mode_cancel">Zrušiť</string>
+  <string name="special_mode_ok">Reštart</string>  
 </resources>
